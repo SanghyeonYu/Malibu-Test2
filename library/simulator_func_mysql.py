@@ -517,7 +517,7 @@ class simulator_func_mysql:
             return False
         return row[0][0]
 
-    # 실시간 주가 분석 알고리즘 함수 (느낌표 골뱅이 추가하면 검색 시 편합니다) (고급클래스에서 소개)
+    # 실시간 주가 분석 알고리즘 함수 (!@느낌표 골뱅이 추가하면 검색 시 편합니다) (고급클래스에서 소개)
     def trade_check(self, df_row, open_price, current_price, current_sum_volume):
         '''
         :param df_row: 매수 종목 리스트(realtime_daily_buy_list)

@@ -355,7 +355,7 @@ class collector_api():
             logger.debug("이미 min_craw db의 " + code_name + " 테이블에 콜렉팅 완료 했다! df_temp가 비었다!!")
 
             # 이렇게 안해주면 아래 프로세스들을 안하고 바로 넘어가기때문에 그만큼 tr 조회 하는 시간이 짧아지고 1초에 5회 이상의 조회를 할 수 가있다 따라서 비었을 경우는 sleep해줘야 안멈춘다
-            time.sleep(0.03)
+            time.sleep(0.025)
             check_item_gubun = 3
             return check_item_gubun
 
@@ -474,7 +474,7 @@ class collector_api():
             logger.debug("이미 daily_craw db의 " + code_name + " 테이블에 콜렉팅 완료 했다! df_temp가 비었다!!")
 
             # 이렇게 안해주면 아래 프로세스들을 안하고 바로 넘어가기때문에 그만큼 tr 조회 하는 시간이 짧아지고 1초에 5회 이상의 조회를 할 수 가있다 따라서 비었을 경우는 sleep해줘야 안멈춘다
-            time.sleep(0.03)
+            time.sleep(0.025)
             check_item_gubun = 3
             return check_item_gubun
 

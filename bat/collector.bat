@@ -1,7 +1,7 @@
 @Echo off
 @Echo collector Start
 set x=0
-call "C:\ProgramData\Anaconda3\Scripts\activate.bat" C:\ProgramData\Anaconda3
+call "C:\ProgramData\Anaconda3\Scripts\activate.bat" C:\Users\angbe\.conda\envs\py37_32
 @taskkill /f /im python.exe /fi "memusage gt 40" 2>NUL | findstr 성공 >NUL
 
 :repeat

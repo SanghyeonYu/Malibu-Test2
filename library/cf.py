@@ -31,13 +31,13 @@ real_daily_buy_list_db_name = "daily_buy_list"
 start_daily_buy_list='20190102'
 
 # openapi 1회 조회 시 대기 시간(0.2 보다-> 0.3이 안정적)
-TR_REQ_TIME_INTERVAL = 0.3
+TR_REQ_TIME_INTERVAL = 0.25
 
 # n회 조회를 1번 발생시킨 경우 대기 시간
 TR_REQ_TIME_INTERVAL_LONG = 1
 
 # api를 최대 몇 번까지 호출 하고 봇을 끌지 설정 하는 옵션
-max_api_call = 98
+max_api_call = 999
 
 # dart api key (고급클래스에서 소개)
 dart_api_key = ''

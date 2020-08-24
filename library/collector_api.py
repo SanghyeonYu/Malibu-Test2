@@ -12,7 +12,7 @@ import time
 from PyQt5.QtWidgets import *
 from library.daily_buy_list import *
 from pandas import DataFrame
-# from kind_crawling import *
+from kind_crawling import *
 
 MARKET_KOSPI = 0
 MARKET_KOSDAQ = 10
@@ -24,7 +24,7 @@ class collector_api():
         self.open_api = open_api()
         self.variable_setting()
         self.engine_JB = self.open_api.engine_JB
-        # self.kind = KINDCrawler()
+        self.kind = KINDCrawler()
 
     # 업데이트가 금일 제대로 끝났는지 확인
     def variable_setting(self):
@@ -84,7 +84,7 @@ class collector_api():
         if rows[0][8] != self.open_api.today:
             self.min_crawler_check()
 
-        # self.kind.craw()
+        self.kind.craw()
 
         logger.debug("collecting 작업을 모두 정상적으로 마쳤습니다.")
 
@@ -92,9 +92,9 @@ class collector_api():
         os.system("@taskkill /f /im cmd.exe")
 
         # # AI 알고리즘 적용
-        # if self.open_api.sf.use_ai:
-        #     path = pathlib.Path(__file__).parent.parent.absolute() / 'bat' / 'ai_filter.bat'
-        #     os.system(f"start {path} {self.open_api.db_name} {self.open_api.simul_num}")
+        if self.open_api.sf.use_ai:
+            path = pathlib.Path(__file__).parent.parent.absolute() / 'bat' / 'ai_filter.bat'
+            os.system(f"start {path} {self.open_api.db_name} {self.open_api.simul_num}")
 
     # 실전 봇, 모의 봇 매수 종목 세팅 + all_item_db 업데이트 함수
     def realtime_daily_buy_list_check(self):

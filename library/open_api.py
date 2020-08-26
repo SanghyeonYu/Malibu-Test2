@@ -22,7 +22,7 @@ from sqlalchemy import create_engine, event
 import pymysql
 
 pymysql.install_as_MySQLdb()
-TR_REQ_TIME_INTERVAL = 0.5
+TR_REQ_TIME_INTERVAL = 0.25
 
 
 def escape_percentage(conn, clauseelement, multiparams, params):

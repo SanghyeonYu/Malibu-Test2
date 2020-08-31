@@ -1,0 +1,224 @@
+C:\Users\angbe\.conda\envs\py37_32\python.exe C:/Users/angbe/PycharmProjects/Malibu-Test2/api_test.py
+open_api Version: #version 1.3.3
+simulator_func_mysql Version: #version 1.3.2
+32bit 환경입니다.
+[DEBUG|api_test.py:4] 2020-08-27 15:30:15,246 > api test !!!!!!
+[DEBUG|api_test.py:9] 2020-08-27 15:30:15,267 > Trader __init__!!!
+[DEBUG|open_api_test.py:314] 2020-08-27 15:30:20,002 > connected
+[DEBUG|open_api_test.py:251] 2020-08-27 15:30:20,002 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:258] 2020-08-27 15:30:20,002 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:254] 2020-08-27 15:30:20,002 > 계좌번호 : 8143059911
+[DEBUG|open_api_test.py:163] 2020-08-27 15:30:20,002 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api_test.py:180] 2020-08-27 15:30:20,002 > 모의투자 1!!
+[DEBUG|open_api_test.py:226] 2020-08-27 15:30:20,002 > db name !!! : JackBot1_imi1
+[DEBUG|open_api_test.py:217] 2020-08-27 15:30:20,044 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api_test.py:72] 2020-08-27 15:30:20,049 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api_test.py:73] 2020-08-27 15:30:20,050 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api_test.py:74] 2020-08-27 15:30:20,050 > self.sf.sell_list_num : 1
+self.simul_num!!!  1
+open_api Version: #version 1.3.3
+[DEBUG|open_api_test.py:80] 2020-08-27 15:30:20,061 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:92] 2020-08-27 15:30:20,087 > get_invest_unit 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:405] 2020-08-27 15:30:20,087 > set_real_reg 함수에 들어왔습니다! 실시간 조회 등록!!!
+[DEBUG|open_api_test.py:406] 2020-08-27 15:30:20,087 > 005930 10
+[DEBUG|open_api_test.py:408] 2020-08-27 15:30:20,090 > 0
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,193 > _get_comm_real_data!!06657010
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,193 > -55600
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,193 > _get_comm_real_data!!06657012
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,193 > -1.42
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,193 > _get_comm_real_data!!06657013
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,193 > 15626470
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,194 > _get_comm_real_data!!066570121
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,194 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,194 > _get_comm_real_data!!066570125
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,194 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,194 > _get_comm_real_data!!066570129
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,194 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,194 > _get_comm_real_data!!066570139
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,194 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,194 > _get_comm_real_data!!00003010
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,194 > -55600
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,194 > _get_comm_real_data!!00003012
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,194 > -1.42
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,194 > _get_comm_real_data!!00003013
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,194 > 15626470
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,194 > _get_comm_real_data!!000030121
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,194 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,194 > _get_comm_real_data!!000030125
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,194 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,194 > _get_comm_real_data!!000030129
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,194 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,194 > _get_comm_real_data!!000030139
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,194 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,195 > _get_comm_real_data!!00027010
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,195 > -55600
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,195 > _get_comm_real_data!!00027012
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,195 > -1.42
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,195 > _get_comm_real_data!!00027013
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,195 > 15626470
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,195 > _get_comm_real_data!!000270121
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,195 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,195 > _get_comm_real_data!!000270125
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,195 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,195 > _get_comm_real_data!!000270129
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,195 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:24,195 > _get_comm_real_data!!000270139
+[INFO|open_api_test.py:434] 2020-08-27 15:30:24,195 > 
+[INFO|api_test.py:35] 2020-08-27 15:30:24,195 > None
+[DEBUG|api_test.py:41] 2020-08-27 15:30:24,195 > 10;12;13;121;125;129;139
+[DEBUG|open_api_test.py:405] 2020-08-27 15:30:24,195 > set_real_reg 함수에 들어왔습니다! 실시간 조회 등록!!!
+[DEBUG|open_api_test.py:406] 2020-08-27 15:30:24,195 > 066570;000030;000270;000660;005930;068270;045390;064350;011390;025560 10;12;13;121;125;129;139
+[DEBUG|open_api_test.py:408] 2020-08-27 15:30:24,198 > 0
+Receive Real Data!!!!   066570 10 -55600
+Receive Real Data!!!!   066570 12 -1.42
+Receive Real Data!!!!   066570 13 15626470
+Receive Real Data!!!!   066570 121 
+Receive Real Data!!!!   066570 125 
+Receive Real Data!!!!   066570 129 
+Receive Real Data!!!!   066570 139 
+Receive Real Data!!!!   000030 10 -55600
+Receive Real Data!!!!   000030 12 -1.42
+Receive Real Data!!!!   000030 13 15626470
+Receive Real Data!!!!   000030 121 
+Receive Real Data!!!!   000030 125 
+Receive Real Data!!!!   000030 129 
+Receive Real Data!!!!   000030 139 
+Receive Real Data!!!!   000270 10 -55600
+Receive Real Data!!!!   000270 12 -1.42
+Receive Real Data!!!!   000270 13 15626470
+Receive Real Data!!!!   000270 121 
+Receive Real Data!!!!   000270 125 
+Receive Real Data!!!!   000270 129 
+Receive Real Data!!!!   000270 139 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,697 > _get_comm_real_data!!06657010
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,697 > -115500
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,697 > _get_comm_real_data!!06657012
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,697 > -2.12
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,698 > _get_comm_real_data!!06657013
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,698 > 15143
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,698 > _get_comm_real_data!!066570121
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,698 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,698 > _get_comm_real_data!!066570125
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,698 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,698 > _get_comm_real_data!!066570129
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,698 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,698 > _get_comm_real_data!!066570139
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,698 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,698 > _get_comm_real_data!!00003010
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,698 > -115500
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,698 > _get_comm_real_data!!00003012
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,698 > -2.12
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,698 > _get_comm_real_data!!00003013
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,698 > 15143
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,698 > _get_comm_real_data!!000030121
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,698 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,698 > _get_comm_real_data!!000030125
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,698 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,698 > _get_comm_real_data!!000030129
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,698 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,699 > _get_comm_real_data!!000030139
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,699 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,699 > _get_comm_real_data!!00027010
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,699 > -115500
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,699 > _get_comm_real_data!!00027012
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,699 > -2.12
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,699 > _get_comm_real_data!!00027013
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,699 > 15143
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,699 > _get_comm_real_data!!000270121
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,699 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,699 > _get_comm_real_data!!000270125
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,699 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,699 > _get_comm_real_data!!000270129
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,699 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,699 > _get_comm_real_data!!000270139
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,699 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,699 > _get_comm_real_data!!06657010
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,700 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,700 > _get_comm_real_data!!06657012
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,700 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,700 > _get_comm_real_data!!06657013
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,700 > 15143
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,700 > _get_comm_real_data!!066570121
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,700 > 1847
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,700 > _get_comm_real_data!!066570125
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,700 > 1705
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,700 > _get_comm_real_data!!066570129
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,700 > 92.31
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,700 > _get_comm_real_data!!066570139
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,700 > 108.33
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,700 > _get_comm_real_data!!00003010
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,701 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,701 > _get_comm_real_data!!00003012
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,701 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,701 > _get_comm_real_data!!00003013
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,701 > 15143
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,701 > _get_comm_real_data!!000030121
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,701 > 1847
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,701 > _get_comm_real_data!!000030125
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,701 > 1705
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,701 > _get_comm_real_data!!000030129
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,701 > 92.31
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,701 > _get_comm_real_data!!000030139
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,701 > 108.33
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,701 > _get_comm_real_data!!00027010
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,701 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,701 > _get_comm_real_data!!00027012
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,701 > 
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,701 > _get_comm_real_data!!00027013
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,701 > 15143
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,702 > _get_comm_real_data!!000270121
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,702 > 1847
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,702 > _get_comm_real_data!!000270125
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,702 > 1705
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,702 > _get_comm_real_data!!000270129
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,702 > 92.31
+[DEBUG|open_api_test.py:425] 2020-08-27 15:30:28,702 > _get_comm_real_data!!000270139
+[INFO|open_api_test.py:434] 2020-08-27 15:30:28,702 > 108.33
+Receive Real Data!!!!   066570 10 -115500
+Receive Real Data!!!!   066570 12 -2.12
+Receive Real Data!!!!   066570 13 15143
+Receive Real Data!!!!   066570 121 
+Receive Real Data!!!!   066570 125 
+Receive Real Data!!!!   066570 129 
+Receive Real Data!!!!   066570 139 
+Receive Real Data!!!!   000030 10 -115500
+Receive Real Data!!!!   000030 12 -2.12
+Receive Real Data!!!!   000030 13 15143
+Receive Real Data!!!!   000030 121 
+Receive Real Data!!!!   000030 125 
+Receive Real Data!!!!   000030 129 
+Receive Real Data!!!!   000030 139 
+Receive Real Data!!!!   000270 10 -115500
+Receive Real Data!!!!   000270 12 -2.12
+Receive Real Data!!!!   000270 13 15143
+Receive Real Data!!!!   000270 121 
+Receive Real Data!!!!   000270 125 
+Receive Real Data!!!!   000270 129 
+Receive Real Data!!!!   000270 139 
+Receive Real Data!!!!   066570 10 
+Receive Real Data!!!!   066570 12 
+Receive Real Data!!!!   066570 13 15143
+Receive Real Data!!!!   066570 121 1847
+Receive Real Data!!!!   066570 125 1705
+Receive Real Data!!!!   066570 129 92.31
+Receive Real Data!!!!   066570 139 108.33
+Receive Real Data!!!!   000030 10 
+Receive Real Data!!!!   000030 12 
+Receive Real Data!!!!   000030 13 15143
+Receive Real Data!!!!   000030 121 1847
+Receive Real Data!!!!   000030 125 1705
+Receive Real Data!!!!   000030 129 92.31
+Receive Real Data!!!!   000030 139 108.33
+Receive Real Data!!!!   000270 10 
+Receive Real Data!!!!   000270 12 
+Receive Real Data!!!!   000270 13 15143
+Receive Real Data!!!!   000270 121 1847
+Receive Real Data!!!!   000270 125 1705
+Receive Real Data!!!!   000270 129 92.31
+Receive Real Data!!!!   000270 139 108.33
+
+[GetPCIdentity] VER 3.2.0.0  build 2015.8.12
+
+[GetPCIdentity] VER 3.2.0.0  build 2015.8.12
+
+Process finished with exit code 0

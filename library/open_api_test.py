@@ -2,6 +2,7 @@ ver = "#version 1.3.3"
 print(f"open_api Version: {ver}")
 
 from library.simulator_func_mysql import *
+from agent import *
 import datetime
 import sys
 from PyQt5.QAxContainer import *
@@ -9,20 +10,24 @@ from PyQt5.QtCore import *
 import time
 from library import cf
 from collections import defaultdict
+from collections import deque
 
 import warnings
 warnings.simplefilter(action='ignore', category=UserWarning)
 from pandas import DataFrame
 import re
 import pandas as pd
+import numpy as np
 import os
+
+from agent import *
 
 from sqlalchemy import create_engine, event
 
 import pymysql
 
 pymysql.install_as_MySQLdb()
-TR_REQ_TIME_INTERVAL = 0.5
+TR_REQ_TIME_INTERVAL = 0.25
 
 
 def escape_percentage(conn, clauseelement, multiparams, params):
@@ -54,6 +59,7 @@ class open_api(QAxWidget):
         self.account_info()
         self.variable_setting()
 
+
         # open_api가 호출 되는 경우 (콜렉터, 모의투자, 실전투자) 의 경우는
         # 아래 simulator_func_mysql 클래스를 호출 할 때 두번째 인자에 real을 보낸다.
         self.sf = simulator_func_mysql(self.simul_num, 'real', self.db_name)
@@ -64,6 +70,12 @@ class open_api(QAxWidget):
         # 만약에 setting_data 테이블이 존재하지 않으면 구축 하는 로직
         if not self.sf.is_simul_table_exist(self.db_name, "setting_data"):
             self.init_db_setting_data()
+        else:
+            logger.debug("setting_data db 존재한다!!!")
+
+        # 만약에 universe_rocket 데이터베이스에 날짜_setting_data 테이블이 존재하지 않으면 구축 하는 로직
+        if not self.sf.is_simul_table_exist("universe_rocket", self.universe_list_table_name):
+            self.init_db_setting_data_universe_rocket(self.universe_list_table_name)
         else:
             logger.debug("setting_data db 존재한다!!!")
 
@@ -140,6 +152,21 @@ class open_api(QAxWidget):
         sql = "UPDATE setting_data SET invest_unit='%s',set_invest_unit='%s' limit 1"
         self.engine_JB.execute(sql % (self.invest_unit, self.today))
 
+    def fid_list_setting(self):
+        # FID : 10(현재가), 12(등략율), 13(누적거래량), 29(거래대금증감), 121(매도호가총잔량), 125(매수호가총잔량), 129(매수비율), 139(매도비율)
+        self.fid_int_list = [int(10), int(13), int(139)]
+        self.fid_str_list = [str(x) for x in self.fid_int_list]
+        self.fid_list_reg = ';'.join(self.fid_str_list)
+
+    def real_reg_code_list_setting(self):
+        print()
+
+    def universe_init(self):
+        self.universe_list_table_name = self.today + "_setting_data"
+        self.universe = {}
+        self.universe_list = []
+        self.temp_data = {}
+
     # 변수 설정 함수
     def variable_setting(self):
         logger.debug("variable_setting 함수에 들어왔다.")
@@ -147,6 +174,9 @@ class open_api(QAxWidget):
         self.cf = cf
         self.chegyul_fail_amount = False
         self.reset_opw00018_output()
+        self.fid_list_setting()
+        self.universe_init()
+        self.agent = Agent()
         # 아래 분기문은 실전 투자 인지, 모의 투자 인지 결정
         if self.account_number == cf.real_account:  # 실전
             self.simul_num = cf.real_simul_num
@@ -214,10 +244,14 @@ class open_api(QAxWidget):
         self.engine_daily_buy_list = create_engine(
             "mysql+mysqldb://" + cf.db_id + ":" + cf.db_passwd + "@" + cf.db_ip + ":" + cf.db_port + "/daily_buy_list",
             encoding='utf-8')
+        self.engine_universe_rocket = create_engine(
+            "mysql+mysqldb://" + cf.db_id + ":" + cf.db_passwd + "@" + cf.db_ip + ":" + cf.db_port + "/universe_rocket",
+            encoding='utf-8')
 
         event.listen(self.engine_craw, 'before_execute', escape_percentage, retval=True)
         event.listen(self.engine_daily_craw, 'before_execute', escape_percentage, retval=True)
         event.listen(self.engine_daily_buy_list, 'before_execute', escape_percentage, retval=True)
+        event.listen(self.engine_universe_rocket, 'before_execute', escape_percentage, retval=True)
 
         if not self.is_database_exist():
             self.create_database()
@@ -253,9 +287,13 @@ class open_api(QAxWidget):
         try:
             self.OnEventConnect.connect(self._event_connect)
             self.OnReceiveTrData.connect(self._receive_tr_data)
+            # self.OnReceiveRealData.connect(self._receive_real_data)
+            self.OnReceiveRealCondition.connect(self._receive_real_condition)
+            self.OnReceiveTrCondition.connect(self._receive_tr_condition)
+            self.OnReceiveConditionVer.connect(self._receive_condition_ver)
             self.OnReceiveMsg.connect(self._receive_msg)
             # 주문체결 시점에서 키움증권 서버가 발생시키는 OnReceiveChejanData 이벤트를 처리하는 메서드
-            self.OnReceiveChejanData.connect(self._receive_chejan_data)
+            self.OnReceiveChejanData.connect(self._receive_chejan_data_temp)
 
 
         except Exception as e:
@@ -302,12 +340,19 @@ class open_api(QAxWidget):
             logger.critical(e)
 
     def comm_rq_data(self, rqname, trcode, next, screen_no):
-        self.exit_check()
+        # self.exit_check()
         self.dynamicCall("CommRqData(QString, QString, int, QString", rqname, trcode, next, screen_no)
 
         self.tr_event_loop = QEventLoop()
 
         self.tr_event_loop.exec_()
+
+    def comm_kw_rq_data(self, code_list, next, code_num, type_flag, rqname, screen_no):
+        # self.exit_check()
+        logger.debug("comm_kw_rq_data!!!")
+        self.dynamicCall("CommKwRqData(QString, int, int, int, QString, QString)", code_list, next, code_num, type_flag, rqname, screen_no)
+
+        self.make_event_loop()
 
     def _get_comm_data(self, code, field_name, index, item_name):
         # logger.debug('calling GetCommData...')
@@ -337,6 +382,10 @@ class open_api(QAxWidget):
             # logger.debug("opt10081_req collector!!!")
             # logger.debug("Get an item info !!!!")
             self.collector_opt10081(rqname, trcode)
+        elif rqname == "opt10081_req" and self.py_gubun == "test":
+            # logger.debug("opt10081_req collector!!!")
+            # logger.debug("Get an item info !!!!")
+            self.test_opt10081(rqname, trcode)
         elif rqname == "opw00001_req":
             # logger.debug("opw00001_req!!!")
             # logger.debug("Get an de_deposit!!!")
@@ -365,6 +414,14 @@ class open_api(QAxWidget):
             # logger.debug("opt10080_req!!!")
             # logger.debug("Get an de_deposit!!!")
             self._opt10080(rqname, trcode)
+        elif rqname == "opt10001_req":
+            # logger.debug("opt10001_req!!!")
+            # logger.debug("Get the profit")
+            self._opt10001(rqname, trcode)
+        elif rqname == "opt10004_req":
+            # logger.debug("opt10074_req!!!")
+            # logger.debug("Get the profit")
+            self._opt10004(rqname, trcode)
         # except Exception as e:
         #     logger.critical(e)
 
@@ -372,6 +429,245 @@ class open_api(QAxWidget):
             self.tr_event_loop.exit()
         except AttributeError:
             pass
+
+    def set_real_reg(self, screen_no, code_list, fid_list, opt_type):
+        logger.debug("set_real_reg 함수에 들어왔습니다! 실시간 조회 등록!!!")
+        logger.debug(str(code_list) + " " + str(fid_list))
+        ret = self.dynamicCall("SetRealReg(QString, QString, QString, QString)", screen_no, code_list, fid_list, opt_type)
+        logger.debug(str(ret))
+
+        self.make_event_loop()
+
+        #  이것도 경우2인 경우 돌려봐, 아마 될 것 같음!!!
+        # for i in range(2):
+        # for code in code_list.strip(';').split(';'):
+        #     logger.debug("event_loop " + ", " + str(code))
+        #     self.make_event_loop()
+
+
+    def set_real_remove(self, screen_no, code):
+        logger.debug("set_real_remove 함수에 들어왔습니다! 실시간 조회 해제!!!")
+        logger.debug(str(screen_no) + str(code))
+        self.dynamicCall("SetRealRemove(QString, QString)", screen_no, code)
+
+    def disconnect_real_data(self, screen_no):
+        logger.debug("disconnect_real_data 함수에 들어왔습니다! 실시간 조회 해제!!!")
+        logger.debug(str(screen_no))
+        # self.dynamicCall("SetRealReg(QString)", screen_no)
+
+    def _get_comm_real_data(self, code, fid):
+        logger.debug("_get_comm_real_data!!" + str(code) + " " + str(fid))
+        ret = self.dynamicCall("GetCommRealData(QString, int)", code, fid)
+        logger.debug(" value : " + str(ret))
+        return ret
+
+    def _receive_real_data(self, code, real_type, real_data):
+        logger.debug("_receive_real_data!!!!")
+        logger.debug("code : " + str(code))
+        logger.debug("real_type : " + str(real_type))
+        logger.debug("real_data : " + str(real_data))
+
+        # self._get_comm_real_data(code, int(10))
+        # self._get_comm_real_data(code, int(13))
+
+        # 경우 1 : code, real_type, real_data에 모든 값이 담겨있는 경우 - 가져와야 될 종목수 or (종목수 * real_type 수) or (종목수 * real_type 수 * fid 수) 만큼 event_loop - exit 반복해야 함
+        # 경우 2 : code, real_type 별로 이벤트 발생되는 경우 - 가져와야될 종목수 * real_type 수만큼 event loop 발생시키고,
+
+        # for _code in self.code_list:
+        # for _fid in self.fid_int_list:
+        #     self.wanted_information = self._get_comm_real_data(code, _fid)
+        #     logger.info(str(self.wanted_information))
+        #     print("Receive Real Data!!!!  ", code, _fid, self.wanted_information)
+
+        # 경우 2인 경우, 아마 될거얌! 이거 밖에서 make_event_loop 종목수 * real_type 수만큼 돌려주고, 위에거는 주석처리
+        # if real_type == "주식시세" or real_type == "주식체결":
+        # for i in range(2*len(self.open_api.universe_list)):
+        try:
+            _fid = int(10)
+            data = self._get_comm_real_data(code, _fid)
+            data = data.strip('+')
+            data = float(data)
+            self.update_universe_state(code, _fid, data)
+        except:
+            pass
+
+        try:
+            _fid = int(13)
+            data = self._get_comm_real_data(code, _fid)
+            data = float(data)
+            self.update_universe_state(code, _fid, data)
+        except:
+            pass
+        # elif real_type == "주식호가잔량":
+
+        try:
+            _fid = int(139)
+            data = self._get_comm_real_data(code, _fid)
+            data = float(data)
+            self.update_universe_state(code, _fid, data)
+            logger.debug(self.universe[code])
+        except:
+            pass
+        # else:
+        #     logger.debug("수신 실패!! real_type ??????")
+
+
+        try:
+            logger.debug("_receive_real_data exit try!!!")
+            self.tr_event_loop.exit()
+            logger.debug("_receive_real_data exit success!!!")
+        except AttributeError:
+            pass
+
+
+
+
+
+    def _receive_chejan_data_temp(self, gubun, item_cnt, fid_list):
+        logger.debug("_receive_chejan_data_temp")
+        logger.debug("gubun : " + str(gubun))
+        logger.debug("item_cnt : " + str(item_cnt))
+        logger.debug("fid_list : " + str(fid_list))
+
+    def get_condition_load(self):
+        ret = self.dynamicCall("GetConditionLoad()")
+        logger.debug("get_condition_load : " + str(ret))
+        self.make_event_loop()
+
+    def _receive_condition_ver(self, success, msg):
+        logger.debug("_receive_condition_ver : " + str(success) + "  msg : " + str(msg))
+        self.get_condition_name_list()
+        self.tr_event_loop.exit()
+
+
+    def get_condition_name_list(self):
+        logger.debug("get_condition_name_list!!")
+        ret = self.dynamicCall("GetConditionNameList()")
+        ret = ret.strip(';').split(';')
+        ret = [x.split('^') for x in ret]
+        self.condition_name_list = ret
+        logger.debug("condition name : " + str(self.condition_name_list))
+        # self.tr_event_loop.exit()
+
+    def send_condition(self, screen_no, condition_name, condition_index, search_type):
+        logger.debug("_send_condition!! : " + str(condition_name) + " " + str(condition_index))
+        self.dynamicCall("SendCondition(QString, QString, int, int)", screen_no, condition_name, int(condition_index), int(search_type))
+        self.make_event_loop()
+
+    def _receive_tr_condition(self, screen_no, code_list, condition_name, condition_index, next):
+        logger.debug("_receive_tr_condition!!!")
+        if next == '2':
+            self.remained_data = True
+        else:
+            self.remained_data = False
+        # 조건 검색 결과 종목 코드 리스트 수신
+        temp_universe_list = code_list.strip(';').split(';')
+        if '' in temp_universe_list:
+            temp_universe_list.remove('')
+        # universe_rocket DB의 날짜_setting_data 테이블에서 현재 종목 코드 리스트 가져옴
+        current_universe_list = self.get_universe_list(self.universe_list_table_name)
+        if current_universe_list == ['0'] and len(temp_universe_list) != 0:
+            current_universe_list = []
+        # 새로 검색된 종목 추가해서 업데이트, universe에 state도 만들어줌
+        for code in temp_universe_list:
+            if code not in current_universe_list:
+                # daily_buy_list.stock_item_all에 있는 종목인지 확인
+                code_name = self.sf.get_name_by_code(code)
+                if code_name == False:
+                    logger.debug("목록에 없는 종목!!!!  : " + str(code))
+                    continue
+                # universe에 새로운 state 만들어줌
+                self.make_new_state_in_universe(code, code_name)
+                current_universe_list.append(code)
+        # 새로운 조건 검색 결과 종목 코드 리스트로 업데이트
+        self.update_db_setting_data_universe_rocket(current_universe_list)
+        self.universe_list = current_universe_list
+
+        logger.debug("receive_tr_condition success!!")
+        self.tr_event_loop.exit()
+        # try:
+        #     self.tr_event_loop.exit()
+        # except AttributeError:
+        #     pass
+
+
+    def _receive_real_condition(self, code, in_out, condition_name, condition_index):
+        print()
+
+
+
+    def make_event_loop(self):
+        logger.debug("make_evet_loop!!" + str(datetime.datetime.today().strftime("%Y%m%d%H%M")))
+        self.tr_event_loop = QEventLoop()
+        self.tr_event_loop.exec_()
+
+
+
+
+
+############### open api 제어 끝
+
+#region universe update 관련
+
+    def make_new_state_in_universe(self, code, code_name):
+        # self.universe에 새 state 추가
+        self.universe[code] = State(code, code_name)
+        # 저항선 목록, 메인 저항선 초기화
+        self.universe[code].resistance_list, self.universe[code].yes_close = self.get_resistance(code, code_name)
+        self.universe[code].main_resistance = self.get_main_resistance(self.universe[code].resistance_list, self.universe[code].yes_close)
+
+    # 1년치 일봉데이터로 기준선 만들기
+    def get_resistance(self, code, code_name):
+        temptime = datetime.datetime.today()
+        year_ago = temptime.replace(temptime.year + -1).strftime("%Y%m%d")
+
+        sql = "select open, high, low, close from `" + code_name + "` where date >= " + year_ago
+        temp_list = self.engine_daily_craw.execute(sql).fetchall()
+        ohlc_list = []
+        for tup in temp_list:
+            ohlc_list += list(tup)
+        ohlc_np = np.array(ohlc_list)
+
+        last = ohlc_np[-1]
+        min = np.min(ohlc_np)
+        max = np.max(ohlc_np)
+
+        if last < 3000:
+            delta = 250
+            if max >= 5000:
+                delta = 500
+        elif last >= 3000 and last < 20000:
+            delta = 500
+        else:
+            delta = 1000
+
+        resistance_min = np.floor(min / delta) * delta
+        resistance_max = np.ceil(max / delta) * delta
+        resistance_num = (resistance_max - resistance_min) / delta + 1
+        resistance_list = [x * delta + resistance_min for x in range(int(resistance_num))]
+        # resistance_list.append(max)
+
+        # res_count_list = []
+        # for res in resistance_list:
+        #     lower_bound = res - delta * 0.3
+        #     upper_bound = res + delta * 0.3
+        #     count = ((lower_bound <= ohlc_np) & (ohlc_np <= upper_bound)).sum()
+        #     res_count_list.append(count)
+        # print(resistance_list)
+        # print(res_count_list)
+
+        return resistance_list, last
+
+    def get_main_resistance(self, resistance_list, price):
+        temp_np = np.array([x - price for x in resistance_list])
+        main_resistance = resistance_list[np.where(temp_np > 0, temp_np, np.inf).argmin()]
+        return main_resistance
+
+#endregion universe update 관련
+
+
+
+############### DB 제어
 
     # setting_data를 초기화 하는 함수
     def init_db_setting_data(self):
@@ -417,6 +713,57 @@ class open_api(QAxWidget):
         df_setting_data.loc[0, 'daily_buy_list'] = str(0)
 
         df_setting_data.to_sql('setting_data', self.engine_JB, if_exists='replace')
+
+    # universe_rocket DB의 날짜_setting_data를 초기화 하는 함수
+    def init_db_setting_data_universe_rocket(self, table_name):
+        logger.debug("init_db_setting_data_universe_rocket !! ")
+
+        #  추가하면 여기에도 추가해야함
+        df_setting_data_temp = {'code': []}
+        df_setting_data = DataFrame(df_setting_data_temp,
+                                    columns=['code'])
+
+        # 자료형
+        df_setting_data.loc[0, 'code'] = str(0)
+
+        df_setting_data.to_sql(table_name, self.engine_universe_rocket, if_exists='replace')
+
+    # universe_rocket DB의 날짜_setting_data의 종목 코드 리스트를 가져오는 함수
+    def get_universe_list(self, table_name):
+        logger.debug("get_universe_list")
+
+        sql = "select code from " + table_name
+        temp_list = self.engine_universe_rocket.execute(sql).fetchall()
+        universe_list = [x[0] for x in temp_list]
+
+        return universe_list
+
+    # universe_rocket DB의 날짜_setting_data의 종목 코드 리스트 업데이트하는 함수
+    def update_db_setting_data_universe_rocket(self, universe_list):
+        logger.debug("update_db_setting_data_universe_rocket !! ")
+
+        #  추가하면 여기에도 추가해야함
+        df_setting_data_temp = {'code': universe_list}
+        df_setting_data = DataFrame(df_setting_data_temp,
+                                    columns=['code'])
+
+        df_setting_data.to_sql(self.universe_list_table_name, self.engine_universe_rocket, if_exists='replace')
+
+    def update_db_universe_rocket(self):
+        table_name = self.today + "_" + self.temp_data['code'][0]
+        self.temp_data['hoga_sell_amount'] = [int(0)]
+        self.temp_data['hoga_buy_amount'] = [int(0)]
+        df_temp_data = DataFrame(self.temp_data,
+                                 columns=['time', 'code', 'price', 'volume', 'hoga_sell_amount', 'hoga_buy_amount'])
+        df_temp_data.to_sql(table_name, self.engine_universe_rocket, if_exists='append')
+
+    def update_db_universe_rocket_hoga(self, i):
+        table_name = self.today + "_" + self.universe_list[i]
+        sql = "UPDATE " + table_name + " SET hoga_sell_amount='%s', hoga_buy_amount='%s' where time='%s'"
+        self.engine_universe_rocket.execute(sql % (self.temp_data['hoga_sell_amount'][0], self.temp_data['hoga_buy_amount'][0], self.temp_data['time'][0]))
+
+
+
 
     # all_item_db에 추가하는 함수
     def db_to_all_item(self, order_num, code, code_name, chegyul_check, purchase_price, rate):
@@ -756,6 +1103,26 @@ class open_api(QAxWidget):
             self.ohlcv['close'].append(int(close))
             self.ohlcv['volume'].append(int(volume))
 
+    def test_opt10081(self, rqname, trcode):
+        # 몇 개의 row를 읽어 왔는지 담는 변수
+        ohlcv_cnt = self._get_repeat_cnt(trcode, rqname)
+        self.ohlcv = defaultdict(list)
+
+        for i in range(10):
+            date = self._get_comm_data(trcode, rqname, i, "일자")
+            open = self._get_comm_data(trcode, rqname, i, "시가")
+            high = self._get_comm_data(trcode, rqname, i, "고가")
+            low = self._get_comm_data(trcode, rqname, i, "저가")
+            close = self._get_comm_data(trcode, rqname, i, "현재가")
+            volume = self._get_comm_data(trcode, rqname, i, "거래량")
+
+            self.ohlcv['date'].append(date)
+            self.ohlcv['open'].append(int(open))
+            self.ohlcv['high'].append(int(high))
+            self.ohlcv['low'].append(int(low))
+            self.ohlcv['close'].append(int(close))
+            self.ohlcv['volume'].append(int(volume))
+
     # except Exception as e:
     #     logger.critical(e)
 
@@ -849,7 +1216,7 @@ class open_api(QAxWidget):
     def send_order(self, rqname, screen_no, acc_no, order_type, code, quantity, price, hoga, order_no):
         logger.debug("send_order!!!")
         try:
-            self.exit_check()
+            # self.exit_check()
             self.dynamicCall("SendOrder(QString, QString, QString, int, QString, int, int, QString, QString)",
                              [rqname, screen_no, acc_no, order_type, code, quantity, price, hoga, order_no])
         except Exception as e:
@@ -860,7 +1227,7 @@ class open_api(QAxWidget):
     def get_chejan_data(self, fid):
         # logger.debug("get_chejan_data!!!")
         try:
-            self.exit_check()
+            # self.exit_check()
             ret = self.dynamicCall("GetChejanData(int)", fid)
             return ret
         except Exception as e:
@@ -1527,6 +1894,7 @@ class open_api(QAxWidget):
             self.d2_deposit = self.change_format(self.d2_deposit_before_format)
             logger.debug("예수금!!!!")
             logger.debug(self.d2_deposit_before_format)
+            self.tr_event_loop.exit()
         except Exception as e:
             logger.critical(e)
 
@@ -1562,6 +1930,68 @@ class open_api(QAxWidget):
             logger.critical(e)
             # self.opw00018_output['multi'].append(
             #     [name, quantity, purchase_price, current_price, eval_profit_loss_price, earning_rate])
+
+    def _opt10001(self, rqname, trcode):
+        logger.debug("_opt10001!!!")
+        try:
+            rows = self._get_repeat_cnt(trcode, rqname)
+
+            for i in range(rows):
+                code = self._get_comm_data(trcode, rqname, i, "종목코드")
+                self.temp_data['code'] = [code]
+                if self.universe_list[i] != code:
+                    logger.debug("!!!!!!!!!!!!!!!!!! ㅈ댔다!!!!!!!!!!!!!! 데이터 부정확!!!!!!!!!!!!!!!!! 멈춰봐!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+                    logger.debug("들어온 코드는  " + str(code))
+                    logger.debug("원했던 코드는  " + str(self.universe_list[i]))
+                # logger.debug("종목코드 " + str(i) + " : " + str(code))
+
+                price = self._get_comm_data(trcode, rqname, i, "현재가")
+                # logger.debug("현재가 " + str(i) + " : " + str(price))
+                price = price.strip('+')
+                price = float(price)
+                self.temp_data['price'] = [int(price)]
+                self.universe[self.universe_list[i]].update_price(price)
+
+                volume = self._get_comm_data(trcode, rqname, i, "거래량")
+                # logger.debug("거래량 " + str(i) + " : " + str(volume))
+                volume = float(volume)
+                self.temp_data['volume'] = [int(volume)]
+                self.universe[self.universe_list[i]].update_volume(volume)
+
+                self.universe[self.universe_list[i]].update_main_resistance()
+                self.update_db_universe_rocket()
+
+        except Exception as e:
+            logger.critical(e)
+
+    def _opt10004(self, rqname, trcode):
+        logger.debug("_opt10004!!!")
+        try:
+            rows = self._get_repeat_cnt(trcode, rqname)
+            # total 실현손익
+
+            for i in range(rows):
+                hoga_sell_amount = self._get_comm_data(trcode, rqname, i, "총매도잔량")
+                # logger.debug("총매도잔량 " + str(i) + " : " + str(hoga_sell))
+                hoga_sell_amount = float(hoga_sell_amount)
+
+                hoga_buy_amount = self._get_comm_data(trcode, rqname, i, "총매수잔량")
+                # logger.debug("총매수잔량 " + str(i) + " : " + str(hoga_buy))
+                hoga_buy_amount = float(hoga_buy_amount)
+
+                hoga_sell_ratio = hoga_sell_amount / hoga_buy_amount
+
+                self.temp_data['hoga_sell_amount'] = [hoga_sell_amount]
+                self.temp_data['hoga_buy_amount'] = [hoga_buy_amount]
+                self.universe[self.universe_list[i]].update_hoga_amount(hoga_sell_amount, hoga_buy_amount)
+
+                self.update_db_universe_rocket_hoga(i)
+
+            logger.debug("유니버스 업데이트 완료!!!")
+            logger.debug(str(self.universe))
+
+        except Exception as e:
+            logger.critical(e)
 
     def _opw00015(self, rqname, trcode):
         logger.debug("_opw00015!!!")

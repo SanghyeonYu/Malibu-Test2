@@ -19,7 +19,7 @@ imi1_db_name = "JackBot"+str(imi1_simul_num)+"_imi1"
 
 
 # 아래는 실전 투자 계좌번호를 넣는다.
-real_account=""
+real_account="5385624110"
 real_simul_num=1
 real_db_name="JackBot"+str(real_simul_num)
 

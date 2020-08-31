@@ -25,17 +25,15 @@ class Trader(QMainWindow):
         self.condition_num = 0
         self.possessed_code_list = []
         self.invest_unit = 200000
-        ################ 모의, 실전 ####################
-        # 장시작 시간 설정
-        # self.market_start_time = QTime(9, 0, 0)
-        # # 장마감 시간 설정
-        # self.market_end_time = QTime(15, 30, 0)
-        # # 매수를 몇 시 까지 할지 설정. (시, 분, 초)
-        # self.buy_end_time = QTime(9, 6, 0)
+        ########## 매수 매도 알고리즘 번호 #############
+
+        self.consider_len = 20
+        self.algorithm_sell_num = 2
+        self.algorithm_buy_num = 2
 
         ############################################
 
-        ################ 테스트용 ###################
+        ################ 장 시간 확인 ###################
         # # 장시작 시간 설정
         self.market_start_time = QTime(9, 0, 0)
         # 장마감 시간 설정
@@ -121,7 +119,7 @@ class Trader(QMainWindow):
     def auto_trade_sell(self, code_list):
         logger.debug("auto_trade_sell!!!!! 매도할 거 있나 체크!!!")
         for code in code_list:
-            if self.open_api.agent.check_sell_condition(self.open_api.universe[code]):
+            if self.open_api.agent.check_sell_condition(self.open_api.universe[code], self.consider_len, self.algorithm_sell_num):
                 # 매도!!
 
                 logger.debug("send_order!!!!  code : " + str(code) + " number : " + str(self.open_api.universe[code].possessed_num))
@@ -150,7 +148,7 @@ class Trader(QMainWindow):
                 break
             if code in self.possessed_code_list:
                 continue
-            if self.open_api.agent.check_buy_condition(self.open_api.universe[code]):
+            if self.open_api.agent.check_buy_condition(self.open_api.universe[code], self.consider_len, self.algorithm_buy_num):
 
             # state = self.open_api.universe[code]
             #
@@ -221,9 +219,9 @@ class Trader(QMainWindow):
                     logger.debug("universe_list!!!!" + str(self.open_api.universe_list))
                     self.auto_trade_buy(buy_check_list)
 
-            # 5초를 판단 기준 단위로 삼음, 주문 및 조회 등 이벤트 여유 시간을 고려 4.5초 대기
+            # 5초를 판단 기준 단위로 삼음, 주문 및 조회 등 이벤트 여유 시간을 고려 4초 대기
             logger.debug("time sleep!! 4.5 seconds!!!    count : " + str(count) + "!!!")
-            time.sleep(4.5)
+            time.sleep(4)
             count += 1
 
 

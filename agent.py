@@ -85,48 +85,119 @@ class Agent():
     def __init__(self):
         pass
 
-    def check_sell_condition(self, state):
-        # 상승하는 힘 < 하락하는 힘이면 팔 것
+    def check_sell_condition(self, state, consider_len, algorithm_num):
+        # 매수 / 매도 결정에 고려할 time step 개수 : consider_len
+        # velocity 개수 : n
+        n = consider_len - 1
+
+        # 매수 / 매도 결정에 고려할 price, volume velocity ndarray로 저장
         np_pv = np.array(state.price_velocity)
         np_vv = np.array(state.volume_velocity)
-        np_pv = np_pv[-19:]
-        np_vv = np_vv[-19:]
-        power = np.dot(np_pv, np_vv)
-        if power > 0:
-            # 가속도가
-            np_pa = np.array(state.price_accel)
-            np_pa = np_pa[-19:]
-            if (np_pa < 0).sum() >= 12:
+        np_pa = np.array(state.price_accel)
+        np_pv = np_pv[-n:]
+        np_vv = np_vv[-n:]
+        np_pa = np_pa[-(n-1):]
+
+        if algorithm_num == 1:
+            # 상승하는 힘 < 하락하는 힘이면 팔 것
+            power = np.dot(np_pv, np_vv)
+            if power > 0:
+                # 가속도가
+                if (np_pa < 0).sum() >= 12:
+                    return True
+                return False
+            else:
                 return True
-            return False
+
+        elif algorithm_num == 2:
+            # 할인율 적용
+            discount_rate = 0.95
+            discount_factor = np.power([discount_rate for _ in range(n)], [n - 1 - i for i in range(n)])
+            # 상승, 하락 힘 계산
+            np_power = np_pv * np_vv * discount_factor
+            power_rise = np_power[(np_power >= 0)].sum()
+            power_fall = np.abs(np_power[(np_power < 0)].sum())
+            # 매도 조건은 유사시에 금방 팔 수 있게 threshold 낮춰줌
+            if power_rise / power_fall <= 1.0:
+                power_check = True
+            else:
+                power_check = False
+            # 하방 가속도가 붙은 경우 팔 것
+            if (np_pa < 0).sum() / len(np_pa) >= 0.75:
+                accel_check = True
+            else:
+                accel_check = False
+            temp_pa = np_pa[-5:]
+            if (temp_pa < 0).sum() / len(temp_pa) >= 0.8:
+                accel_check_2 = True
+            else:
+                accel_check_2 = False
+
+            # 유사시에는 빠른 매도 필요
+            if power_check or accel_check or accel_check_2:
+                return True
+            else:
+                return False
+
         else:
+            print("올바른 매도 알고리즘 번호 지정 필요!!!!!!!!!")
+
+    def check_buy_condition(self, state, consider_len, algorithm_num):
+        # 매수 / 매도 결정에 고려할 time step 개수 : consider_len
+        # velocity 개수 : n
+        n = consider_len - 1
+        # 최소 time step만큼 관찰한 후에 살 것
+        if len(state.price) < consider_len:
+            return False
+
+        # 매수 / 매도 결정에 고려할 price, volume velocity ndarray로 저장
+        np_pv = np.array(state.price_velocity)
+        np_vv = np.array(state.volume_velocity)
+        np_pa = np.array(state.price_accel)
+        np_pv = np_pv[-n:]
+        np_vv = np_vv[-n:]
+        np_pa = np_pa[-(n-1):]
+
+        if algorithm_num == 1:
+            # 저항선 돌파 이후에 살 것
+            if np.mean([state.price[-n], state.price[-1]]) < state.main_resistance:
+                return False
+            # 상승하는 힘 > 하락하는 힘일 때 살 것
+            power = np.dot(np_pv, np_vv)
+            if power <= 0:
+                return False
+            # 가속도가 붙어 있을 때 살 것
+            if (np_pa >= 0).sum() < 8:
+                return False
             return True
 
-    def check_buy_condition(self, state):
-        # 100초는 관찰한 후에 살 것
-        if len(state.price) < 20:
-            return False
+        elif algorithm_num == 2:
+            # 할인율 적용
+            discount_rate = 0.95
+            discount_factor = np.power([discount_rate for _ in range(n)], [n - 1 - i for i in range(n)])
+            # 상승, 하락 힘 계산
+            np_power = np_pv * np_vv * discount_factor
+            power_rise = np_power[(np_power >= 0)].sum()
+            power_fall = np.abs(np_power[(np_power < 0)].sum())
+            # 강한 상승이 있을 땐 필히 거래량을 동반해야 하므로, 진동 방지를 위해 threshold가 좀 높아도 괜찮다.
+            if power_rise / power_fall > 1.75:
+                power_check = True
+            else:
+                power_check = False
+            # 가속도가 붙어 있을 때 살 것
+            if (np_pa > 0).sum() / len(np_pa) > 0.33:
+                accel_check = True
+            else:
+                accel_check = False
 
-        # 저항선 돌파 이후에 살 것
-        if np.mean([state.price[-20], state.price[-1]]) < state.main_resistance:
-            return False
+            # 일단 매매하는 순간 수수료 손실이 생기므로 매수는 신중하게
+            if power_check and accel_check:
+                return True
+            else:
+                return False
 
-        # 상승하는 힘 > 하락하는 힘일 때 살 것
-        np_pv = np.array(state.price_velocity)
-        np_vv = np.array(state.volume_velocity)
-        np_pv = np_pv[-19:]
-        np_vv = np_vv[-19:]
-        power = np.dot(np_pv, np_vv)
-        if power <= 0:
-            return False
-
-        # 가속도가 붙어 있을 때 살 것
-        np_pa = np.array(state.price_accel)
-        np_pa = np_pa[-19:]
-        if (np_pa >= 0).sum() < 8:
-            return False
-
-        return True
+        else:
+            print("올바른 매수 알고리즘 번호 지정 필요!!!!!!!!!")
 
 
 if __name__ == "__main__":

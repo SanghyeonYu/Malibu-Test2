@@ -119,7 +119,7 @@ class Trader(QMainWindow):
     def auto_trade_sell(self, code_list):
         logger.debug("auto_trade_sell!!!!! 매도할 거 있나 체크!!!")
         for code in code_list:
-            if self.open_api.agent.check_sell_condition(self.open_api.universe[code], self.consider_len, self.algorithm_sell_num):
+            if self.open_api.agent.check_sell_condition_simulation(self.open_api.universe[code], consider_len=20, discount_rate=0.9, power_threshold=1, accel_threshold=0.5):
                 # 매도!!
 
                 logger.debug("send_order!!!!  code : " + str(code) + " number : " + str(self.open_api.universe[code].possessed_num))
@@ -148,7 +148,7 @@ class Trader(QMainWindow):
                 break
             if code in self.possessed_code_list:
                 continue
-            if self.open_api.agent.check_buy_condition(self.open_api.universe[code], self.consider_len, self.algorithm_buy_num):
+            if self.open_api.agent.check_buy_condition_simulation(self.open_api.universe[code], consider_len=20, discount_rate=0.92, power_threshold=2, power_ratio_threshold=2000, accel_threshold=0.3):
 
             # state = self.open_api.universe[code]
             #

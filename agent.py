@@ -111,14 +111,14 @@ class Agent():
 
         elif algorithm_num == 2:
             # 할인율 적용
-            discount_rate = 0.95
+            discount_rate = 0.9
             discount_factor = np.power([discount_rate for _ in range(n)], [n - 1 - i for i in range(n)])
             # 상승, 하락 힘 계산
             np_power = np_pv * np_vv * discount_factor
             power_rise = np_power[(np_power >= 0)].sum()
             power_fall = np.abs(np_power[(np_power < 0)].sum())
             # 매도 조건은 유사시에 금방 팔 수 있게 threshold 낮춰줌
-            if power_rise / power_fall <= 1.0:
+            if power_rise / (power_fall + 0.00001) <= 1.0:
                 power_check = True
             else:
                 power_check = False
@@ -180,7 +180,7 @@ class Agent():
             power_rise = np_power[(np_power >= 0)].sum()
             power_fall = np.abs(np_power[(np_power < 0)].sum())
             # 강한 상승이 있을 땐 필히 거래량을 동반해야 하므로, 진동 방지를 위해 threshold가 좀 높아도 괜찮다.
-            if power_rise / power_fall > 1.75:
+            if power_rise / (power_fall + 0.00001) > 2:
                 power_check = True
             else:
                 power_check = False
@@ -198,6 +198,98 @@ class Agent():
 
         else:
             print("올바른 매수 알고리즘 번호 지정 필요!!!!!!!!!")
+
+    def check_sell_condition_simulation(self, state, consider_len, discount_rate, power_threshold, accel_threshold):
+        # 매수 / 매도 결정에 고려할 time step 개수 : consider_len
+        # velocity 개수 : n
+        n = consider_len - 1
+
+        # 매수 / 매도 결정에 고려할 price, volume velocity ndarray로 저장
+        np_pv = np.array(state.price_velocity)
+        np_vv = np.array(state.volume_velocity)
+        np_pa = np.array(state.price_accel)
+        np_pv = np_pv[-n:]
+        np_vv = np_vv[-n:]
+        np_pa = np_pa[-(n-1):]
+        # 할인율 적용
+        discount_rate = discount_rate
+        discount_factor = np.power([discount_rate for _ in range(n)], [n - 1 - i for i in range(n)])
+        # 상승, 하락 힘 계산
+        np_power = np_pv * np_vv * discount_factor
+        power_rise = np_power[(np_power >= 0)].sum()
+        power_fall = np.abs(np_power[(np_power < 0)].sum())
+        # 매도 조건은 유사시에 금방 팔 수 있게 threshold 낮춰줌
+        if power_rise / (power_fall + 0.00001) <= power_threshold:
+            power_check = True
+        else:
+            power_check = False
+        # 하방 가속도가 붙은 경우 팔 것
+        if (np_pa < 0).sum() / len(np_pa) >= accel_threshold:
+            accel_check = True
+        else:
+            accel_check = False
+        temp_pa = np_pa[-5:]
+        if (temp_pa < 0).sum() / len(temp_pa) >= 0.8:
+            accel_check_2 = True
+        else:
+            accel_check_2 = False
+
+        # 유사시에는 빠른 매도 필요
+        if power_check or accel_check or accel_check_2:
+            return True
+        else:
+            return False
+
+
+    def check_buy_condition_simulation(self, state, consider_len, discount_rate, power_threshold, power_ratio_threshold, accel_threshold):
+        # 매수 / 매도 결정에 고려할 time step 개수 : consider_len
+        # velocity 개수 : n
+        n = consider_len - 1
+        # 최소 time step만큼 관찰한 후에 살 것
+        if len(state.price) < consider_len:
+            return False
+
+        # 매수 / 매도 결정에 고려할 price, volume velocity ndarray로 저장
+        np_pv = np.array(state.price_velocity)
+        np_vv = np.array(state.volume_velocity)
+        np_pa = np.array(state.price_accel)
+        np_pv = np_pv[-n:]
+        np_vv = np_vv[-n:]
+        np_pa = np_pa[-(n-1):]
+
+        # 할인율 적용
+        discount_rate = discount_rate
+        discount_factor = np.power([discount_rate for _ in range(n)], [n - 1 - i for i in range(n)])
+        # 상승, 하락 힘 계산
+        np_power = np_pv * np_vv * discount_factor
+        power_rise = np_power[(np_power >= 0)].sum()
+        power_fall = np.abs(np_power[(np_power < 0)].sum())
+        # 매도 조건은 유사시에 금방 팔 수 있게 threshold 낮춰줌
+        if power_rise / (power_fall + 0.00001) > power_threshold:
+            power_check = True
+        else:
+            power_check = False
+        # 가속도가 붙어 있을 때 살 것
+        if (np_pa > 0).sum() / len(np_pa) >= accel_threshold:
+            accel_check = True
+        else:
+            accel_check = False
+        # 최근 상승힘의 크기가 과거 상승힘의 크기보다 클 때 살 것
+        half = int(np.ceil(n/2))
+        power_old = np_power[:half]
+        power_old = power_old[(power_old >= 0)].sum()
+        power_recent = np_power[half:]
+        power_recent = power_recent[(power_recent >= 0)].sum()
+        if power_recent / (power_old + 0.00001) > power_ratio_threshold:
+            power_ratio_check = True
+        else:
+            power_ratio_check = False
+
+        # 일단 매매하는 순간 수수료 손실이 생기므로 매수는 신중하게
+        if power_check and accel_check and power_ratio_check:
+            return True
+        else:
+            return False
 
 
 if __name__ == "__main__":

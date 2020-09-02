@@ -24,7 +24,8 @@ class Trader(QMainWindow):
         self.open_api.py_gubun = "trader"
         self.condition_num = 0
         self.possessed_code_list = []
-        self.invest_unit = 200000
+        self.invest_unit = 100000
+        self.max_possess_num = 20
         ########## 매수 매도 알고리즘 번호 #############
 
         self.consider_len = 20
@@ -36,6 +37,10 @@ class Trader(QMainWindow):
         ################ 장 시간 확인 ###################
         # # 장시작 시간 설정
         self.market_start_time = QTime(9, 0, 0)
+
+        # 매수 중지 시간 설정
+        self.trade_end_time = QTime(9, 20, 0)
+
         # 장마감 시간 설정
         self.market_end_time = QTime(15, 20, 0)
 
@@ -119,7 +124,7 @@ class Trader(QMainWindow):
     def auto_trade_sell(self, code_list):
         logger.debug("auto_trade_sell!!!!! 매도할 거 있나 체크!!!")
         for code in code_list:
-            if self.open_api.agent.check_sell_condition_simulation(self.open_api.universe[code], consider_len=20, discount_rate=0.9, power_threshold=1, accel_threshold=0.5):
+            if self.open_api.agent.check_sell_condition_simulation(self.open_api.universe[code], consider_len=20, discount_rate=0.7, power_threshold=1, accel_threshold=0.7):
                 # 매도!!
 
                 logger.debug("send_order!!!!  code : " + str(code) + " number : " + str(self.open_api.universe[code].possessed_num))
@@ -144,11 +149,11 @@ class Trader(QMainWindow):
 
     def auto_trade_buy(self, code_list):
         for code in code_list:
-            if len(self.possessed_code_list) == 5:
+            if len(self.possessed_code_list) == self.max_possess_num:
                 break
             if code in self.possessed_code_list:
                 continue
-            if self.open_api.agent.check_buy_condition_simulation(self.open_api.universe[code], consider_len=20, discount_rate=0.92, power_threshold=2, power_ratio_threshold=2000, accel_threshold=0.3):
+            if self.open_api.agent.check_buy_condition_simulation(self.open_api.universe[code], consider_len=20, discount_rate=0.5, power_threshold=10, power_ratio_threshold=2000, accel_threshold=0.5):
 
             # state = self.open_api.universe[code]
             #
@@ -213,8 +218,10 @@ class Trader(QMainWindow):
                     self.auto_trade_sell(self.possessed_code_list)
 
                 # 업데이트된 정보를 바탕으로 매수 여부 판단 및 실행
-                # 우선순위에 따라 종목 코드 리스트 정렬
-                if self.open_api.universe_list != ['0']:
+                # universe에 종목이 하나라도 생기고, 매매 종료 기준 시간이 지나지 않은 경우 진행
+                self.current_time = QTime.currentTime()
+                if self.open_api.universe_list != ['0'] and self.current_time <= self.trade_end_time:
+                    # 우선순위에 따라 종목 코드 리스트 정렬, 현재는 거래량
                     buy_check_list = self.sort_code_list_by_volume(self.open_api.universe_list)
                     logger.debug("universe_list!!!!" + str(self.open_api.universe_list))
                     self.auto_trade_buy(buy_check_list)

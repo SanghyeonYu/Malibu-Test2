@@ -48,7 +48,7 @@ class Simulator():
         event.listen(self.engine_simulator_rocket, 'before_execute', escape_percentage, retval=True)
 
     def variable_setting(self):
-        self.date = "20200902"
+        self.date = "20200901"
 
         self.invest_unit = 200000
 
@@ -137,14 +137,14 @@ class Simulator():
 
         # 시뮬레이션 조건별 이터레이션
         consider_len_list = [20]
-        buy_discount_rate_list = [0.9, 0.95]
+        buy_discount_rate_list = [0.5, 0.7]
         sell_discount_rate_list = [0.5, 0.7, 0.9]
         buy_power_threshold_list = [2, 5, 10, 100]
         sell_power_threshold_list = [1, 2]
         buy_accel_threshold_list = [0.3, 0.5]
         sell_accel_threshold_list = [0.3, 0.5, 0.7]
         buy_power_ratio_threshold_list = [100, 2000, 20000]
-        end_time_list = [20200902091000, 20200902092000, 20200902093000, 20200902101000]
+        end_time_list = [20200901091000, 20200901092000, 20200901093000, 20200901101000]
         simulation_count = 0
         for consider_len in consider_len_list:
             for buy_discount_rate in buy_discount_rate_list:
@@ -161,7 +161,7 @@ class Simulator():
                                         #               str(buy_power_threshold) + "_" + str(sell_power_threshold) + "_" +\
                                         #               str(buy_accel_threshold) + "_" + str(sell_accel_threshold) + "_" +\
                                         #               str(buy_power_ratio_threshold)
-                                        record_name = "record_0902_" + str(simulation_count)
+                                        record_name = "record_" + self.date + "_b_" + str(simulation_count)
                                         df_record = pd.DataFrame(columns=['trade_index', 'code', 'buy_time', 'sell_time', 'buy_price', 'sell_price',
                                                                           'amount', 'profit', 'earning_rate'])
 
@@ -256,7 +256,7 @@ class Simulator():
                                             df_result = pd.DataFrame(result_dict)
                                             check = len(df_result.dropna())
                                             if check != 0:
-                                                df_result.to_sql("result_summary_0902", self.engine_simulator_rocket,
+                                                df_result.to_sql("result_summary_20200901_b", self.engine_simulator_rocket,
                                                                  if_exists='append')
 
 
@@ -264,9 +264,9 @@ class Simulator():
 
 if __name__ == "__main__":
     simulator = Simulator()
-    # simulator.run()
+    simulator.run()
 
-    sql = "select * from result_summary_0902"
+    sql = "select * from result_summary_20200901_b"
     data = simulator.engine_simulator_rocket.execute(sql).fetchall()
     df_data = pd.DataFrame(data, columns=['index',
                                           'consider_len',
@@ -282,5 +282,5 @@ if __name__ == "__main__":
                                            'total_trade_count',
                                            'oscillation_count',
                                            'oscillation_ratio'])
-    path = "result_summary_0902.csv"
+    path = "result_summary_20200901_b.csv"
     df_data.to_csv(path_or_buf=path)

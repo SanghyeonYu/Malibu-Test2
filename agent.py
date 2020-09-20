@@ -10,6 +10,7 @@ class State():
         self.code = code
         self.code_name = code_name
         self.yes_close = 0
+        self.open_price = 0
 
         self.price = deque()
         self.price_velocity = deque()
@@ -30,11 +31,14 @@ class State():
         self.possessed_num = 0
 
     def update_price(self, data):
+        # print(self.price)
         self.price.append(data)
+        # print(self.price)
         if len(self.price) > 60:
             self.price.popleft()
         # price_velocity, price_accel 업데이트
         if len(self.price) >= 2:
+            # print(self.price)
             self.price_velocity.append(self.price[-1] - self.price[-2])
             if len(self.price_velocity) > 60:
                 self.price_velocity.popleft()
@@ -60,13 +64,16 @@ class State():
             if len(self.volume_var) > 60:
                 self.volume_var.popleft()
 
+    def update_open_price(self, data):
+        self.open_price = data
+
     def update_hoga_amount(self, hoga_sell_amount, hoga_buy_amount):
         self.hoga_sell_amount.append(hoga_sell_amount)
         self.hoga_buy_amount.append(hoga_buy_amount)
         if hoga_sell_amount !=0 and hoga_buy_amount !=0:
             self.hoga_sell_ratio.append(hoga_sell_amount / hoga_buy_amount)
             self.hoga_buy_ratio.append(hoga_buy_amount / hoga_sell_amount)
-        if len(self.hoga_sell_amount) > 60:
+        if len(self.hoga_sell_amount) > 60 and len(self.hoga_buy_amount) > 60:
             self.hoga_sell_amount.popleft()
             self.hoga_buy_amount.popleft()
             self.hoga_sell_ratio.popleft()
@@ -241,12 +248,15 @@ class Agent():
             return False
 
 
-    def check_buy_condition_simulation(self, state, consider_len, discount_rate, power_threshold, power_ratio_threshold, accel_threshold):
+    def check_buy_condition_simulation(self, state, consider_len, discount_rate, power_threshold, power_ratio_threshold, accel_threshold, over_open_price):
         # 매수 / 매도 결정에 고려할 time step 개수 : consider_len
         # velocity 개수 : n
         n = consider_len - 1
         # 최소 time step만큼 관찰한 후에 살 것
         if len(state.price) < consider_len:
+            return False
+        # open_price = True이면, 현재가가 시가보다 낮으면 사지 말 것
+        if over_open_price == True and np.abs(state.open_price) > state.price[-1]:
             return False
 
         # 매수 / 매도 결정에 고려할 price, volume velocity ndarray로 저장
@@ -264,7 +274,7 @@ class Agent():
         np_power = np_pv * np_vv * discount_factor
         power_rise = np_power[(np_power >= 0)].sum()
         power_fall = np.abs(np_power[(np_power < 0)].sum())
-        # 매도 조건은 유사시에 금방 팔 수 있게 threshold 낮춰줌
+        # 매수 조건
         if power_rise / (power_fall + 0.00001) > power_threshold:
             power_check = True
         else:

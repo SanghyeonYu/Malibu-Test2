@@ -28,7 +28,7 @@ class Trader(QMainWindow):
         self.max_possess_num = 20
         ########## 매수 매도 알고리즘 번호 #############
 
-        self.consider_len = 20
+        self.consider_len = 30
         self.algorithm_sell_num = 2
         self.algorithm_buy_num = 2
 
@@ -39,7 +39,7 @@ class Trader(QMainWindow):
         self.market_start_time = QTime(9, 0, 0)
 
         # 매수 중지 시간 설정
-        self.trade_end_time = QTime(9, 20, 0)
+        self.trade_end_time = QTime(9, 10, 0)
 
         # 장마감 시간 설정
         self.market_end_time = QTime(15, 20, 0)
@@ -85,46 +85,10 @@ class Trader(QMainWindow):
         time.sleep(0.21)
 
 
-    # def check_sell_condition(self, state):
-    #     points = 0
-    #     weight = 0
-    #
-    #     if state['price'][-3] == 'a':
-    #         return False
-    #
-    #     if state['volume_var'][-1] >= 1.2:
-    #         weight = 3
-    #     elif state['volume_var'][-1] < 1.2 and state['volume_var'][-1] >= 0.84:
-    #         weight = 1
-    #     elif state['volume_var'][-1] < 0.84:
-    #         weight = 2
-    #
-    #     if state['price'][-1] <= state['main_resistance']:
-    #         return True
-    #
-    #     if state['price_velocity'][-1] >= 0:
-    #         if state['price_velocity'][-1] * 3 + state['price_accel'][-1] < 0 and state['volume_var'][-1] < 0.5 and state['hoga_sell_ratio'][-1] <= 0.55:
-    #             return True
-    #         return False
-    #     else:
-    #         if state['price_velocity'][-2] < 0 and weight == 2:
-    #             return True
-    #         points += weight
-    #
-    #     if state['hoga_sell_ratio'][-1] <= 0.55:
-    #         points += 2
-    #     elif state['hoga_sell_ratio'][-1] <= 0.7:
-    #         points += 1
-    #
-    #     if points >= 3:
-    #         return True
-    #
-    #     return False
-
     def auto_trade_sell(self, code_list):
         logger.debug("auto_trade_sell!!!!! 매도할 거 있나 체크!!!")
         for code in code_list:
-            if self.open_api.agent.check_sell_condition_simulation(self.open_api.universe[code], consider_len=20, discount_rate=0.7, power_threshold=1, accel_threshold=0.7):
+            if self.open_api.agent.check_sell_condition_simulation(self.open_api.universe[code], consider_len=30, discount_rate=0.8, power_threshold=1, accel_threshold=0.7):
                 # 매도!!
 
                 logger.debug("send_order!!!!  code : " + str(code) + " number : " + str(self.open_api.universe[code].possessed_num))
@@ -153,32 +117,7 @@ class Trader(QMainWindow):
                 break
             if code in self.possessed_code_list:
                 continue
-            if self.open_api.agent.check_buy_condition_simulation(self.open_api.universe[code], consider_len=20, discount_rate=0.5, power_threshold=10, power_ratio_threshold=2000, accel_threshold=0.5):
-
-            # state = self.open_api.universe[code]
-            #
-            # if state['price'][-3] == 'a':
-            #     continue
-            # if state['price'][-3] != 'a' and state['price'][-3] >= state['main_resistance']:
-            #     continue
-            #     # if state['price_velocity'][-1] * 4 + state['price_accel'][-1] >= 0 and state['volume_var'][-1] >= 1.2:
-            #     #     pass
-            #     # else:
-            #     #     continue
-            #
-            # if state['price_velocity'][-1] * 3 + state['price_accel'][-1] < 0 and state['volume_var'][-1] < 0.5 and state[
-            #     'hoga_sell_ratio'][-1] <= 0.55:
-            #     continue
-            #
-            # if state['price'][-1] >= state['threshold']:
-            #     pass
-            # else:
-            #     continue
-            # if state['price_velocity'][-1] > 0:
-            #     pass
-            # else:
-            #     continue
-
+            if self.open_api.agent.check_buy_condition_simulation(self.open_api.universe[code], consider_len=30, discount_rate=0.5, power_threshold=10, power_ratio_threshold=20000, accel_threshold=0.33, over_open_price=True):
             # 매수 진행
                 self.possessed_code_list.append(code)
                 buy_num = int(np.round(self.invest_unit / self.open_api.universe[code].price[-1]))
@@ -202,7 +141,7 @@ class Trader(QMainWindow):
             # 시간 체크
             if self.market_time_check():
                 # 조건 검색 결과로 universe 목록, 정보 업데이트
-                if count % 20 == 0:
+                if count % 19 == 0:
                     self.update_universe_list()
                     time.sleep(0.21)
 
@@ -228,7 +167,7 @@ class Trader(QMainWindow):
 
             # 5초를 판단 기준 단위로 삼음, 주문 및 조회 등 이벤트 여유 시간을 고려 4초 대기
             logger.debug("time sleep!! 4.5 seconds!!!    count : " + str(count) + "!!!")
-            time.sleep(4)
+            time.sleep(3.9)
             count += 1
 
 

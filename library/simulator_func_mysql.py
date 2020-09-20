@@ -382,7 +382,7 @@ class simulator_func_mysql:
 
         sql = "select code_name from stock_item_all where code = '%s'"
         code_name = self.engine_daily_buy_list.execute(sql % (code)).fetchall()
-        print(code_name)
+        # print(code_name)
         if code_name:
             return code_name[0][0]
         else:

@@ -1,0 +1,4 @@
+,index,end_time,consider_len_list,buy_discount_rate_list,sell_discount_rate_list,buy_power_threshold_list,sell_power_threshold_list,buy_accel_threshold_list,sell_accel_threshold_list,buy_power_ratio_threshold_list,over_open_price,geo_profit,geo_mean_earning_rate,mean_earning_rate,total_trade_count,oscillation_ratio,profit,profit_trade_count,profit_trade_mean_rate,loss_trade_count,loss_trade_mean_rate,profit_loss_count_ratio
+0,0,0910,20.0,0.4,0.6,10.0,1.0,0.5,0.7,1000.0,1.0,1.0558636920540172,1.002366234143527,0.25,23,0.57,5.75,8,1.62,15,-0.48,0.53
+1,0,0915,20.0,0.4,0.6,10.0,1.0,0.5,0.7,1000.0,1.0,1.022686860573625,1.0004774190551444,0.06,47,0.55,2.82,17,1.2,30,-0.6,0.57
+2,0,0920,20.0,0.4,0.6,10.0,1.0,0.5,0.7,1000.0,1.0,0.9602909516921108,0.9994525962887751,-0.05,74,0.58,-3.7,25,1.26,49,-0.71,0.51

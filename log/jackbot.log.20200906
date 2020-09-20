@@ -1,0 +1,158 @@
+[DEBUG|api_test.py:10] 2020-09-06 00:12:43,728 > api test !!!!!!
+[DEBUG|api_test.py:15] 2020-09-06 00:12:43,752 > Trader __init__!!!
+[DEBUG|open_api_test.py:328] 2020-09-06 00:12:47,980 > connected
+[DEBUG|open_api_test.py:265] 2020-09-06 00:12:47,981 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:272] 2020-09-06 00:12:47,981 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:268] 2020-09-06 00:12:47,981 > 계좌번호 : 8143059911
+[DEBUG|open_api_test.py:172] 2020-09-06 00:12:47,981 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api_test.py:190] 2020-09-06 00:12:47,981 > 모의투자 1!!
+[DEBUG|open_api_test.py:236] 2020-09-06 00:12:47,981 > db name !!! : JackBot1_imi1
+[DEBUG|open_api_test.py:227] 2020-09-06 00:12:48,029 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api_test.py:66] 2020-09-06 00:12:48,034 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api_test.py:67] 2020-09-06 00:12:48,034 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api_test.py:68] 2020-09-06 00:12:48,034 > self.sf.sell_list_num : 1
+[DEBUG|open_api_test.py:74] 2020-09-06 00:12:48,045 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:729] 2020-09-06 00:12:48,047 > init_db_setting_data_universe_rocket !! 
+[DEBUG|open_api_test.py:1945] 2020-09-06 00:12:48,243 > get_d2_deposit 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:315] 2020-09-06 00:12:48,274 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:323] 2020-09-06 00:12:48,274 > [00Z310] 모의투자 조회가 완료되었습니다
+[DEBUG|open_api_test.py:1956] 2020-09-06 00:12:48,275 > _opw00001!!!
+[DEBUG|open_api_test.py:1960] 2020-09-06 00:12:48,275 > 예수금!!!!
+[DEBUG|open_api_test.py:1961] 2020-09-06 00:12:48,275 > 000000500000000
+[DEBUG|open_api_test.py:846] 2020-09-06 00:12:48,276 > check_balance 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:315] 2020-09-06 00:12:48,296 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:323] 2020-09-06 00:12:48,296 > [00Z310] 모의투자 조회가 완료되었습니다
+[DEBUG|open_api_test.py:2177] 2020-09-06 00:12:48,297 > _opw00018!!!
+[DEBUG|simulator_test.py:75] 2020-09-06 00:12:48,312 > get_universe_list
+[DEBUG|api_test.py:10] 2020-09-06 00:13:19,555 > api test !!!!!!
+[DEBUG|api_test.py:15] 2020-09-06 00:13:19,575 > Trader __init__!!!
+[DEBUG|open_api_test.py:328] 2020-09-06 00:13:23,415 > connected
+[DEBUG|open_api_test.py:265] 2020-09-06 00:13:23,415 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:272] 2020-09-06 00:13:23,415 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:268] 2020-09-06 00:13:23,415 > 계좌번호 : 8143059911
+[DEBUG|open_api_test.py:172] 2020-09-06 00:13:23,415 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api_test.py:190] 2020-09-06 00:13:23,415 > 모의투자 1!!
+[DEBUG|open_api_test.py:236] 2020-09-06 00:13:23,416 > db name !!! : JackBot1_imi1
+[DEBUG|open_api_test.py:227] 2020-09-06 00:13:23,452 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api_test.py:66] 2020-09-06 00:13:23,459 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api_test.py:67] 2020-09-06 00:13:23,459 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api_test.py:68] 2020-09-06 00:13:23,459 > self.sf.sell_list_num : 1
+[DEBUG|open_api_test.py:74] 2020-09-06 00:13:23,470 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:80] 2020-09-06 00:13:23,470 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:92] 2020-09-06 00:13:23,505 > get_invest_unit 함수에 들어왔습니다!
+[DEBUG|simulator_test.py:75] 2020-09-06 00:13:23,507 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:13:24,348 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:13:25,182 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:13:26,320 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:13:27,297 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:13:28,431 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:13:29,426 > get_universe_list
+[DEBUG|api_test.py:10] 2020-09-06 00:14:33,560 > api test !!!!!!
+[DEBUG|api_test.py:15] 2020-09-06 00:14:33,580 > Trader __init__!!!
+[DEBUG|open_api_test.py:328] 2020-09-06 00:14:37,374 > connected
+[DEBUG|open_api_test.py:265] 2020-09-06 00:14:37,375 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:272] 2020-09-06 00:14:37,375 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:268] 2020-09-06 00:14:37,375 > 계좌번호 : 8143059911
+[DEBUG|open_api_test.py:172] 2020-09-06 00:14:37,375 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api_test.py:190] 2020-09-06 00:14:37,375 > 모의투자 1!!
+[DEBUG|open_api_test.py:236] 2020-09-06 00:14:37,375 > db name !!! : JackBot1_imi1
+[DEBUG|open_api_test.py:227] 2020-09-06 00:14:37,414 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api_test.py:66] 2020-09-06 00:14:37,423 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api_test.py:67] 2020-09-06 00:14:37,424 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api_test.py:68] 2020-09-06 00:14:37,424 > self.sf.sell_list_num : 1
+[DEBUG|open_api_test.py:74] 2020-09-06 00:14:37,434 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:80] 2020-09-06 00:14:37,435 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:92] 2020-09-06 00:14:37,462 > get_invest_unit 함수에 들어왔습니다!
+[DEBUG|simulator_test.py:75] 2020-09-06 00:14:37,463 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:14:38,393 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:14:39,398 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:14:40,719 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:14:41,783 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:14:43,146 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:14:44,277 > get_universe_list
+[DEBUG|api_test.py:10] 2020-09-06 00:15:04,363 > api test !!!!!!
+[DEBUG|api_test.py:15] 2020-09-06 00:15:04,382 > Trader __init__!!!
+[DEBUG|open_api_test.py:328] 2020-09-06 00:15:08,011 > connected
+[DEBUG|open_api_test.py:265] 2020-09-06 00:15:08,011 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:272] 2020-09-06 00:15:08,011 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:268] 2020-09-06 00:15:08,011 > 계좌번호 : 8143059911
+[DEBUG|open_api_test.py:172] 2020-09-06 00:15:08,011 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api_test.py:190] 2020-09-06 00:15:08,011 > 모의투자 1!!
+[DEBUG|open_api_test.py:236] 2020-09-06 00:15:08,011 > db name !!! : JackBot1_imi1
+[DEBUG|open_api_test.py:227] 2020-09-06 00:15:08,052 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api_test.py:66] 2020-09-06 00:15:08,060 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api_test.py:67] 2020-09-06 00:15:08,061 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api_test.py:68] 2020-09-06 00:15:08,061 > self.sf.sell_list_num : 1
+[DEBUG|open_api_test.py:74] 2020-09-06 00:15:08,071 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:80] 2020-09-06 00:15:08,072 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:92] 2020-09-06 00:15:08,096 > get_invest_unit 함수에 들어왔습니다!
+[DEBUG|simulator_test.py:75] 2020-09-06 00:15:08,097 > get_universe_list
+[DEBUG|api_test.py:10] 2020-09-06 00:15:34,468 > api test !!!!!!
+[DEBUG|api_test.py:15] 2020-09-06 00:15:34,490 > Trader __init__!!!
+[DEBUG|open_api_test.py:328] 2020-09-06 00:15:38,491 > connected
+[DEBUG|open_api_test.py:265] 2020-09-06 00:15:38,492 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:272] 2020-09-06 00:15:38,492 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:268] 2020-09-06 00:15:38,492 > 계좌번호 : 8143059911
+[DEBUG|open_api_test.py:172] 2020-09-06 00:15:38,492 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api_test.py:190] 2020-09-06 00:15:38,492 > 모의투자 1!!
+[DEBUG|open_api_test.py:236] 2020-09-06 00:15:38,492 > db name !!! : JackBot1_imi1
+[DEBUG|open_api_test.py:227] 2020-09-06 00:15:38,536 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api_test.py:66] 2020-09-06 00:15:38,542 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api_test.py:67] 2020-09-06 00:15:38,542 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api_test.py:68] 2020-09-06 00:15:38,542 > self.sf.sell_list_num : 1
+[DEBUG|open_api_test.py:74] 2020-09-06 00:15:38,553 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:80] 2020-09-06 00:15:38,553 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:92] 2020-09-06 00:15:38,577 > get_invest_unit 함수에 들어왔습니다!
+[DEBUG|simulator_test.py:75] 2020-09-06 00:15:38,578 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:15:39,315 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:15:40,080 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:15:41,069 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:15:41,893 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:15:42,867 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:15:43,729 > get_universe_list
+[DEBUG|api_test.py:10] 2020-09-06 00:25:18,317 > api test !!!!!!
+[DEBUG|api_test.py:15] 2020-09-06 00:25:18,339 > Trader __init__!!!
+[DEBUG|open_api_test.py:328] 2020-09-06 00:25:22,415 > connected
+[DEBUG|open_api_test.py:265] 2020-09-06 00:25:22,415 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:272] 2020-09-06 00:25:22,415 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:268] 2020-09-06 00:25:22,415 > 계좌번호 : 8143059911
+[DEBUG|open_api_test.py:172] 2020-09-06 00:25:22,416 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api_test.py:190] 2020-09-06 00:25:22,416 > 모의투자 1!!
+[DEBUG|open_api_test.py:236] 2020-09-06 00:25:22,416 > db name !!! : JackBot1_imi1
+[DEBUG|open_api_test.py:227] 2020-09-06 00:25:22,455 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api_test.py:66] 2020-09-06 00:25:22,460 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api_test.py:67] 2020-09-06 00:25:22,460 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api_test.py:68] 2020-09-06 00:25:22,460 > self.sf.sell_list_num : 1
+[DEBUG|open_api_test.py:74] 2020-09-06 00:25:22,471 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:80] 2020-09-06 00:25:22,472 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:92] 2020-09-06 00:25:22,502 > get_invest_unit 함수에 들어왔습니다!
+[DEBUG|simulator_test.py:75] 2020-09-06 00:25:22,503 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:25:32,936 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:25:43,711 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:25:59,045 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:26:09,969 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:26:29,555 > get_universe_list
+[DEBUG|simulator_test.py:75] 2020-09-06 00:26:42,961 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 00:36:27,609 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 00:38:17,811 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 01:04:55,380 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 01:32:36,434 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 02:14:08,412 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 02:40:58,329 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 03:08:52,582 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 03:46:20,672 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 04:13:38,472 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 04:59:53,751 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 05:31:09,963 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 06:00:18,820 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 06:49:10,955 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 07:32:26,087 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 20:36:30,609 > get_universe_list
+[DEBUG|simulator_test.py:77] 2020-09-06 20:37:15,592 > get_universe_list
+[DEBUG|simulator_test.py:77] 2020-09-06 20:47:21,643 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 20:49:16,347 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 21:15:59,220 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 21:43:59,942 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 22:21:52,950 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 22:48:52,598 > get_universe_list
+[DEBUG|simulator_test.py:76] 2020-09-06 23:34:51,480 > get_universe_list

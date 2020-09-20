@@ -247,11 +247,19 @@ class open_api(QAxWidget):
         self.engine_universe_rocket = create_engine(
             "mysql+mysqldb://" + cf.db_id + ":" + cf.db_passwd + "@" + cf.db_ip + ":" + cf.db_port + "/universe_rocket",
             encoding='utf-8')
+        self.engine_tick_craw = create_engine(
+            "mysql+mysqldb://" + cf.db_id + ":" + cf.db_passwd + "@" + cf.db_ip + ":" + cf.db_port + "/tick_craw",
+            encoding='utf-8')
+        self.engine_universe_new_rocket = create_engine(
+            "mysql+mysqldb://" + cf.db_id + ":" + cf.db_passwd + "@" + cf.db_ip + ":" + cf.db_port + "/universe_new_rocket",
+            encoding='utf-8')
 
         event.listen(self.engine_craw, 'before_execute', escape_percentage, retval=True)
         event.listen(self.engine_daily_craw, 'before_execute', escape_percentage, retval=True)
         event.listen(self.engine_daily_buy_list, 'before_execute', escape_percentage, retval=True)
         event.listen(self.engine_universe_rocket, 'before_execute', escape_percentage, retval=True)
+        event.listen(self.engine_tick_craw, 'before_execute', escape_percentage, retval=True)
+        event.listen(self.engine_universe_new_rocket, 'before_execute', escape_percentage, retval=True)
 
         if not self.is_database_exist():
             self.create_database()
@@ -360,6 +368,12 @@ class open_api(QAxWidget):
         ret = self.dynamicCall("GetCommData(QString, QString, int, QString", code, field_name, index, item_name)
         return ret.strip()
 
+    def _get_comm_data_ex(self, code, record_name):
+        logger.debug('calling GetCommDataEx...' + str(code) + str(record_name))
+        # self.exit_check()
+        ret = self.dynamicCall("GetCommDataEx(QString, QString", code, record_name)
+        return ret.strip()
+
     def _get_repeat_cnt(self, trcode, rqname):
         try:
             ret = self.dynamicCall("GetRepeatCnt(QString, QString)", trcode, rqname)
@@ -410,6 +424,10 @@ class open_api(QAxWidget):
             # logger.debug("opt10073_req")
             # logger.debug("Get today profit !!!!")
             self._opt10073(rqname, trcode)
+        elif rqname == "opt10079_req":
+            # logger.debug("opt10079_req!!!")
+            # logger.debug("Get an de_deposit!!!")
+            self._opt10079(rqname, trcode)
         elif rqname == "opt10080_req":
             # logger.debug("opt10080_req!!!")
             # logger.debug("Get an de_deposit!!!")
@@ -436,7 +454,7 @@ class open_api(QAxWidget):
         ret = self.dynamicCall("SetRealReg(QString, QString, QString, QString)", screen_no, code_list, fid_list, opt_type)
         logger.debug(str(ret))
 
-        self.make_event_loop()
+        # self.make_event_loop()
 
         #  이것도 경우2인 경우 돌려봐, 아마 될 것 같음!!!
         # for i in range(2):
@@ -750,11 +768,12 @@ class open_api(QAxWidget):
         df_setting_data.to_sql(self.universe_list_table_name, self.engine_universe_rocket, if_exists='replace')
 
     def update_db_universe_rocket(self):
+        logger.debug("update_db_universe_rocket")
         table_name = self.today + "_" + self.temp_data['code'][0]
         self.temp_data['hoga_sell_amount'] = [int(0)]
         self.temp_data['hoga_buy_amount'] = [int(0)]
         df_temp_data = DataFrame(self.temp_data,
-                                 columns=['time', 'code', 'price', 'volume', 'hoga_sell_amount', 'hoga_buy_amount'])
+                                 columns=['time', 'code', 'price', 'volume', 'hoga_sell_amount', 'hoga_buy_amount', 'open_price'])
         df_temp_data.to_sql(table_name, self.engine_universe_rocket, if_exists='append')
 
     def update_db_universe_rocket_hoga(self, i):
@@ -905,6 +924,49 @@ class open_api(QAxWidget):
             possesed_item.loc[i, 'item_total_purchase'] = int(row[6])
         # possessed_item 테이블에 현재 보유 종목을 넣는다.
         possesed_item.to_sql('possessed_item', self.engine_JB, if_exists='replace')
+
+    def get_total_data_tick(self, code, date):
+        logger.debug("get_total_data_tick : " + str(code))
+        self.ohlcv = defaultdict(list)
+
+        self.set_input_value("종목코드", code)
+        self.set_input_value("틱범위", 30)
+        self.set_input_value("수정주가구분", 1)
+        self.comm_rq_data("opt10079_req", "opt10079", 0, "1999")
+        time.sleep(TR_REQ_TIME_INTERVAL)
+
+
+
+        while self.remained_data == True:
+            time.sleep(TR_REQ_TIME_INTERVAL)
+            self.set_input_value("종목코드", code)
+            self.set_input_value("틱범위", 30)
+            self.set_input_value("수정주가구분", 1)
+            self.comm_rq_data("opt10079_req", "opt10079", 2, "1999")
+
+            if self.ohlcv['date'][-1] < date + "090000":
+                break
+
+            time.sleep(TR_REQ_TIME_INTERVAL)
+        #
+        # if len(self.ohlcv['date']) == 0 or self.ohlcv['date'][0] == '':
+        #     return []
+        # # 위에 에러나면 이거해봐 일단 여기 try catch 해야함
+        # if self.ohlcv['date'] == '':
+        #     return []
+
+        df = DataFrame(self.ohlcv, columns=['date', 'close', 'volume'])
+        df = df[df['date'] >= date + "090000"]
+        df.sort_values(by=['date'], inplace=True, ascending=True)
+
+        df.to_sql(name=code, con=self.engine_tick_craw, if_exists='append')
+
+        sql = "update `" + '_'.join([date, "setting_data"]) + "` set `check` = 1 where code = " + code
+        self.engine_tick_craw.execute(sql)
+
+        # return df
+
+
 
     # get_total_data_min : 특정 종목의 틱 (1분별) 데이터 조회 함수
     # 사용방법
@@ -1138,6 +1200,23 @@ class open_api(QAxWidget):
     # price – 주문단가
     # hoga - 거래구분
     # order_no  – 원주문번호
+
+    def _opt10079(self, rqname, trcode):
+        logger.debug("_opt10079!!!")
+        data_cnt = self._get_repeat_cnt(trcode, rqname)
+
+        # tick_chart = self._get_comm_data_ex(trcode, "주식틱차트조회")
+        # print(tick_chart)
+
+
+        for i in range(data_cnt):
+            date = self._get_comm_data(trcode, rqname, i, "체결시간")
+            close = self._get_comm_data(trcode, rqname, i, "현재가")
+            volume = self._get_comm_data(trcode, rqname, i, "거래량")
+
+            self.ohlcv['date'].append(date)
+            self.ohlcv['close'].append(abs(int(close)))
+            self.ohlcv['volume'].append(int(volume))
 
     def _opt10080(self, rqname, trcode):
         data_cnt = self._get_repeat_cnt(trcode, rqname)
@@ -1950,6 +2029,9 @@ class open_api(QAxWidget):
                 price = price.strip('+')
                 price = float(price)
                 self.temp_data['price'] = [int(price)]
+                # logger.debug(str(self.temp_data['price']))
+                # logger.debug(str(self.universe_list))
+                # logger.debug(str(self.universe))
                 self.universe[self.universe_list[i]].update_price(price)
 
                 volume = self._get_comm_data(trcode, rqname, i, "거래량")
@@ -1957,6 +2039,13 @@ class open_api(QAxWidget):
                 volume = float(volume)
                 self.temp_data['volume'] = [int(volume)]
                 self.universe[self.universe_list[i]].update_volume(volume)
+
+                open_price = self._get_comm_data(trcode, rqname, i, "시가")
+                # logger.debug("시가 " + str(i) + " : " + str(open_price))
+
+                open_price = float(open_price)
+                self.temp_data['open_price'] = [int(open_price)]
+                self.universe[self.universe_list[i]].update_open_price(open_price)
 
                 self.universe[self.universe_list[i]].update_main_resistance()
                 self.update_db_universe_rocket()

@@ -34,18 +34,18 @@ class Ali_Environment():
         self.db_name_setting()
         self.candidate_universe_init()
 
-
     # region Environment init setting
     def variable_setting(self):
         self.date_list = ["20200824", "20200825", "20200826", "20200827", "20200828",
                           "20200831", "20200901", "20200902", "20200903", "20200904",
                           "20200907", "20200908", "20200909", "20200910", "20200911",
                           "20200914", "20200915", "20200916", "20200917"]
-        self.last_date_list = ["20200821",
-                               "20200824", "20200825", "20200826", "20200827", "20200828",
-                               "20200831", "20200901", "20200902", "20200903", "20200904",
-                               "20200907", "20200908", "20200909", "20200910", "20200911",
-                               "20200914", "20200915", "20200916"]
+        self.date_list = ["20200922"]
+        # self.last_date_list = ["20200821",
+        #                        "20200824", "20200825", "20200826", "20200827", "20200828",
+        #                        "20200831", "20200901", "20200902", "20200903", "20200904",
+        #                        "20200907", "20200908", "20200909", "20200910", "20200911",
+        #                        "20200914", "20200915", "20200916"]
 
         start_time_str = "20200918" + "090000"
         start_time = datetime.strptime(start_time_str, "%Y%m%d%H%M%S")
@@ -54,6 +54,8 @@ class Ali_Environment():
             self.time_stamp_list.append(datetime.strftime(start_time + timedelta(0, 5 * i), "%Y%m%d%H%M%S")[-6:])
 
         # np.random.seed(42)
+
+
 
     def db_name_setting(self):
         self.engine_universe_new_rocket = create_engine(
@@ -65,9 +67,17 @@ class Ali_Environment():
         self.engine_daily_craw = create_engine(
             "mysql+mysqldb://" + cf.db_id + ":" + cf.db_passwd + "@" + cf.db_ip + ":" + cf.db_port + "/daily_craw",
             encoding='utf-8')
+        self.engine_trader_ali = create_engine(
+            "mysql+mysqldb://" + cf.db_id + ":" + cf.db_passwd + "@" + cf.db_ip + ":" + cf.db_port + "/trader_ali",
+            encoding='utf-8')
+        self.engine_simulator_ali = create_engine(
+            "mysql+mysqldb://" + cf.db_id + ":" + cf.db_passwd + "@" + cf.db_ip + ":" + cf.db_port + "/simulator_ali",
+            encoding='utf-8')
         event.listen(self.engine_universe_new_rocket, 'before_execute', escape_percentage, retval=True)
         event.listen(self.engine_daily_buy_list, 'before_execute', escape_percentage, retval=True)
         event.listen(self.engine_daily_craw, 'before_execute', escape_percentage, retval=True)
+        event.listen(self.engine_trader_ali, 'before_execute', escape_percentage, retval=True)
+        event.listen(self.engine_simulator_ali, 'before_execute', escape_percentage, retval=True)
 
     def candidate_universe_init(self):
         self.candidate_universe_list = []
@@ -88,11 +98,16 @@ class Ali_Environment():
             return False
     # endregion Environment init setting
 
-    def reset(self):
+    def reset(self, index):
         # logger.debug("environment reset!!")
         self.done = False
-        # 데이터 하나 랜덤 추출
-        universe_name = self.candidate_universe_list[np.random.choice(len(self.candidate_universe_list), 1)[0]]
+        # train 할 때는 index = None 지정, 랜덤 추출한 데이터로 학습
+        if index == None:
+            # 데이터 하나 랜덤 추출
+            universe_name = self.candidate_universe_list[np.random.choice(len(self.candidate_universe_list), 1)[0]]
+        else:
+            universe_name = self.candidate_universe_list[index]
+            self.universe_name = universe_name
         date, code = universe_name.split('_')
         code_name = self.get_name_by_code(code)
         # logger.debug("train with " + str(universe_name) + "!!!")

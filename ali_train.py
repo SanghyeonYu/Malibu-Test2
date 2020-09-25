@@ -291,7 +291,7 @@ class Runner(threading.Thread):
             done = False
 
             score = 0
-            observe = self.env.reset()
+            observe = self.env.reset(index=None)
             done = self.env.done
 
             # 프레임을 전처리 한 후 4개의 상태를 쌓아서 입력값으로 사용.

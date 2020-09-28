@@ -1,0 +1,472 @@
+[DEBUG|api_test.py:10] 2020-09-26 14:15:15,183 > api test !!!!!!
+[DEBUG|api_test.py:15] 2020-09-26 14:15:15,202 > Trader __init__!!!
+[DEBUG|open_api_test.py:336] 2020-09-26 14:15:21,789 > connected
+[DEBUG|open_api_test.py:273] 2020-09-26 14:15:21,789 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:280] 2020-09-26 14:15:21,789 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:276] 2020-09-26 14:15:21,789 > 계좌번호 : 8143059911
+[DEBUG|open_api_test.py:172] 2020-09-26 14:15:21,790 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api_test.py:190] 2020-09-26 14:15:21,790 > 모의투자 1!!
+[DEBUG|open_api_test.py:236] 2020-09-26 14:15:21,790 > db name !!! : JackBot1_imi1
+[DEBUG|open_api_test.py:227] 2020-09-26 14:15:21,829 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api_test.py:66] 2020-09-26 14:15:21,835 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api_test.py:67] 2020-09-26 14:15:21,835 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api_test.py:68] 2020-09-26 14:15:21,835 > self.sf.sell_list_num : 1
+[DEBUG|open_api_test.py:74] 2020-09-26 14:15:21,847 > setting_data db 존재한다!!!
+[DEBUG|open_api_test.py:737] 2020-09-26 14:15:21,848 > init_db_setting_data_universe_rocket !! 
+[DEBUG|open_api_test.py:1959] 2020-09-26 14:15:22,160 > get_d2_deposit 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:323] 2020-09-26 14:15:23,830 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:331] 2020-09-26 14:15:23,831 > [00Z310] 모의투자 조회가 완료되었습니다
+[DEBUG|open_api_test.py:1970] 2020-09-26 14:15:23,831 > _opw00001!!!
+[DEBUG|open_api_test.py:1974] 2020-09-26 14:15:23,831 > 예수금!!!!
+[DEBUG|open_api_test.py:1975] 2020-09-26 14:15:23,831 > 000000500000000
+[DEBUG|open_api_test.py:855] 2020-09-26 14:15:23,832 > check_balance 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:323] 2020-09-26 14:15:23,852 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api_test.py:331] 2020-09-26 14:15:23,852 > [00Z310] 모의투자 조회가 완료되었습니다
+[DEBUG|open_api_test.py:2196] 2020-09-26 14:15:23,852 > _opw00018!!!
+[DEBUG|simulator_test2.py:108] 2020-09-26 14:16:44,597 > get_universe_list
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:44,617 > get_total_data_tick : 010140
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:44,691 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:45,308 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:45,411 > 1번째 완료!! code : 010140
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:45,411 > get_total_data_tick : 012280
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:45,474 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:46,091 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:46,214 > 2번째 완료!! code : 012280
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:46,214 > get_total_data_tick : 009460
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:46,278 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:46,894 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:47,002 > 3번째 완료!! code : 009460
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:47,003 > get_total_data_tick : 105560
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:47,071 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:47,687 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:47,894 > 4번째 완료!! code : 105560
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:47,894 > get_total_data_tick : 000400
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:47,948 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:48,368 > 5번째 완료!! code : 000400
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:48,368 > get_total_data_tick : 004770
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:48,439 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:49,046 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:49,663 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:50,279 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:50,473 > 6번째 완료!! code : 004770
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:50,473 > get_total_data_tick : 003520
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:50,545 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:51,163 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:51,325 > 7번째 완료!! code : 003520
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:51,325 > get_total_data_tick : 005870
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:51,399 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:52,004 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:52,289 > 8번째 완료!! code : 005870
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:52,289 > get_total_data_tick : 014710
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:52,358 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:52,974 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:53,144 > 9번째 완료!! code : 014710
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:53,144 > get_total_data_tick : 013000
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:53,220 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:53,837 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:54,454 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:55,069 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:55,685 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:55,981 > 10번째 완료!! code : 013000
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:55,981 > get_total_data_tick : 006490
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:56,052 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:56,668 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:56,793 > 11번째 완료!! code : 006490
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:56,794 > get_total_data_tick : 011150
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:56,856 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:57,472 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:57,574 > 12번째 완료!! code : 011150
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:57,575 > get_total_data_tick : 092220
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:57,640 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:58,248 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:58,344 > 13번째 완료!! code : 092220
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:58,344 > get_total_data_tick : 011280
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:58,406 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:59,015 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:59,624 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:16:59,785 > 14번째 완료!! code : 011280
+[DEBUG|open_api_test.py:929] 2020-09-26 14:16:59,785 > get_total_data_tick : 267850
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:16:59,851 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:00,454 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:17:00,729 > 15번째 완료!! code : 267850
+[DEBUG|open_api_test.py:929] 2020-09-26 14:17:00,730 > get_total_data_tick : 020560
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:00,803 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:01,414 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:17:01,552 > 16번째 완료!! code : 020560
+[DEBUG|open_api_test.py:929] 2020-09-26 14:17:01,552 > get_total_data_tick : 011000
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:01,616 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:02,229 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:02,841 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:03,460 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:17:04,118 > 17번째 완료!! code : 011000
+[DEBUG|open_api_test.py:929] 2020-09-26 14:17:04,118 > get_total_data_tick : 010820
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:04,189 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:04,791 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:17:04,883 > 18번째 완료!! code : 010820
+[DEBUG|open_api_test.py:929] 2020-09-26 14:17:04,883 > get_total_data_tick : 025750
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:04,951 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:05,559 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:17:05,680 > 19번째 완료!! code : 025750
+[DEBUG|open_api_test.py:929] 2020-09-26 14:17:05,680 > get_total_data_tick : 006090
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:05,756 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:06,383 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:06,999 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:07,656 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:08,282 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:08,889 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:09,495 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:10,097 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:17:10,541 > 20번째 완료!! code : 006090
+[DEBUG|open_api_test.py:929] 2020-09-26 14:17:10,541 > get_total_data_tick : 019170
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:10,611 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:11,218 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:17:11,460 > 21번째 완료!! code : 019170
+[DEBUG|open_api_test.py:929] 2020-09-26 14:17:11,460 > get_total_data_tick : 298690
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:11,535 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:12,141 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:17:12,300 > 22번째 완료!! code : 298690
+[DEBUG|open_api_test.py:929] 2020-09-26 14:17:12,300 > get_total_data_tick : 002630
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:12,377 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:12,994 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:17:13,230 > 23번째 완료!! code : 002630
+[DEBUG|open_api_test.py:929] 2020-09-26 14:17:13,230 > get_total_data_tick : 003060
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:13,300 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:13,917 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:17:14,234 > 24번째 완료!! code : 003060
+[DEBUG|open_api_test.py:929] 2020-09-26 14:17:14,234 > get_total_data_tick : 082800
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:14,315 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:14,932 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:15,538 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:17:16,154 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:17:16,463 > 25번째 완료!! code : 082800
+[DEBUG|open_api_test.py:929] 2020-09-26 14:18:46,464 > get_total_data_tick : 118990
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:46,536 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:47,143 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:47,751 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:18:48,074 > 26번째 완료!! code : 118990
+[DEBUG|open_api_test.py:929] 2020-09-26 14:18:48,074 > get_total_data_tick : 013810
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:48,147 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:48,763 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:49,381 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:18:49,576 > 27번째 완료!! code : 013810
+[DEBUG|open_api_test.py:929] 2020-09-26 14:18:49,576 > get_total_data_tick : 238090
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:49,647 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:50,265 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:18:50,452 > 28번째 완료!! code : 238090
+[DEBUG|open_api_test.py:929] 2020-09-26 14:18:50,452 > get_total_data_tick : 008290
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:50,523 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:51,141 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:18:51,311 > 29번째 완료!! code : 008290
+[DEBUG|open_api_test.py:929] 2020-09-26 14:18:51,311 > get_total_data_tick : 080220
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:51,388 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:51,994 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:18:52,101 > 30번째 완료!! code : 080220
+[DEBUG|open_api_test.py:929] 2020-09-26 14:18:52,101 > get_total_data_tick : 036120
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:52,180 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:52,796 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:53,405 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:54,021 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:54,638 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:55,245 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:18:55,561 > 31번째 완료!! code : 036120
+[DEBUG|open_api_test.py:929] 2020-09-26 14:18:55,561 > get_total_data_tick : 217270
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:55,634 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:56,241 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:18:56,517 > 32번째 완료!! code : 217270
+[DEBUG|open_api_test.py:929] 2020-09-26 14:18:56,518 > get_total_data_tick : 323990
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:56,586 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:57,201 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:57,806 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:18:58,132 > 33번째 완료!! code : 323990
+[DEBUG|open_api_test.py:929] 2020-09-26 14:18:58,132 > get_total_data_tick : 046120
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:58,212 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:58,819 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:18:59,439 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:00,046 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:00,297 > 34번째 완료!! code : 046120
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:00,298 > get_total_data_tick : 239340
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:00,371 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:00,979 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:01,585 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:02,191 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:02,808 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:03,121 > 35번째 완료!! code : 239340
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:03,121 > get_total_data_tick : 043610
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:03,194 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:03,812 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:04,055 > 36번째 완료!! code : 043610
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:04,055 > get_total_data_tick : 241820
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:04,129 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:04,735 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:04,939 > 37번째 완료!! code : 241820
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:04,939 > get_total_data_tick : 024740
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:05,013 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:05,621 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:06,239 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:06,867 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:07,070 > 38번째 완료!! code : 024740
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:07,070 > get_total_data_tick : 267320
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:07,154 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:07,782 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:08,399 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:09,026 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:09,641 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:10,256 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:10,873 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:11,266 > 39번째 완료!! code : 267320
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:11,266 > get_total_data_tick : 039560
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:11,338 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:11,955 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:12,111 > 40번째 완료!! code : 039560
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:12,111 > get_total_data_tick : 122690
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:12,181 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:12,797 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:12,968 > 41번째 완료!! code : 122690
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:12,969 > get_total_data_tick : 226330
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:13,034 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:13,651 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:13,823 > 42번째 완료!! code : 226330
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:13,823 > get_total_data_tick : 200230
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:13,888 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:14,505 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:15,113 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:15,730 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:16,346 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:16,953 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:17,533 > 43번째 완료!! code : 200230
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:17,534 > get_total_data_tick : 317120
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:17,602 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:18,217 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:18,359 > 44번째 완료!! code : 317120
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:18,359 > get_total_data_tick : 072520
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:18,433 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:19,040 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:19,173 > 45번째 완료!! code : 072520
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:19,174 > get_total_data_tick : 033320
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:19,247 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:19,853 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:20,469 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:21,087 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:21,366 > 46번째 완료!! code : 033320
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:21,366 > get_total_data_tick : 054040
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:21,430 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:21,903 > 47번째 완료!! code : 054040
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:21,903 > get_total_data_tick : 058400
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:21,977 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:22,584 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:22,704 > 48번째 완료!! code : 058400
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:22,704 > get_total_data_tick : 289080
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:22,779 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:23,397 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:24,015 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:24,631 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:25,250 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:25,858 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:26,485 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:27,100 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:27,376 > 49번째 완료!! code : 289080
+[DEBUG|open_api_test.py:929] 2020-09-26 14:19:27,376 > get_total_data_tick : 225570
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:19:27,441 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:19:27,857 > 50번째 완료!! code : 225570
+[DEBUG|open_api_test.py:929] 2020-09-26 14:20:57,857 > get_total_data_tick : 011370
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:20:57,922 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:20:58,538 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:20:58,687 > 51번째 완료!! code : 011370
+[DEBUG|open_api_test.py:929] 2020-09-26 14:20:58,687 > get_total_data_tick : 031330
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:20:58,762 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:20:59,374 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:20:59,464 > 52번째 완료!! code : 031330
+[DEBUG|open_api_test.py:929] 2020-09-26 14:20:59,464 > get_total_data_tick : 018000
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:20:59,537 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:00,153 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:00,279 > 53번째 완료!! code : 018000
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:00,279 > get_total_data_tick : 020180
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:00,349 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:00,966 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:01,155 > 54번째 완료!! code : 020180
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:01,155 > get_total_data_tick : 094170
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:01,231 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:01,848 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:02,117 > 55번째 완료!! code : 094170
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:02,117 > get_total_data_tick : 065450
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:02,193 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:02,808 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:03,426 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:04,032 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:04,648 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:05,265 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:05,881 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:06,488 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:07,104 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:07,510 > 56번째 완료!! code : 065450
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:07,510 > get_total_data_tick : 027360
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:07,581 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:08,199 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:08,806 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:09,036 > 57번째 완료!! code : 027360
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:09,036 > get_total_data_tick : 119500
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:09,123 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:09,728 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:09,888 > 58번째 완료!! code : 119500
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:09,889 > get_total_data_tick : 022100
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:09,963 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:10,579 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:10,708 > 59번째 완료!! code : 022100
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:10,708 > get_total_data_tick : 051490
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:10,785 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:11,401 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:12,017 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:12,235 > 60번째 완료!! code : 051490
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:12,235 > get_total_data_tick : 087260
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:12,306 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:12,922 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:13,195 > 61번째 완료!! code : 087260
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:13,195 > get_total_data_tick : 065350
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:13,268 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:13,884 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:14,037 > 62번째 완료!! code : 065350
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:14,037 > get_total_data_tick : 032820
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:14,109 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:14,726 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:14,893 > 63번째 완료!! code : 032820
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:14,893 > get_total_data_tick : 226360
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:14,962 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:15,578 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:15,715 > 64번째 완료!! code : 226360
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:15,715 > get_total_data_tick : 064820
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:15,785 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:16,402 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:16,636 > 65번째 완료!! code : 064820
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:16,637 > get_total_data_tick : 042040
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:16,709 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:17,324 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:17,933 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:18,551 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:19,166 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:19,783 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:20,400 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:21,019 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:21,627 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:22,244 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:22,952 > 66번째 완료!! code : 042040
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:22,952 > get_total_data_tick : 123840
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:23,021 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:23,640 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:23,840 > 67번째 완료!! code : 123840
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:23,840 > get_total_data_tick : 161570
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:23,906 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:24,524 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:24,652 > 68번째 완료!! code : 161570
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:24,652 > get_total_data_tick : 217620
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:24,720 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:25,338 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:25,481 > 69번째 완료!! code : 217620
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:25,481 > get_total_data_tick : 093520
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:25,555 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:26,171 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:26,415 > 70번째 완료!! code : 093520
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:26,416 > get_total_data_tick : 046310
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:26,467 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:26,765 > 71번째 완료!! code : 046310
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:26,765 > get_total_data_tick : 051980
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:26,834 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:27,441 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:27,548 > 72번째 완료!! code : 051980
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:27,548 > get_total_data_tick : 050890
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:27,619 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:28,235 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:28,336 > 73번째 완료!! code : 050890
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:28,336 > get_total_data_tick : 067630
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:28,402 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:29,021 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:29,270 > 74번째 완료!! code : 067630
+[DEBUG|open_api_test.py:929] 2020-09-26 14:21:29,270 > get_total_data_tick : 043220
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:29,337 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:21:29,953 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:21:30,055 > 75번째 완료!! code : 043220
+[DEBUG|open_api_test.py:929] 2020-09-26 14:23:00,055 > get_total_data_tick : 246960
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:23:00,134 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:23:00,726 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:23:00,903 > 76번째 완료!! code : 246960
+[DEBUG|open_api_test.py:929] 2020-09-26 14:23:00,903 > get_total_data_tick : 054450
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:23:00,973 > _opt10079!!!
+[DEBUG|open_api_test.py:1205] 2020-09-26 14:23:01,589 > _opt10079!!!
+[DEBUG|api_test.py:129] 2020-09-26 14:23:01,745 > 77번째 완료!! code : 054450
+[DEBUG|simulator_test2.py:88] 2020-09-26 14:23:01,745 > get_universe_list
+[DEBUG|api_test.py:167] 2020-09-26 14:23:03,440 > create universe from tick data!!!! code : 010140
+[DEBUG|api_test.py:167] 2020-09-26 14:23:05,091 > create universe from tick data!!!! code : 012280
+[DEBUG|api_test.py:167] 2020-09-26 14:23:06,714 > create universe from tick data!!!! code : 009460
+[DEBUG|api_test.py:167] 2020-09-26 14:23:08,317 > create universe from tick data!!!! code : 105560
+[DEBUG|api_test.py:167] 2020-09-26 14:23:10,009 > create universe from tick data!!!! code : 000400
+[DEBUG|api_test.py:167] 2020-09-26 14:23:11,711 > create universe from tick data!!!! code : 004770
+[DEBUG|api_test.py:167] 2020-09-26 14:23:13,392 > create universe from tick data!!!! code : 003520
+[DEBUG|api_test.py:167] 2020-09-26 14:23:15,027 > create universe from tick data!!!! code : 005870
+[DEBUG|api_test.py:167] 2020-09-26 14:23:16,591 > create universe from tick data!!!! code : 014710
+[DEBUG|api_test.py:167] 2020-09-26 14:23:18,366 > create universe from tick data!!!! code : 013000
+[DEBUG|api_test.py:167] 2020-09-26 14:23:20,021 > create universe from tick data!!!! code : 006490
+[DEBUG|api_test.py:167] 2020-09-26 14:23:21,688 > create universe from tick data!!!! code : 011150
+[DEBUG|api_test.py:167] 2020-09-26 14:23:23,308 > create universe from tick data!!!! code : 092220
+[DEBUG|api_test.py:167] 2020-09-26 14:23:24,919 > create universe from tick data!!!! code : 011280
+[DEBUG|api_test.py:167] 2020-09-26 14:23:26,677 > create universe from tick data!!!! code : 267850
+[DEBUG|api_test.py:167] 2020-09-26 14:23:28,309 > create universe from tick data!!!! code : 020560
+[DEBUG|api_test.py:167] 2020-09-26 14:23:30,093 > create universe from tick data!!!! code : 011000
+[DEBUG|api_test.py:167] 2020-09-26 14:23:31,712 > create universe from tick data!!!! code : 010820
+[DEBUG|api_test.py:167] 2020-09-26 14:23:33,328 > create universe from tick data!!!! code : 025750
+[DEBUG|api_test.py:167] 2020-09-26 14:23:35,091 > create universe from tick data!!!! code : 006090
+[DEBUG|api_test.py:167] 2020-09-26 14:23:36,835 > create universe from tick data!!!! code : 019170
+[DEBUG|api_test.py:167] 2020-09-26 14:23:38,470 > create universe from tick data!!!! code : 298690
+[DEBUG|api_test.py:167] 2020-09-26 14:23:40,100 > create universe from tick data!!!! code : 002630
+[DEBUG|api_test.py:167] 2020-09-26 14:23:41,765 > create universe from tick data!!!! code : 003060
+[DEBUG|api_test.py:167] 2020-09-26 14:23:43,534 > create universe from tick data!!!! code : 082800
+[DEBUG|api_test.py:167] 2020-09-26 14:23:45,318 > create universe from tick data!!!! code : 118990
+[DEBUG|api_test.py:167] 2020-09-26 14:23:47,163 > create universe from tick data!!!! code : 013810
+[DEBUG|api_test.py:167] 2020-09-26 14:23:48,902 > create universe from tick data!!!! code : 238090
+[DEBUG|api_test.py:167] 2020-09-26 14:23:50,613 > create universe from tick data!!!! code : 008290
+[DEBUG|api_test.py:167] 2020-09-26 14:23:52,278 > create universe from tick data!!!! code : 080220
+[DEBUG|api_test.py:167] 2020-09-26 14:23:54,252 > create universe from tick data!!!! code : 036120
+[DEBUG|api_test.py:167] 2020-09-26 14:23:55,867 > create universe from tick data!!!! code : 217270
+[DEBUG|api_test.py:167] 2020-09-26 14:23:57,586 > create universe from tick data!!!! code : 323990
+[DEBUG|api_test.py:167] 2020-09-26 14:23:59,279 > create universe from tick data!!!! code : 046120
+[DEBUG|api_test.py:167] 2020-09-26 14:24:00,963 > create universe from tick data!!!! code : 239340
+[DEBUG|api_test.py:167] 2020-09-26 14:24:02,739 > create universe from tick data!!!! code : 043610
+[DEBUG|api_test.py:167] 2020-09-26 14:24:04,479 > create universe from tick data!!!! code : 241820
+[DEBUG|api_test.py:167] 2020-09-26 14:24:06,134 > create universe from tick data!!!! code : 024740
+[DEBUG|api_test.py:167] 2020-09-26 14:24:07,838 > create universe from tick data!!!! code : 267320
+[DEBUG|api_test.py:167] 2020-09-26 14:24:09,552 > create universe from tick data!!!! code : 039560
+[DEBUG|api_test.py:167] 2020-09-26 14:24:11,234 > create universe from tick data!!!! code : 122690
+[DEBUG|api_test.py:167] 2020-09-26 14:24:12,930 > create universe from tick data!!!! code : 226330
+[DEBUG|api_test.py:167] 2020-09-26 14:24:14,807 > create universe from tick data!!!! code : 200230
+[DEBUG|api_test.py:167] 2020-09-26 14:24:16,586 > create universe from tick data!!!! code : 317120
+[DEBUG|api_test.py:167] 2020-09-26 14:24:18,308 > create universe from tick data!!!! code : 072520
+[DEBUG|api_test.py:167] 2020-09-26 14:24:20,131 > create universe from tick data!!!! code : 033320
+[DEBUG|api_test.py:167] 2020-09-26 14:24:21,805 > create universe from tick data!!!! code : 054040
+[DEBUG|api_test.py:167] 2020-09-26 14:24:23,678 > create universe from tick data!!!! code : 058400
+[DEBUG|api_test.py:167] 2020-09-26 14:24:25,461 > create universe from tick data!!!! code : 289080
+[DEBUG|api_test.py:167] 2020-09-26 14:24:27,235 > create universe from tick data!!!! code : 225570
+[DEBUG|api_test.py:167] 2020-09-26 14:24:29,313 > create universe from tick data!!!! code : 011370
+[DEBUG|api_test.py:167] 2020-09-26 14:24:31,002 > create universe from tick data!!!! code : 031330
+[DEBUG|api_test.py:167] 2020-09-26 14:24:32,739 > create universe from tick data!!!! code : 018000
+[DEBUG|api_test.py:167] 2020-09-26 14:24:34,488 > create universe from tick data!!!! code : 020180
+[DEBUG|api_test.py:167] 2020-09-26 14:24:36,220 > create universe from tick data!!!! code : 094170
+[DEBUG|api_test.py:167] 2020-09-26 14:24:38,140 > create universe from tick data!!!! code : 065450
+[DEBUG|api_test.py:167] 2020-09-26 14:24:39,760 > create universe from tick data!!!! code : 027360
+[DEBUG|api_test.py:167] 2020-09-26 14:24:41,447 > create universe from tick data!!!! code : 119500
+[DEBUG|api_test.py:167] 2020-09-26 14:24:43,182 > create universe from tick data!!!! code : 022100
+[DEBUG|api_test.py:167] 2020-09-26 14:24:44,836 > create universe from tick data!!!! code : 051490
+[DEBUG|api_test.py:167] 2020-09-26 14:24:46,634 > create universe from tick data!!!! code : 087260
+[DEBUG|api_test.py:167] 2020-09-26 14:24:48,330 > create universe from tick data!!!! code : 065350
+[DEBUG|api_test.py:167] 2020-09-26 14:24:49,951 > create universe from tick data!!!! code : 032820
+[DEBUG|api_test.py:167] 2020-09-26 14:24:51,623 > create universe from tick data!!!! code : 226360
+[DEBUG|api_test.py:167] 2020-09-26 14:24:53,278 > create universe from tick data!!!! code : 064820
+[DEBUG|api_test.py:167] 2020-09-26 14:24:55,164 > create universe from tick data!!!! code : 042040
+[DEBUG|api_test.py:167] 2020-09-26 14:24:56,935 > create universe from tick data!!!! code : 123840
+[DEBUG|api_test.py:167] 2020-09-26 14:24:58,617 > create universe from tick data!!!! code : 161570
+[DEBUG|api_test.py:167] 2020-09-26 14:25:00,235 > create universe from tick data!!!! code : 217620
+[DEBUG|api_test.py:167] 2020-09-26 14:25:01,936 > create universe from tick data!!!! code : 093520
+[DEBUG|api_test.py:167] 2020-09-26 14:25:03,676 > create universe from tick data!!!! code : 046310
+[DEBUG|api_test.py:167] 2020-09-26 14:25:05,412 > create universe from tick data!!!! code : 051980
+[DEBUG|api_test.py:167] 2020-09-26 14:25:07,127 > create universe from tick data!!!! code : 050890
+[DEBUG|api_test.py:167] 2020-09-26 14:25:08,824 > create universe from tick data!!!! code : 067630
+[DEBUG|api_test.py:167] 2020-09-26 14:25:10,470 > create universe from tick data!!!! code : 043220
+[DEBUG|api_test.py:167] 2020-09-26 14:25:12,113 > create universe from tick data!!!! code : 246960
+[DEBUG|api_test.py:167] 2020-09-26 14:25:13,846 > create universe from tick data!!!! code : 054450

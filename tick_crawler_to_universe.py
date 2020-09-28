@@ -35,8 +35,8 @@ class Trader(QMainWindow):
         # self.last_date_list = [                                                "20200904",
         #                        "20200907", "20200908", "20200909", "20200910", "20200911",
         #                        "20200914"]
-        self.date_list = ["20200924"]
-        self.last_date_list = ["20200923"]
+        self.date_list = ["20200925"]
+        self.last_date_list = ["20200924"]
 
 
 

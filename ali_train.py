@@ -21,8 +21,10 @@ num_episode = 8000000
 # GPU 메모리 증가 허용
 physical_devices = tf.config.list_physical_devices('GPU')
 try:
+  print("memory growth!!!")
   tf.config.experimental.set_memory_growth(physical_devices[0], True)
 except:
+  print("!!!!!!!!!!!!!!!!")
   # Invalid device or cannot modify virtual devices once initialized.
   pass
 

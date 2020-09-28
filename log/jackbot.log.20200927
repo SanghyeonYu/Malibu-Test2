@@ -1,0 +1,899 @@
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 02:13:53,587 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:186] 2020-09-27 02:13:53,624 > get_stacked_volume_profile
+[DEBUG|Phase_B_Data_Loader.py:199] 2020-09-27 02:13:55,607 > get_stacked_sec_data_and_label
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 02:23:06,184 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 02:23:06,230 > get_stacked_volume_profile
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,230 > set_day_data, universe : 20200922_014160
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,304 > last_close : 1140
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,327 > set_day_data, universe : 20200922_042670
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,347 > last_close : 8140
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,363 > set_day_data, universe : 20200922_004770
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,395 > last_close : 4555
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,410 > set_day_data, universe : 20200922_011000
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,443 > last_close : 39000
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,459 > set_day_data, universe : 20200922_000240
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,492 > last_close : 16150
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,507 > set_day_data, universe : 20200922_013000
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,538 > last_close : 2925
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,553 > set_day_data, universe : 20200922_118000
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,572 > last_close : 5160
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,587 > set_day_data, universe : 20200922_092220
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,608 > last_close : 1465
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,622 > set_day_data, universe : 20200922_011280
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,655 > last_close : 4585
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,671 > set_day_data, universe : 20200922_010040
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,697 > last_close : 3320
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,712 > set_day_data, universe : 20200922_010660
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,742 > last_close : 3010
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,757 > set_day_data, universe : 20200922_093370
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,777 > last_close : 10550
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,792 > set_day_data, universe : 20200922_002710
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,826 > last_close : 3420
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,842 > set_day_data, universe : 20200922_006110
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,875 > last_close : 8120
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,891 > set_day_data, universe : 20200922_011760
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,953 > last_close : 14750
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,968 > set_day_data, universe : 20200922_118990
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:06,981 > last_close : 4495
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:06,996 > set_day_data, universe : 20200922_042940
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,027 > last_close : 1900
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,041 > set_day_data, universe : 20200922_238090
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,056 > last_close : 7830
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,072 > set_day_data, universe : 20200922_047560
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,090 > last_close : 6650
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,106 > set_day_data, universe : 20200922_014970
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,137 > last_close : 9510
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,152 > set_day_data, universe : 20200922_206650
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,167 > last_close : 26550
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,182 > set_day_data, universe : 20200922_174880
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,197 > last_close : 3320
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,213 > set_day_data, universe : 20200922_239340
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,228 > last_close : 3580
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,243 > set_day_data, universe : 20200922_037230
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,265 > last_close : 4200
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,280 > set_day_data, universe : 20200922_290270
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,292 > last_close : 6060
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,307 > set_day_data, universe : 20200922_267320
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,321 > last_close : 3550
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,336 > set_day_data, universe : 20200922_054180
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,358 > last_close : 1950
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,374 > set_day_data, universe : 20200922_054090
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,396 > last_close : 3355
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,412 > set_day_data, universe : 20200922_094860
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,430 > last_close : 3450
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,446 > set_day_data, universe : 20200922_124560
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,457 > last_close : 4370
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,472 > set_day_data, universe : 20200922_200230
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,487 > last_close : 7130
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,502 > set_day_data, universe : 20200922_084990
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,522 > last_close : 36900
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,539 > set_day_data, universe : 20200922_035620
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,570 > last_close : 1495
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,585 > set_day_data, universe : 20200922_057030
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,604 > last_close : 8730
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,619 > set_day_data, universe : 20200922_131220
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,635 > last_close : 7400
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,650 > set_day_data, universe : 20200922_133750
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,665 > last_close : 4050
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,681 > set_day_data, universe : 20200922_122350
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,701 > last_close : 3430
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,717 > set_day_data, universe : 20200922_131370
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,734 > last_close : 15600
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,750 > set_day_data, universe : 20200922_019990
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,769 > last_close : 5060
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,785 > set_day_data, universe : 20200922_123040
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,802 > last_close : 6960
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,817 > set_day_data, universe : 20200922_068330
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,835 > last_close : 6810
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,852 > set_day_data, universe : 20200922_064800
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,872 > last_close : 1345
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,887 > set_day_data, universe : 20200922_038530
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,914 > last_close : 1380
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,930 > set_day_data, universe : 20200922_020180
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,963 > last_close : 1515
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:07,978 > set_day_data, universe : 20200922_042040
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:07,996 > last_close : 3810
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:08,012 > set_day_data, universe : 20200922_082660
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:08,031 > last_close : 1460
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:08,046 > set_day_data, universe : 20200922_321550
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:08,057 > last_close : 18900
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:08,072 > set_day_data, universe : 20200922_051490
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:08,091 > last_close : 9260
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:08,105 > set_day_data, universe : 20200922_140520
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:08,119 > last_close : 2395
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:08,135 > set_day_data, universe : 20200922_141070
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:08,151 > last_close : 2320
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:08,167 > set_day_data, universe : 20200922_032680
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:08,199 > last_close : 2200
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:08,215 > set_day_data, universe : 20200922_031510
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:08,248 > last_close : 3475
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:08,263 > set_day_data, universe : 20200922_196700
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:08,278 > last_close : 1885
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:08,293 > set_day_data, universe : 20200922_109820
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:08,310 > last_close : 15750
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:08,326 > set_day_data, universe : 20200922_203650
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:08,339 > last_close : 3670
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:08,354 > set_day_data, universe : 20200922_067010
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:08,375 > last_close : 4640
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:23:08,390 > set_day_data, universe : 20200922_033830
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:23:08,406 > last_close : 1185
+[DEBUG|Phase_B_Data_Loader.py:201] 2020-09-27 02:23:08,422 > get_stacked_sec_data_and_label
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 02:28:20,316 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:20,367 > set_day_data, universe : 20200922_014160
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:20,418 > last_close : 1140
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:20,551 > set_day_data, universe : 20200922_042670
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:20,570 > last_close : 8140
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:20,690 > set_day_data, universe : 20200922_004770
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:20,720 > last_close : 4555
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:20,839 > set_day_data, universe : 20200922_011000
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:20,871 > last_close : 39000
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:20,995 > set_day_data, universe : 20200922_000240
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:21,024 > last_close : 16150
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:21,138 > set_day_data, universe : 20200922_013000
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:21,168 > last_close : 2925
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:21,282 > set_day_data, universe : 20200922_118000
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:21,302 > last_close : 5160
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:21,417 > set_day_data, universe : 20200922_092220
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:21,438 > last_close : 1465
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:21,560 > set_day_data, universe : 20200922_011280
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:21,593 > last_close : 4585
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:21,713 > set_day_data, universe : 20200922_010040
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:21,739 > last_close : 3320
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:21,859 > set_day_data, universe : 20200922_010660
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:21,888 > last_close : 3010
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:22,006 > set_day_data, universe : 20200922_093370
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:22,025 > last_close : 10550
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:22,147 > set_day_data, universe : 20200922_002710
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:22,180 > last_close : 3420
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:22,303 > set_day_data, universe : 20200922_006110
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:22,335 > last_close : 8120
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:22,458 > set_day_data, universe : 20200922_011760
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:22,517 > last_close : 14750
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:22,639 > set_day_data, universe : 20200922_118990
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:22,652 > last_close : 4495
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:22,782 > set_day_data, universe : 20200922_042940
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:22,815 > last_close : 1900
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:22,984 > set_day_data, universe : 20200922_238090
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:22,998 > last_close : 7830
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:23,144 > set_day_data, universe : 20200922_047560
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:23,162 > last_close : 6650
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:23,283 > set_day_data, universe : 20200922_014970
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:23,308 > last_close : 9510
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:23,426 > set_day_data, universe : 20200922_206650
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:23,439 > last_close : 26550
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:23,557 > set_day_data, universe : 20200922_174880
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:23,570 > last_close : 3320
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:23,688 > set_day_data, universe : 20200922_239340
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:23,701 > last_close : 3580
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:23,818 > set_day_data, universe : 20200922_037230
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:23,839 > last_close : 4200
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:23,957 > set_day_data, universe : 20200922_290270
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:23,968 > last_close : 6060
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:24,083 > set_day_data, universe : 20200922_267320
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:24,096 > last_close : 3550
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:24,217 > set_day_data, universe : 20200922_054180
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:24,238 > last_close : 1950
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:24,357 > set_day_data, universe : 20200922_054090
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:24,376 > last_close : 3355
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:24,494 > set_day_data, universe : 20200922_094860
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:24,510 > last_close : 3450
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:24,629 > set_day_data, universe : 20200922_124560
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:24,639 > last_close : 4370
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:24,756 > set_day_data, universe : 20200922_200230
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:24,769 > last_close : 7130
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:24,889 > set_day_data, universe : 20200922_084990
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:24,907 > last_close : 36900
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:25,026 > set_day_data, universe : 20200922_035620
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:25,052 > last_close : 1495
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:25,173 > set_day_data, universe : 20200922_057030
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:25,190 > last_close : 8730
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:25,309 > set_day_data, universe : 20200922_131220
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:25,323 > last_close : 7400
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:25,441 > set_day_data, universe : 20200922_133750
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:25,455 > last_close : 4050
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:25,573 > set_day_data, universe : 20200922_122350
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:25,592 > last_close : 3430
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:25,709 > set_day_data, universe : 20200922_131370
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:25,724 > last_close : 15600
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:25,843 > set_day_data, universe : 20200922_019990
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:25,861 > last_close : 5060
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:25,980 > set_day_data, universe : 20200922_123040
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:25,996 > last_close : 6960
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:26,115 > set_day_data, universe : 20200922_068330
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:26,131 > last_close : 6810
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:26,254 > set_day_data, universe : 20200922_064800
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:26,272 > last_close : 1345
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:26,392 > set_day_data, universe : 20200922_038530
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:26,417 > last_close : 1380
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:26,538 > set_day_data, universe : 20200922_020180
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:26,566 > last_close : 1515
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:26,685 > set_day_data, universe : 20200922_042040
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:26,703 > last_close : 3810
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:26,822 > set_day_data, universe : 20200922_082660
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:26,841 > last_close : 1460
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:26,961 > set_day_data, universe : 20200922_321550
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:26,971 > last_close : 18900
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:27,089 > set_day_data, universe : 20200922_051490
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:27,108 > last_close : 9260
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:27,227 > set_day_data, universe : 20200922_140520
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:27,240 > last_close : 2395
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:27,359 > set_day_data, universe : 20200922_141070
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:27,374 > last_close : 2320
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:27,491 > set_day_data, universe : 20200922_032680
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:27,520 > last_close : 2200
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:27,637 > set_day_data, universe : 20200922_031510
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:27,664 > last_close : 3475
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:27,779 > set_day_data, universe : 20200922_196700
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:27,793 > last_close : 1885
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:27,913 > set_day_data, universe : 20200922_109820
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:27,929 > last_close : 15750
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:28,046 > set_day_data, universe : 20200922_203650
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:28,058 > last_close : 3670
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:28,175 > set_day_data, universe : 20200922_067010
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:28,194 > last_close : 4640
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:28:28,311 > set_day_data, universe : 20200922_033830
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:28:28,326 > last_close : 1185
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 02:40:02,068 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:02,110 > set_day_data, universe : 20200922_014160
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:02,158 > last_close : 1140
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:02,292 > set_day_data, universe : 20200922_042670
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:02,311 > last_close : 8140
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:02,431 > set_day_data, universe : 20200922_004770
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:02,461 > last_close : 4555
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:02,581 > set_day_data, universe : 20200922_011000
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:02,613 > last_close : 39000
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:02,732 > set_day_data, universe : 20200922_000240
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:02,761 > last_close : 16150
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:02,874 > set_day_data, universe : 20200922_013000
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:02,905 > last_close : 2925
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:03,020 > set_day_data, universe : 20200922_118000
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:03,040 > last_close : 5160
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:03,157 > set_day_data, universe : 20200922_092220
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:03,179 > last_close : 1465
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:03,301 > set_day_data, universe : 20200922_011280
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:03,332 > last_close : 4585
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:03,452 > set_day_data, universe : 20200922_010040
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:03,478 > last_close : 3320
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:03,596 > set_day_data, universe : 20200922_010660
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:03,625 > last_close : 3010
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:03,742 > set_day_data, universe : 20200922_093370
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:03,760 > last_close : 10550
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:03,879 > set_day_data, universe : 20200922_002710
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:03,911 > last_close : 3420
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:04,030 > set_day_data, universe : 20200922_006110
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:04,062 > last_close : 8120
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:04,179 > set_day_data, universe : 20200922_011760
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:04,238 > last_close : 14750
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:04,356 > set_day_data, universe : 20200922_118990
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:04,367 > last_close : 4495
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:04,483 > set_day_data, universe : 20200922_042940
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:04,509 > last_close : 1900
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:04,627 > set_day_data, universe : 20200922_238090
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:04,640 > last_close : 7830
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:04,755 > set_day_data, universe : 20200922_047560
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:04,771 > last_close : 6650
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:04,887 > set_day_data, universe : 20200922_014970
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:04,913 > last_close : 9510
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:05,030 > set_day_data, universe : 20200922_206650
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:05,043 > last_close : 26550
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:05,163 > set_day_data, universe : 20200922_174880
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:05,177 > last_close : 3320
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:05,295 > set_day_data, universe : 20200922_239340
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:05,308 > last_close : 3580
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:05,425 > set_day_data, universe : 20200922_037230
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:05,445 > last_close : 4200
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:05,563 > set_day_data, universe : 20200922_290270
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:05,574 > last_close : 6060
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:05,692 > set_day_data, universe : 20200922_267320
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:05,704 > last_close : 3550
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:05,827 > set_day_data, universe : 20200922_054180
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:05,847 > last_close : 1950
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:05,979 > set_day_data, universe : 20200922_054090
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:06,001 > last_close : 3355
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:06,124 > set_day_data, universe : 20200922_094860
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:06,141 > last_close : 3450
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:06,260 > set_day_data, universe : 20200922_124560
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:06,271 > last_close : 4370
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:06,391 > set_day_data, universe : 20200922_200230
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:06,404 > last_close : 7130
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:06,523 > set_day_data, universe : 20200922_084990
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:06,541 > last_close : 36900
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:06,667 > set_day_data, universe : 20200922_035620
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:06,694 > last_close : 1495
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:06,829 > set_day_data, universe : 20200922_057030
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:06,847 > last_close : 8730
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:06,968 > set_day_data, universe : 20200922_131220
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:06,983 > last_close : 7400
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:07,110 > set_day_data, universe : 20200922_133750
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:07,125 > last_close : 4050
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:07,246 > set_day_data, universe : 20200922_122350
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:07,263 > last_close : 3430
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:07,384 > set_day_data, universe : 20200922_131370
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:07,400 > last_close : 15600
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:07,520 > set_day_data, universe : 20200922_019990
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:07,538 > last_close : 5060
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:07,655 > set_day_data, universe : 20200922_123040
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:07,669 > last_close : 6960
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:07,784 > set_day_data, universe : 20200922_068330
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:07,799 > last_close : 6810
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:07,916 > set_day_data, universe : 20200922_064800
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:07,935 > last_close : 1345
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:08,053 > set_day_data, universe : 20200922_038530
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:08,078 > last_close : 1380
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:08,239 > set_day_data, universe : 20200922_020180
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:08,360 > last_close : 1515
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:08,488 > set_day_data, universe : 20200922_042040
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:08,506 > last_close : 3810
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:08,626 > set_day_data, universe : 20200922_082660
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:08,645 > last_close : 1460
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:08,763 > set_day_data, universe : 20200922_321550
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:08,773 > last_close : 18900
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:08,893 > set_day_data, universe : 20200922_051490
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:08,912 > last_close : 9260
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:09,030 > set_day_data, universe : 20200922_140520
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:09,043 > last_close : 2395
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:09,162 > set_day_data, universe : 20200922_141070
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:09,178 > last_close : 2320
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:09,297 > set_day_data, universe : 20200922_032680
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:09,323 > last_close : 2200
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:09,438 > set_day_data, universe : 20200922_031510
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:09,466 > last_close : 3475
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:09,587 > set_day_data, universe : 20200922_196700
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:09,602 > last_close : 1885
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:09,721 > set_day_data, universe : 20200922_109820
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:09,737 > last_close : 15750
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:09,856 > set_day_data, universe : 20200922_203650
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:09,871 > last_close : 3670
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:10,001 > set_day_data, universe : 20200922_067010
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:10,021 > last_close : 4640
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 02:40:10,147 > set_day_data, universe : 20200922_033830
+[DEBUG|Phase_B_Data_Loader.py:146] 2020-09-27 02:40:10,163 > last_close : 1185
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 02:43:37,954 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 02:43:57,098 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 02:49:11,492 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 17:40:31,986 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 17:43:42,037 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:42,263 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:42,396 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:42,539 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:42,684 > greater than 1.03 ratio : 0.20793650793650795
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:42,822 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:42,963 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:43,092 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:43,226 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:43,367 > greater than 1.03 ratio : 0.010317460317460317
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:43,505 > greater than 1.03 ratio : 0.0031746031746031746
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:43,651 > greater than 1.03 ratio : 0.015873015873015872
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:43,787 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:43,934 > greater than 1.03 ratio : 0.14523809523809525
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:44,077 > greater than 1.03 ratio : 0.1365079365079365
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:44,249 > greater than 1.03 ratio : 0.0031746031746031746
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:44,373 > greater than 1.03 ratio : 0.03015873015873016
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:44,515 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:44,644 > greater than 1.03 ratio : 0.020634920634920634
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:44,776 > greater than 1.03 ratio : 0.05
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:44,916 > greater than 1.03 ratio : 0.01746031746031746
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:45,038 > greater than 1.03 ratio : 0.11507936507936507
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:45,164 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:45,291 > greater than 1.03 ratio : 0.044444444444444446
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:45,429 > greater than 1.03 ratio : 0.007142857142857143
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:45,552 > greater than 1.03 ratio : 0.002380952380952381
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:45,675 > greater than 1.03 ratio : 0.1738095238095238
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:45,812 > greater than 1.03 ratio : 0.16507936507936508
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:45,951 > greater than 1.03 ratio : 0.003968253968253968
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:46,083 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:46,207 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:46,332 > greater than 1.03 ratio : 0.0015873015873015873
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:46,459 > greater than 1.03 ratio : 0.02857142857142857
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:46,597 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:46,724 > greater than 1.03 ratio : 0.05714285714285714
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:46,851 > greater than 1.03 ratio : 0.12936507936507938
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:46,980 > greater than 1.03 ratio : 0.005555555555555556
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:47,114 > greater than 1.03 ratio : 0.03253968253968254
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:47,240 > greater than 1.03 ratio : 0.011904761904761904
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:47,369 > greater than 1.03 ratio : 0.12380952380952381
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:47,494 > greater than 1.03 ratio : 0.009523809523809525
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:47,621 > greater than 1.03 ratio : 0.05873015873015873
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:47,750 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:47,888 > greater than 1.03 ratio : 0.005555555555555556
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:48,027 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:48,156 > greater than 1.03 ratio : 0.04285714285714286
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:48,286 > greater than 1.03 ratio : 0.08174603174603175
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:48,407 > greater than 1.03 ratio : 0.031746031746031744
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:48,536 > greater than 1.03 ratio : 0.19682539682539682
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:48,660 > greater than 1.03 ratio : 0.023015873015873017
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:48,784 > greater than 1.03 ratio : 0.023809523809523808
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:48,923 > greater than 1.03 ratio : 0.011111111111111112
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:49,061 > greater than 1.03 ratio : 0.007142857142857143
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:49,188 > greater than 1.03 ratio : 0.010317460317460317
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:49,315 > greater than 1.03 ratio : 0.09841269841269841
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:49,437 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:49,565 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:43:49,690 > greater than 1.03 ratio : 0.0865079365079365
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 17:45:14,386 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:14,425 > set_day_data, universe : 20200922_014160
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:14,597 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:14,597 > set_day_data, universe : 20200922_042670
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:14,730 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:14,730 > set_day_data, universe : 20200922_004770
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:14,872 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:14,873 > set_day_data, universe : 20200922_011000
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:15,013 > greater than 1.03 ratio : 0.20793650793650795
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:15,013 > set_day_data, universe : 20200922_000240
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:15,150 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:15,150 > set_day_data, universe : 20200922_013000
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:15,295 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:15,295 > set_day_data, universe : 20200922_118000
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:15,424 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:15,424 > set_day_data, universe : 20200922_092220
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:15,556 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:15,556 > set_day_data, universe : 20200922_011280
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:15,703 > greater than 1.03 ratio : 0.010317460317460317
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:15,703 > set_day_data, universe : 20200922_010040
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:15,842 > greater than 1.03 ratio : 0.0031746031746031746
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:15,842 > set_day_data, universe : 20200922_010660
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:15,983 > greater than 1.03 ratio : 0.015873015873015872
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:15,983 > set_day_data, universe : 20200922_093370
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:16,118 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:16,118 > set_day_data, universe : 20200922_002710
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:16,264 > greater than 1.03 ratio : 0.14523809523809525
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:16,264 > set_day_data, universe : 20200922_006110
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:16,409 > greater than 1.03 ratio : 0.1365079365079365
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:16,409 > set_day_data, universe : 20200922_011760
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:16,582 > greater than 1.03 ratio : 0.0031746031746031746
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:16,582 > set_day_data, universe : 20200922_118990
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:16,707 > greater than 1.03 ratio : 0.03015873015873016
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:16,707 > set_day_data, universe : 20200922_042940
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:16,847 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:16,847 > set_day_data, universe : 20200922_238090
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:16,974 > greater than 1.03 ratio : 0.020634920634920634
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:16,974 > set_day_data, universe : 20200922_047560
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:17,103 > greater than 1.03 ratio : 0.05
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:17,103 > set_day_data, universe : 20200922_014970
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:17,240 > greater than 1.03 ratio : 0.01746031746031746
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:17,240 > set_day_data, universe : 20200922_206650
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:17,362 > greater than 1.03 ratio : 0.11507936507936507
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:17,363 > set_day_data, universe : 20200922_174880
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:17,485 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:17,485 > set_day_data, universe : 20200922_239340
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:17,609 > greater than 1.03 ratio : 0.044444444444444446
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:17,609 > set_day_data, universe : 20200922_037230
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:17,740 > greater than 1.03 ratio : 0.007142857142857143
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:17,740 > set_day_data, universe : 20200922_290270
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:17,864 > greater than 1.03 ratio : 0.002380952380952381
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:17,864 > set_day_data, universe : 20200922_267320
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:17,989 > greater than 1.03 ratio : 0.1738095238095238
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:17,989 > set_day_data, universe : 20200922_054180
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:18,119 > greater than 1.03 ratio : 0.16507936507936508
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:18,119 > set_day_data, universe : 20200922_054090
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:18,248 > greater than 1.03 ratio : 0.003968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:18,248 > set_day_data, universe : 20200922_094860
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:18,375 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:18,375 > set_day_data, universe : 20200922_124560
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:18,495 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:18,495 > set_day_data, universe : 20200922_200230
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:18,618 > greater than 1.03 ratio : 0.0015873015873015873
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:18,618 > set_day_data, universe : 20200922_084990
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:18,744 > greater than 1.03 ratio : 0.02857142857142857
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:18,744 > set_day_data, universe : 20200922_035620
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:18,880 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:18,880 > set_day_data, universe : 20200922_057030
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:19,008 > greater than 1.03 ratio : 0.05714285714285714
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:19,008 > set_day_data, universe : 20200922_131220
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:19,131 > greater than 1.03 ratio : 0.12936507936507938
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:19,131 > set_day_data, universe : 20200922_133750
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:19,256 > greater than 1.03 ratio : 0.005555555555555556
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:19,256 > set_day_data, universe : 20200922_122350
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:19,383 > greater than 1.03 ratio : 0.03253968253968254
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:19,383 > set_day_data, universe : 20200922_131370
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:19,512 > greater than 1.03 ratio : 0.011904761904761904
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:19,513 > set_day_data, universe : 20200922_019990
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:19,647 > greater than 1.03 ratio : 0.12380952380952381
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:19,647 > set_day_data, universe : 20200922_123040
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:19,773 > greater than 1.03 ratio : 0.009523809523809525
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:19,773 > set_day_data, universe : 20200922_068330
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:19,903 > greater than 1.03 ratio : 0.05873015873015873
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:19,903 > set_day_data, universe : 20200922_064800
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:20,032 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:20,032 > set_day_data, universe : 20200922_038530
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:20,169 > greater than 1.03 ratio : 0.005555555555555556
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:20,169 > set_day_data, universe : 20200922_020180
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:20,312 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:20,312 > set_day_data, universe : 20200922_042040
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:20,443 > greater than 1.03 ratio : 0.04285714285714286
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:20,443 > set_day_data, universe : 20200922_082660
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:20,575 > greater than 1.03 ratio : 0.08174603174603175
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:20,575 > set_day_data, universe : 20200922_321550
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:20,697 > greater than 1.03 ratio : 0.031746031746031744
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:20,697 > set_day_data, universe : 20200922_051490
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:20,827 > greater than 1.03 ratio : 0.19682539682539682
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:20,827 > set_day_data, universe : 20200922_140520
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:20,949 > greater than 1.03 ratio : 0.023015873015873017
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:20,949 > set_day_data, universe : 20200922_141070
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:21,074 > greater than 1.03 ratio : 0.023809523809523808
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:21,074 > set_day_data, universe : 20200922_032680
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:21,218 > greater than 1.03 ratio : 0.011111111111111112
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:21,218 > set_day_data, universe : 20200922_031510
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:21,358 > greater than 1.03 ratio : 0.007142857142857143
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:21,358 > set_day_data, universe : 20200922_196700
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:21,482 > greater than 1.03 ratio : 0.010317460317460317
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:21,483 > set_day_data, universe : 20200922_109820
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:21,608 > greater than 1.03 ratio : 0.09841269841269841
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:21,608 > set_day_data, universe : 20200922_203650
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:21,731 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:21,731 > set_day_data, universe : 20200922_067010
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:21,864 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:45:21,864 > set_day_data, universe : 20200922_033830
+[DEBUG|Phase_B_Data_Loader.py:188] 2020-09-27 17:45:21,996 > greater than 1.03 ratio : 0.0865079365079365
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 17:47:58,102 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:58,144 > set_day_data, universe : 20200922_014160
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:47:58,324 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:58,324 > set_day_data, universe : 20200922_042670
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:47:58,463 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:58,463 > set_day_data, universe : 20200922_004770
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:47:58,610 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:58,611 > set_day_data, universe : 20200922_011000
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:47:58,753 > greater than 1.03 ratio : 0.20793650793650795
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:58,753 > set_day_data, universe : 20200922_000240
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:47:58,890 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:58,891 > set_day_data, universe : 20200922_013000
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:47:59,038 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:59,038 > set_day_data, universe : 20200922_118000
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:47:59,181 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:59,181 > set_day_data, universe : 20200922_092220
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:47:59,324 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:59,324 > set_day_data, universe : 20200922_011280
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:47:59,476 > greater than 1.03 ratio : 0.010317460317460317
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:59,476 > set_day_data, universe : 20200922_010040
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:47:59,620 > greater than 1.03 ratio : 0.0031746031746031746
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:59,620 > set_day_data, universe : 20200922_010660
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:47:59,762 > greater than 1.03 ratio : 0.015873015873015872
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:59,762 > set_day_data, universe : 20200922_093370
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:47:59,897 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:47:59,898 > set_day_data, universe : 20200922_002710
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:00,048 > greater than 1.03 ratio : 0.14523809523809525
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:00,049 > set_day_data, universe : 20200922_006110
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:00,200 > greater than 1.03 ratio : 0.1365079365079365
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:00,202 > set_day_data, universe : 20200922_011760
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:00,379 > greater than 1.03 ratio : 0.0031746031746031746
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:00,379 > set_day_data, universe : 20200922_118990
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:00,511 > greater than 1.03 ratio : 0.03015873015873016
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:00,511 > set_day_data, universe : 20200922_042940
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:00,652 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:00,653 > set_day_data, universe : 20200922_238090
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:00,778 > greater than 1.03 ratio : 0.020634920634920634
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:00,779 > set_day_data, universe : 20200922_047560
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:00,908 > greater than 1.03 ratio : 0.05
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:00,908 > set_day_data, universe : 20200922_014970
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:01,046 > greater than 1.03 ratio : 0.01746031746031746
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:01,046 > set_day_data, universe : 20200922_206650
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:01,171 > greater than 1.03 ratio : 0.11507936507936507
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:01,171 > set_day_data, universe : 20200922_174880
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:01,299 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:01,299 > set_day_data, universe : 20200922_239340
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:01,426 > greater than 1.03 ratio : 0.044444444444444446
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:01,426 > set_day_data, universe : 20200922_037230
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:01,563 > greater than 1.03 ratio : 0.007142857142857143
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:01,563 > set_day_data, universe : 20200922_290270
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:01,690 > greater than 1.03 ratio : 0.002380952380952381
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:01,690 > set_day_data, universe : 20200922_267320
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:01,824 > greater than 1.03 ratio : 0.1738095238095238
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:01,824 > set_day_data, universe : 20200922_054180
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:01,961 > greater than 1.03 ratio : 0.16507936507936508
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:01,962 > set_day_data, universe : 20200922_054090
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:02,093 > greater than 1.03 ratio : 0.003968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:02,093 > set_day_data, universe : 20200922_094860
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:02,222 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:02,222 > set_day_data, universe : 20200922_124560
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:02,344 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:02,345 > set_day_data, universe : 20200922_200230
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:02,473 > greater than 1.03 ratio : 0.0015873015873015873
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:02,473 > set_day_data, universe : 20200922_084990
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:02,607 > greater than 1.03 ratio : 0.02857142857142857
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:02,607 > set_day_data, universe : 20200922_035620
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:02,750 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:02,750 > set_day_data, universe : 20200922_057030
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:02,881 > greater than 1.03 ratio : 0.05714285714285714
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:02,881 > set_day_data, universe : 20200922_131220
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:03,009 > greater than 1.03 ratio : 0.12936507936507938
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:03,009 > set_day_data, universe : 20200922_133750
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:03,137 > greater than 1.03 ratio : 0.005555555555555556
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:03,138 > set_day_data, universe : 20200922_122350
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:03,268 > greater than 1.03 ratio : 0.03253968253968254
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:03,268 > set_day_data, universe : 20200922_131370
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:03,399 > greater than 1.03 ratio : 0.011904761904761904
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:03,399 > set_day_data, universe : 20200922_019990
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:03,533 > greater than 1.03 ratio : 0.12380952380952381
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:03,533 > set_day_data, universe : 20200922_123040
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:03,658 > greater than 1.03 ratio : 0.009523809523809525
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:03,658 > set_day_data, universe : 20200922_068330
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:03,784 > greater than 1.03 ratio : 0.05873015873015873
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:03,785 > set_day_data, universe : 20200922_064800
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:03,916 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:03,916 > set_day_data, universe : 20200922_038530
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:04,054 > greater than 1.03 ratio : 0.005555555555555556
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:04,054 > set_day_data, universe : 20200922_020180
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:04,194 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:04,195 > set_day_data, universe : 20200922_042040
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:04,323 > greater than 1.03 ratio : 0.04285714285714286
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:04,323 > set_day_data, universe : 20200922_082660
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:04,454 > greater than 1.03 ratio : 0.08174603174603175
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:04,454 > set_day_data, universe : 20200922_321550
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:04,575 > greater than 1.03 ratio : 0.031746031746031744
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:04,575 > set_day_data, universe : 20200922_051490
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:04,704 > greater than 1.03 ratio : 0.19682539682539682
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:04,704 > set_day_data, universe : 20200922_140520
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:04,828 > greater than 1.03 ratio : 0.023015873015873017
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:04,829 > set_day_data, universe : 20200922_141070
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:04,953 > greater than 1.03 ratio : 0.023809523809523808
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:04,953 > set_day_data, universe : 20200922_032680
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:05,095 > greater than 1.03 ratio : 0.011111111111111112
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:05,095 > set_day_data, universe : 20200922_031510
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:05,233 > greater than 1.03 ratio : 0.007142857142857143
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:05,233 > set_day_data, universe : 20200922_196700
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:05,359 > greater than 1.03 ratio : 0.010317460317460317
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:05,359 > set_day_data, universe : 20200922_109820
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:05,487 > greater than 1.03 ratio : 0.09841269841269841
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:05,488 > set_day_data, universe : 20200922_203650
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:05,617 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:05,617 > set_day_data, universe : 20200922_067010
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:05,752 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:05,752 > set_day_data, universe : 20200922_033830
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:05,903 > greater than 1.03 ratio : 0.0865079365079365
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 17:48:58,735 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:58,779 > set_day_data, universe : 20200922_014160
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:58,951 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:58,952 > set_day_data, universe : 20200922_042670
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:59,085 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:59,085 > set_day_data, universe : 20200922_004770
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:59,232 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:59,232 > set_day_data, universe : 20200922_011000
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:59,390 > greater than 1.03 ratio : 0.20793650793650795
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:59,391 > set_day_data, universe : 20200922_000240
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:59,532 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:59,532 > set_day_data, universe : 20200922_013000
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:59,672 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:59,672 > set_day_data, universe : 20200922_118000
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:59,797 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:59,797 > set_day_data, universe : 20200922_092220
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:48:59,931 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:48:59,931 > set_day_data, universe : 20200922_011280
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:00,078 > greater than 1.03 ratio : 0.010317460317460317
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:00,078 > set_day_data, universe : 20200922_010040
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:00,218 > greater than 1.03 ratio : 0.0031746031746031746
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:00,218 > set_day_data, universe : 20200922_010660
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:00,360 > greater than 1.03 ratio : 0.015873015873015872
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:00,360 > set_day_data, universe : 20200922_093370
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:00,493 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:00,493 > set_day_data, universe : 20200922_002710
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:00,634 > greater than 1.03 ratio : 0.14523809523809525
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:00,634 > set_day_data, universe : 20200922_006110
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:00,776 > greater than 1.03 ratio : 0.1365079365079365
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:00,778 > set_day_data, universe : 20200922_011760
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:00,947 > greater than 1.03 ratio : 0.0031746031746031746
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:00,948 > set_day_data, universe : 20200922_118990
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:01,070 > greater than 1.03 ratio : 0.03015873015873016
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:01,070 > set_day_data, universe : 20200922_042940
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:01,209 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:01,209 > set_day_data, universe : 20200922_238090
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:01,332 > greater than 1.03 ratio : 0.020634920634920634
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:01,332 > set_day_data, universe : 20200922_047560
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:01,461 > greater than 1.03 ratio : 0.05
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:01,462 > set_day_data, universe : 20200922_014970
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:01,602 > greater than 1.03 ratio : 0.01746031746031746
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:01,602 > set_day_data, universe : 20200922_206650
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:01,726 > greater than 1.03 ratio : 0.11507936507936507
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:01,727 > set_day_data, universe : 20200922_174880
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:01,855 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:01,855 > set_day_data, universe : 20200922_239340
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:01,984 > greater than 1.03 ratio : 0.044444444444444446
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:01,984 > set_day_data, universe : 20200922_037230
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:02,121 > greater than 1.03 ratio : 0.007142857142857143
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:02,121 > set_day_data, universe : 20200922_290270
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:02,246 > greater than 1.03 ratio : 0.002380952380952381
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:02,246 > set_day_data, universe : 20200922_267320
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:02,373 > greater than 1.03 ratio : 0.1738095238095238
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:02,373 > set_day_data, universe : 20200922_054180
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:02,507 > greater than 1.03 ratio : 0.16507936507936508
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:02,507 > set_day_data, universe : 20200922_054090
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:02,641 > greater than 1.03 ratio : 0.003968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:02,641 > set_day_data, universe : 20200922_094860
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:02,776 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:02,776 > set_day_data, universe : 20200922_124560
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:02,900 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:02,900 > set_day_data, universe : 20200922_200230
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:03,028 > greater than 1.03 ratio : 0.0015873015873015873
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:03,028 > set_day_data, universe : 20200922_084990
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:03,156 > greater than 1.03 ratio : 0.02857142857142857
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:03,156 > set_day_data, universe : 20200922_035620
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:03,294 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:03,294 > set_day_data, universe : 20200922_057030
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:03,428 > greater than 1.03 ratio : 0.05714285714285714
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:03,428 > set_day_data, universe : 20200922_131220
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:03,558 > greater than 1.03 ratio : 0.12936507936507938
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:03,558 > set_day_data, universe : 20200922_133750
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:03,685 > greater than 1.03 ratio : 0.005555555555555556
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:03,686 > set_day_data, universe : 20200922_122350
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:03,815 > greater than 1.03 ratio : 0.03253968253968254
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:03,815 > set_day_data, universe : 20200922_131370
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:03,947 > greater than 1.03 ratio : 0.011904761904761904
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:03,947 > set_day_data, universe : 20200922_019990
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:04,081 > greater than 1.03 ratio : 0.12380952380952381
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:04,081 > set_day_data, universe : 20200922_123040
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:04,212 > greater than 1.03 ratio : 0.009523809523809525
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:04,212 > set_day_data, universe : 20200922_068330
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:04,342 > greater than 1.03 ratio : 0.05873015873015873
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:04,342 > set_day_data, universe : 20200922_064800
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:04,472 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:04,472 > set_day_data, universe : 20200922_038530
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:04,606 > greater than 1.03 ratio : 0.005555555555555556
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:04,606 > set_day_data, universe : 20200922_020180
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:04,747 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:04,747 > set_day_data, universe : 20200922_042040
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:04,879 > greater than 1.03 ratio : 0.04285714285714286
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:04,879 > set_day_data, universe : 20200922_082660
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:05,009 > greater than 1.03 ratio : 0.08174603174603175
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:05,009 > set_day_data, universe : 20200922_321550
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:05,130 > greater than 1.03 ratio : 0.031746031746031744
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:05,130 > set_day_data, universe : 20200922_051490
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:05,261 > greater than 1.03 ratio : 0.19682539682539682
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:05,261 > set_day_data, universe : 20200922_140520
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:05,387 > greater than 1.03 ratio : 0.023015873015873017
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:05,387 > set_day_data, universe : 20200922_141070
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:05,516 > greater than 1.03 ratio : 0.023809523809523808
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:05,516 > set_day_data, universe : 20200922_032680
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:05,660 > greater than 1.03 ratio : 0.011111111111111112
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:05,660 > set_day_data, universe : 20200922_031510
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:05,799 > greater than 1.03 ratio : 0.007142857142857143
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:05,799 > set_day_data, universe : 20200922_196700
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:05,930 > greater than 1.03 ratio : 0.010317460317460317
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:05,931 > set_day_data, universe : 20200922_109820
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:06,062 > greater than 1.03 ratio : 0.09841269841269841
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:06,062 > set_day_data, universe : 20200922_203650
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:06,190 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:06,191 > set_day_data, universe : 20200922_067010
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:06,321 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:06,321 > set_day_data, universe : 20200922_033830
+[DEBUG|Phase_B_Data_Loader.py:189] 2020-09-27 17:49:06,447 > greater than 1.03 ratio : 0.0865079365079365
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 17:49:38,584 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:38,623 > set_day_data, universe : 20200922_014160
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:38,797 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:38,797 > set_day_data, universe : 20200922_042670
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:38,936 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:38,936 > set_day_data, universe : 20200922_004770
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:39,088 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:39,089 > set_day_data, universe : 20200922_011000
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:39,235 > greater than 1.03 ratio : 0.20793650793650795
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:39,235 > set_day_data, universe : 20200922_000240
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:39,372 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:39,372 > set_day_data, universe : 20200922_013000
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:39,513 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:39,513 > set_day_data, universe : 20200922_118000
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:39,640 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:39,640 > set_day_data, universe : 20200922_092220
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:39,772 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:39,772 > set_day_data, universe : 20200922_011280
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:39,918 > greater than 1.03 ratio : 0.010317460317460317
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:39,918 > set_day_data, universe : 20200922_010040
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:40,060 > greater than 1.03 ratio : 0.0031746031746031746
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:40,061 > set_day_data, universe : 20200922_010660
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:40,208 > greater than 1.03 ratio : 0.015873015873015872
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:40,208 > set_day_data, universe : 20200922_093370
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:40,342 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:40,342 > set_day_data, universe : 20200922_002710
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:40,489 > greater than 1.03 ratio : 0.14523809523809525
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:40,489 > set_day_data, universe : 20200922_006110
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:40,633 > greater than 1.03 ratio : 0.1365079365079365
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:40,636 > set_day_data, universe : 20200922_011760
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:40,808 > greater than 1.03 ratio : 0.0031746031746031746
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:40,808 > set_day_data, universe : 20200922_118990
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:40,932 > greater than 1.03 ratio : 0.03015873015873016
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:40,932 > set_day_data, universe : 20200922_042940
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:41,071 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:41,071 > set_day_data, universe : 20200922_238090
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:41,197 > greater than 1.03 ratio : 0.020634920634920634
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:41,197 > set_day_data, universe : 20200922_047560
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:41,327 > greater than 1.03 ratio : 0.05
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:41,327 > set_day_data, universe : 20200922_014970
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:41,467 > greater than 1.03 ratio : 0.01746031746031746
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:41,467 > set_day_data, universe : 20200922_206650
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:41,593 > greater than 1.03 ratio : 0.11507936507936507
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:41,594 > set_day_data, universe : 20200922_174880
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:41,717 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:41,717 > set_day_data, universe : 20200922_239340
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:41,841 > greater than 1.03 ratio : 0.044444444444444446
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:41,841 > set_day_data, universe : 20200922_037230
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:41,979 > greater than 1.03 ratio : 0.007142857142857143
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:41,979 > set_day_data, universe : 20200922_290270
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:42,105 > greater than 1.03 ratio : 0.002380952380952381
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:42,105 > set_day_data, universe : 20200922_267320
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:42,237 > greater than 1.03 ratio : 0.1738095238095238
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:42,237 > set_day_data, universe : 20200922_054180
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:42,380 > greater than 1.03 ratio : 0.16507936507936508
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:42,380 > set_day_data, universe : 20200922_054090
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:42,517 > greater than 1.03 ratio : 0.003968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:42,517 > set_day_data, universe : 20200922_094860
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:42,648 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:42,648 > set_day_data, universe : 20200922_124560
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:42,774 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:42,774 > set_day_data, universe : 20200922_200230
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:42,904 > greater than 1.03 ratio : 0.0015873015873015873
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:42,904 > set_day_data, universe : 20200922_084990
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:43,036 > greater than 1.03 ratio : 0.02857142857142857
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:43,036 > set_day_data, universe : 20200922_035620
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:43,175 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:43,175 > set_day_data, universe : 20200922_057030
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:43,304 > greater than 1.03 ratio : 0.05714285714285714
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:43,305 > set_day_data, universe : 20200922_131220
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:43,430 > greater than 1.03 ratio : 0.12936507936507938
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:43,430 > set_day_data, universe : 20200922_133750
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:43,555 > greater than 1.03 ratio : 0.005555555555555556
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:43,555 > set_day_data, universe : 20200922_122350
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:43,689 > greater than 1.03 ratio : 0.03253968253968254
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:43,689 > set_day_data, universe : 20200922_131370
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:43,815 > greater than 1.03 ratio : 0.011904761904761904
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:43,815 > set_day_data, universe : 20200922_019990
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:43,952 > greater than 1.03 ratio : 0.12380952380952381
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:43,952 > set_day_data, universe : 20200922_123040
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:44,080 > greater than 1.03 ratio : 0.009523809523809525
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:44,080 > set_day_data, universe : 20200922_068330
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:44,209 > greater than 1.03 ratio : 0.05873015873015873
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:44,209 > set_day_data, universe : 20200922_064800
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:44,338 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:44,338 > set_day_data, universe : 20200922_038530
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:44,473 > greater than 1.03 ratio : 0.005555555555555556
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:44,473 > set_day_data, universe : 20200922_020180
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:44,615 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:44,615 > set_day_data, universe : 20200922_042040
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:44,743 > greater than 1.03 ratio : 0.04285714285714286
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:44,743 > set_day_data, universe : 20200922_082660
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:44,873 > greater than 1.03 ratio : 0.08174603174603175
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:44,873 > set_day_data, universe : 20200922_321550
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:44,995 > greater than 1.03 ratio : 0.031746031746031744
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:44,996 > set_day_data, universe : 20200922_051490
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:45,126 > greater than 1.03 ratio : 0.19682539682539682
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:45,126 > set_day_data, universe : 20200922_140520
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:45,249 > greater than 1.03 ratio : 0.023015873015873017
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:45,250 > set_day_data, universe : 20200922_141070
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:45,373 > greater than 1.03 ratio : 0.023809523809523808
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:45,373 > set_day_data, universe : 20200922_032680
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:45,516 > greater than 1.03 ratio : 0.011111111111111112
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:45,516 > set_day_data, universe : 20200922_031510
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:45,662 > greater than 1.03 ratio : 0.007142857142857143
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:45,662 > set_day_data, universe : 20200922_196700
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:45,792 > greater than 1.03 ratio : 0.010317460317460317
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:45,792 > set_day_data, universe : 20200922_109820
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:45,921 > greater than 1.03 ratio : 0.09841269841269841
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:45,921 > set_day_data, universe : 20200922_203650
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:46,045 > greater than 1.03 ratio : 0.0
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:46,046 > set_day_data, universe : 20200922_067010
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:46,176 > greater than 1.03 ratio : 0.03968253968253968
+[DEBUG|Phase_B_Data_Loader.py:138] 2020-09-27 17:49:46,176 > set_day_data, universe : 20200922_033830
+[DEBUG|Phase_B_Data_Loader.py:190] 2020-09-27 17:49:46,302 > greater than 1.03 ratio : 0.0865079365079365
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 17:50:17,069 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 21:29:50,043 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 21:30:22,110 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:18:54,423 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:19:29,557 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:27:16,475 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:30:34,030 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:31:07,026 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:32:47,773 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:35:08,196 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:37:04,616 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:37:34,406 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:44:24,657 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:46:37,108 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:49:59,598 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:51:24,300 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 22:56:02,665 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 23:05:51,776 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 23:08:51,882 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 23:23:31,024 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 23:24:11,831 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 23:32:47,444 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 23:34:45,906 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 23:36:11,825 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 23:38:22,196 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 23:39:29,684 > data_loader_init
+[DEBUG|Phase_B_Data_Loader.py:30] 2020-09-27 23:43:20,343 > data_loader_init

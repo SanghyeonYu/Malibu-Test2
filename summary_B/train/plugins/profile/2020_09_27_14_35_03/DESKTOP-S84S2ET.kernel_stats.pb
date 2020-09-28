@@ -1,0 +1,4299 @@
+
+‘
+i_ZN3DSE16regular_fft_clipILi1ELi2ELi128ELi16ELi32ELi1Eff6float2EEvPT5_PT7_i4int3S6_iS6_S6_iiiiiffbiS3_S3_*28ªè´@ªè´Hªè´XbJgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilterh
+∞
+E_Z30pointwise_mult_and_sum_complexI6float2Li8ELi4EEvPT_S2_S2_iiiiiS0_*28·ÌÉ@·ÌÉH·ÌÉXbJgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilterh
+»
+__ZN3DSE15regular_fft_padILi0ELi1ELi128ELi16ELi32ELi1Eff6float2EEvPT7_PT5_i4int3S6_iS6_S6_iiiiib*28©Ó‘@ñÇ>HìÏñXbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+£
+__ZN3DSE15regular_fft_padILi0ELi1ELi128ELi16ELi32ELi1Eff6float2EEvPT7_PT5_i4int3S6_iS6_S6_iiiiib*28çÚ∏@˚ÔHíÇôb&wave__net/functional_1/conv1d_6/conv1dh
+Ø
+E_Z30pointwise_mult_and_sum_complexI6float2Li8ELi4EEvPT_S2_S2_iiiiiS0_*28±âü@±âüH±âüXbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+≥
+J_ZN3DSE10vector_fftILi0ELi1ELi128ELi8ELi8ELi1Eff6float2EEvPT7_S3_i4int3S4_*28“øû@˜œ9H€Ô‰XbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+ä
+E_Z30pointwise_mult_and_sum_complexI6float2Li8ELi4EEvPT_S2_S2_iiiiiS0_*28≤ñû@≤ñûH≤ñûb&wave__net/functional_1/conv1d_6/conv1dh
+µ
+J_ZN3DSE10vector_fftILi1ELi2ELi128ELi8ELi8ELi1Eff6float2EEvPT7_S3_i4int3S4_*28ˆ≥Ñ@ˆ≥ÑHˆ≥ÑXbJgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilterh
+é
+J_ZN3DSE10vector_fftILi0ELi1ELi128ELi8ELi8ELi1Eff6float2EEvPT7_S3_i4int3S4_*28÷’Å@˚ÔH€Â‰b&wave__net/functional_1/conv1d_6/conv1dh
+R
+redzone_checker*28‰Ç±@ˇ”	Hˇè
+b&wave__net/functional_1/conv1d_6/conv1dh
+S
+redzone_checker*28≈˘∞@ü‘	Hˇú
+b'wave__net/functional_1/conv1d_10/conv1dh
+S
+redzone_checker*28§≤∞@ø⁄	H˛è
+b'wave__net/functional_1/conv1d_16/conv1dh
+S
+redzone_checker*28ƒ°∞@˛“	Hﬂà
+b'wave__net/functional_1/conv1d_12/conv1dh
+R
+redzone_checker*28§ü∞@ﬁ“	Hﬂà
+b&wave__net/functional_1/conv1d_8/conv1dh
+S
+redzone_checker*28£à∞@æ’	Hûâ
+b'wave__net/functional_1/conv1d_18/conv1dh
+S
+redzone_checker*28„Ä∞@ø“	HˇÉ
+b'wave__net/functional_1/conv1d_14/conv1dh
+Ø
+E_Z30pointwise_mult_and_sum_complexI6float2Li8ELi4EEvPT_S2_S2_iiiiiS0_*28∆˝õ@∆˝õH∆˝õXbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+ä
+E_Z30pointwise_mult_and_sum_complexI6float2Li8ELi4EEvPT_S2_S2_iiiiiS0_*28®™ï@®™ïH®™ïb&wave__net/functional_1/conv1d_8/conv1dh
+Z
+volta_cgemm_32x32_tn*28©‰ã@©‰ãH©‰ãb'wave__net/functional_1/conv1d_18/conv1dh
+P
+redzone_checker*28…‰ä@˛ﬂ	Hﬁö
+b$wave__net/functional_1/conv1d/conv1dh
+R
+redzone_checker*28ãµä@ˇﬂ	H˛ì
+b&wave__net/functional_1/conv1d_2/conv1dh
+R
+redzone_checker*28ÈØä@˛ﬂ	Hﬂí
+b&wave__net/functional_1/conv1d_4/conv1dh
+R
+redzone_checker*28Àèä@˛ﬂ	Hﬁà
+b&wave__net/functional_1/conv1d_1/conv1dh
+R
+redzone_checker*28©Éä@˛ﬂ	Hûå
+b&wave__net/functional_1/conv1d_3/conv1dh
+S
+redzone_checker*28ãπâ@ﬂ◊	Hﬂë
+b'wave__net/functional_1/conv1d_57/conv1dh
+w
+redzone_checker*28åØâ@û÷	Hæù
+XbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+
+volta_cgemm_32x32_tn*28 Ôà@ ÔàH ÔàXbJgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilterh
+w
+redzone_checker*28™Èà@ﬂ—	Hüë
+XbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+w
+redzone_checker*28ÀÂà@ø—	Hüˇ	XbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+w
+redzone_checker*28 ‹à@ˇ–	HøÉ
+XbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+w
+redzone_checker*28Í◊à@ˇ÷	HﬂÄ
+XbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+w
+redzone_checker*28 ∆à@æ“	HûÇ
+XbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+w
+redzone_checker*28™¥à@ﬂ–	HæÛ	XbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+x
+redzone_checker*28ä≠à@ﬂ”	HﬂÎ	XbJgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilterh
+x
+redzone_checker*28Ï£à@ˇ“	Hˇˇ	XbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+x
+redzone_checker*28Íáà@æ”	Hü‡	XbJgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilterh
+x
+redzone_checker*28äÉà@ﬁ–	H˛·	XbJgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilterh
+x
+redzone_checker*28 ˛á@ü–	Hˇﬂ	XbJgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilterh
+x
+redzone_checker*28Íıá@˛œ	Hæ„	XbJgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilterh
+x
+redzone_checker*28™ıá@˛—	Hˇ·	XbJgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilterh
+~
+volta_cgemm_32x32_tn*28ÎﬂÇ@ÎﬂÇHÎﬂÇXbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+´
+i_ZN3DSE16regular_fft_clipILi1ELi2ELi128ELi16ELi32ELi1Eff6float2EEvPT5_PT7_i4int3S6_iS6_S6_iiiiiffbiS3_S3_*28ŒŸk@ŒŸkHŒŸkb&wave__net/functional_1/conv1d_6/conv1dh
+t
+redzone_checker*28ÕÀk@˛œ	H›¸XbGgradient_tape/wave__net/functional_1/conv1d/conv1d/Conv2DBackpropFilterh
+
+⁄
+r_Z36transpose_readWrite_alignment_kernelI6float2S0_Li1ELb0ELi6ELi4ELi4EEv21cublasTransposeParamsIT0_EPKT_PS4_PKS2_*28–˘f@Ω–H◊∆:XbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+v
+redzone_checker*28Ø…b@ü“	HæÑ
+XbIgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropInputh
+
+w
+redzone_checker*28∞¶b@üﬂ	Hüê
+XbJgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropFilterh
+
+v
+redzone_checker*28ê‚a@˛—	H˛ˇ	XbIgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropInputh
+
+w
+redzone_checker*28—Ÿa@æ–	Hû˛	XbJgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropFilterh
+
+u
+redzone_checker*28–’a@˛œ	H˛ˇ	XbHgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropInputh
+
+v
+redzone_checker*28íÕa@æ–	Hˇ˘	XbIgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropInputh
+
+v
+redzone_checker*28êªa@ø‘	Hﬁ˘	XbIgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropInputh
+
+w
+redzone_checker*28Ø´a@ﬁ‘	HüÁ	XbJgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropFilterh
+
+w
+redzone_checker*28êÑa@ˇœ	Hˇ·	XbJgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropFilterh
+
+v
+redzone_checker*28Åa@˛œ	Hˇﬂ	XbIgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropFilterh
+
+«
+__ZN3DSE15regular_fft_padILi0ELi1ELi128ELi16ELi32ELi1Eff6float2EEvPT7_PT5_i4int3S6_iS6_S6_iiiiib*28Ò∑]@˚óHˆü>XbJgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilterh
+≤
+J_ZN3DSE10vector_fftILi0ELi1ELi128ELi8ELi8ELi1Eff6float2EEvPT7_S3_i4int3S4_*28Ú≠V@˚˝H˜Ø9XbJgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilterh
+|
+volta_cgemm_32x32_tn*28”ªJ@”ªJH”ªJXbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+ì
++_Z15fft2d_r2c_16x16IfEvP6float2PKT_iiiiiiii*28ıØG@¸ˇH˘Ø/XbJgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilterh
+W
+volta_cgemm_32x32_tn*28ÙêF@ÙêFHÙêFb'wave__net/functional_1/conv1d_16/conv1dh
+{
+volta_cgemm_32x32_tn*28ı˜A@ı˜AHı˜AXbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+|
+volta_cgemm_32x32_tn*28ˆ‘?@ˆ‘?Hˆ‘?XbJgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilterh
+å
+J_ZN3DSE10vector_fftILi1ELi2ELi128ELi8ELi8ELi1Eff6float2EEvPT7_S3_i4int3S4_*28˜ø9@˜ø9H˜ø9b&wave__net/functional_1/conv1d_6/conv1dh
+í
++_Z15fft2d_r2c_64x64IfEvP6float2PKT_iiiiiiii*28∑’7@˝œH∫Ö%XbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+|
+9_Z15fft2d_c2r_16x16IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28˜Ø7@˜Ø7H˜Ø7b'wave__net/functional_1/conv1d_18/conv1dh
+–
+i_ZN3DSE16regular_fft_clipILi1ELi2ELi128ELi16ELi32ELi1Eff6float2EEvPT5_PT7_i4int3S6_iS6_S6_iiiiiffbiS3_S3_*28˜Ô5@˜Ô5H˜Ô5XbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28¯Ô4@¯Ô4H¯Ô4XbJgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilterh
+í
++_Z15fft2d_r2c_16x16IfEvP6float2PKT_iiiiiiii*28¯ü2@Ä†H¯ˇ.XbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+m
++_Z15fft2d_r2c_64x64IfEvP6float2PKT_iiiiiiii*28Ÿ’.@ø¡	Höî%b&wave__net/functional_1/conv1d_8/conv1dh
+°
+9_Z15fft2d_c2r_64x64IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28⁄Í$@⁄Í$H⁄Í$XbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+ì
++_Z15fft2d_r2c_16x16IfEvP6float2PKT_iiiiiiii*28∫ø$@æ†H¸ûXbJgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilterh
+W
+volta_cgemm_32x32_tn*28⁄¨#@⁄¨#H⁄¨#b'wave__net/functional_1/conv1d_14/conv1dh
+W
+volta_cgemm_32x32_tn*28˚’!@˚’!H˚’!b'wave__net/functional_1/conv1d_10/conv1dh
+|
+volta_cgemm_32x32_tn*28õ∆!@õ∆!Hõ∆!XbJgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilterh
+{
+volta_cgemm_32x32_tn*28⁄≤!@⁄≤!H⁄≤!XbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+|
+volta_cgemm_32x32_tn*28ö˝ @ö˝ Hö˝ XbJgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilterh
+{
+volta_cgemm_32x32_tn*28˚œ @˚œ H˚œ XbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28˙ô@˛è
+H˛…
+XbJgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilterh
+õ
+3volta_scudnn_128x128_stridedB_splitK_interior_nn_v1*28ö–@˝¢Hù≠XbJgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropFilterh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28‹¥@ˇÔ	Hü£
+XbJgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilterh
+ö
+3volta_scudnn_128x128_stridedB_splitK_interior_nn_v1*28˚˛@˝˛H˛ˇXbIgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropFilterh
+õ
+3volta_scudnn_128x128_stridedB_splitK_interior_nn_v1*28õ’@ûÊH˝ÓXbJgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropFilterh
+±
+J_ZN3DSE10vector_fftILi1ELi2ELi128ELi8ELi8ELi1Eff6float2EEvPT7_S3_i4int3S4_*28¸Â@¸ÂH¸ÂXbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+õ
+3volta_scudnn_128x128_stridedB_splitK_interior_nn_v1*28ö›@˝≠HùØXbJgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropFilterh
+ì
++_Z15fft2d_r2c_64x64IfEvP6float2PKT_iiiiiiii*28¸û@ü¬	H›‹XbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+|
+9_Z15fft2d_c2r_16x16IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28¸Ô@¸ÔH¸Ôb'wave__net/functional_1/conv1d_16/conv1dh
+†
+9_Z15fft2d_c2r_16x16IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28õÍ@õÍHõÍXbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+í
++_Z15fft2d_r2c_16x16IfEvP6float2PKT_iiiiiiii*28‹Å@†ûHº„XbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+n
++_Z15fft2d_r2c_16x16IfEvP6float2PKT_iiiiiiii*28‹˝@ÄôH‹‰b'wave__net/functional_1/conv1d_18/conv1dh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28öÙ@˛ﬂH˛è	XbJgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28¸œ@¸œH¸œXbJgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilterh
+¿
+Y_Z15fft2d_r2c_32x32IfLb0ELj1ELb0EEvP6float2PKT_iiiiiiiiiN5cudnn15reduced_divisorEb4int2ii*28úø@ﬁÃ
+HæÚ
+XbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+“
+k_ZN5cudnn6detail12dgrad_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1EEEviiiPKT_iS4_iPS2_18kernel_grad_paramsiifiii*28º´@º´Hº´XbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+ì
++_Z15fft2d_r2c_16x16IfEvP6float2PKT_iiiiiiii*28˝˚@ü≥Hﬁ»XbJgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilterh
+{
+9_Z15fft2d_c2r_64x64IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28ùÁ@ùÁHùÁb&wave__net/functional_1/conv1d_8/conv1dh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28›’@æ®	Hü≠	XbJgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilterh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28˝∂@ˇô	H˛ú	XbJgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropFilterh
+¡
+Y_Z15fft2d_r2c_32x32IfLb0ELj1ELb0EEvP6float2PKT_iiiiiiiiiN5cudnn15reduced_divisorEb4int2ii*28ùè@ˇ∑Hû◊XbJgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilterh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28ùé@øÅ	Hﬁå	XbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+W
+volta_cgemm_32x32_tn*28Ω@ΩHΩb'wave__net/functional_1/conv1d_12/conv1dh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28›Ê@ˇÔHﬁˆXbJgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilterh
+X
+volta_gcgemm_32x32_nt*28ûÃ@ûÃHûÃb'wave__net/functional_1/conv1d_18/conv1dh
+|
+volta_cgemm_32x32_tn*28ù≥@ù≥Hù≥XbJgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilterh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28˛¨@ø–Hø‹XbJgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilterh
+{
+volta_cgemm_32x32_tn*28ù•@ù•Hù•XbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+ú
+Y_Z15fft2d_r2c_32x32IfLb0ELj1ELb0EEvP6float2PKT_iiiiiiiiiN5cudnn15reduced_divisorEb4int2ii*28Ωü@üêHûèb'wave__net/functional_1/conv1d_10/conv1dh
+ó
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28ú‰@˛ØHû¥XbGgradient_tape/wave__net/functional_1/conv1d/conv1d/Conv2DBackpropFilterh
+|
+volta_gcgemm_32x32_nt*28Ωö@ΩöHΩöXbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+í
++_Z15fft2d_r2c_16x16IfEvP6float2PKT_iiiiiiii*28æ∞@ÄóHæôXbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+n
++_Z15fft2d_r2c_16x16IfEvP6float2PKT_iiiiiiii*28ﬁ≠@‡ùH˛èb'wave__net/functional_1/conv1d_16/conv1dh
+†
+9_Z15fft2d_c2r_16x16IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28˛è@˛èH˛èXbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+|
+9_Z15fft2d_c2r_16x16IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28ﬁè@ﬁèHﬁèb'wave__net/functional_1/conv1d_14/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28˛œ@ˇœHˇˇXbJgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28˛ø@˛øH˛øXbJgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilterh
+à
+ _Z11flip_filterIffEvPT0_PKT_iiii*28˛è@˛èH˛èXbJgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilterh
+—
+i_Z15fft2d_c2r_32x32IfLb0ELb0ELj1ELb0ELb0EEvPT_PK6float2iiiiiiiiiffN5cudnn15reduced_divisorEbS1_S1_4int2ii*28û˛@û˛Hû˛XbJgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilterh
+¨
+i_Z15fft2d_c2r_32x32IfLb0ELb0ELj1ELb0ELb0EEvPT_PK6float2iiiiiiiiiffN5cudnn15reduced_divisorEbS1_S1_4int2ii*28˛·@˛·H˛·b'wave__net/functional_1/conv1d_10/conv1dh
+“
+k_ZN5cudnn6detail12dgrad_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1EEEviiiPKT_iS4_iPS2_18kernel_grad_paramsiifiii*28æÉ@æÉHæÉXbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+£
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28ø…
+@ÄKHø˛	XbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28ﬁπ
+@ﬁπ
+Hﬁπ
+XbJgradient_tape/wave__net/functional_1/conv1d_18/conv1d/Conv2DBackpropFilterh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28ˇ∑
+@ˇ∑
+Hˇ∑
+XbJgradient_tape/wave__net/functional_1/conv1d_36/conv1d/Conv2DBackpropFilterh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28üØ
+@üØ
+HüØ
+XbJgradient_tape/wave__net/functional_1/conv1d_34/conv1d/Conv2DBackpropFilterh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28˛ü
+@˛ü
+H˛ü
+XbJgradient_tape/wave__net/functional_1/conv1d_16/conv1d/Conv2DBackpropFilterh
+ì
++_Z15fft2d_r2c_16x16IfEvP6float2PKT_iiiiiiii*28æó
+@ˇøHø◊XbJgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilterh
+†
+9_Z15fft2d_c2r_64x64IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28ˇﬂ	@ˇﬂ	Hˇﬂ	XbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+í
++_Z15fft2d_r2c_16x16IfEvP6float2PKT_iiiiiiii*28æ∆	@üñHü∞XbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+n
++_Z15fft2d_r2c_16x16IfEvP6float2PKT_iiiiiiii*28ø±	@ÄêHø°b'wave__net/functional_1/conv1d_14/conv1dh
+X
+volta_gcgemm_32x32_nt*28ˇˇ@ˇˇHˇˇb'wave__net/functional_1/conv1d_16/conv1dh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28ˇœ@ˇœHˇœXbJgradient_tape/wave__net/functional_1/conv1d_32/conv1d/Conv2DBackpropFilterh
+ö
+2volta_scudnn_128x64_stridedB_splitK_interior_nn_v1*28˛œ@˛œH˛œXbJgradient_tape/wave__net/functional_1/conv1d_14/conv1d/Conv2DBackpropFilterh
+W
+volta_gcgemm_32x32_nt*28û @ü°Hˇ®b&wave__net/functional_1/conv1d_2/conv1dh
+W
+volta_gcgemm_32x32_nt*28˛ø@ˇüHˇüb&wave__net/functional_1/conv1d_1/conv1dh
+{
+volta_gcgemm_32x32_nt*28øª@øõHÄ†XbHgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropInputh
+|
+volta_gcgemm_32x32_nt*28ˇ∞@†ñHﬂöXbIgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropInputh
+|
+volta_gcgemm_32x32_nt*28ˇü@ˇüHˇüXbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ﬁÁ@ˇÔHﬂ˜XbJgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilterh
+{
+volta_gcgemm_32x32_nt*28ø∆@ˇHÄêXbIgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropInputh
+|
+9_Z15fft2d_c2r_16x16IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28ˇß@ˇßHˇßb'wave__net/functional_1/conv1d_12/conv1dh
+†
+9_Z15fft2d_c2r_16x16IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28ˇü@ˇüHˇüXbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28øù@¿ÕHˇœXbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+à
+ _Z11flip_filterIffEvPT0_PKT_iiii*28ˇÔ@ˇÔHˇÔXbJgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilterh
+–
+i_Z15fft2d_c2r_32x32IfLb0ELb0ELj1ELb0ELb0EEvPT_PK6float2iiiiiiiiiffN5cudnn15reduced_divisorEbS1_S1_4int2ii*28ˇﬂ@ˇﬂHˇﬂXbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+§
+=_Z13fft1d_r2c_256Iff6float2Lb0ELb0EEvPT1_PKT_4int3S6_4int2S7_*28üŒ@ÄÄH¿ÕXbIgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropInputh
+n
++_Z15fft2d_r2c_16x16IfEvP6float2PKT_iiiiiiii*28ﬂ…@ﬂôHÄ∞b'wave__net/functional_1/conv1d_12/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ü¿@ü¿Hü¿XbJgradient_tape/wave__net/functional_1/conv1d_12/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ˇø@ˇøHˇøXbJgradient_tape/wave__net/functional_1/conv1d_30/conv1d/Conv2DBackpropFilterh
+¢
+=_Z13fft1d_r2c_256Iff6float2Lb0ELb0EEvPT1_PKT_4int3S6_4int2S7_*28ø¨@ÄpHøƒXbHgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropInputh
+£
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28øé@ˇKH¿¬XbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+“
+k_ZN5cudnn6detail12dgrad_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1EEEviiiPKT_iS4_iPS2_18kernel_grad_paramsiifiii*28ø˛@ø˛Hø˛XbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28æÛ@øÛHˇˇXbJgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropFilterh
+k
+(volta_scudnn_128x128_relu_interior_nn_v1*28ø◊@ˇÈH¿Ìb'wave__net/functional_1/conv1d_18/conv1dh
+U
+volta_gcgemm_32x32_nt*28ˇ¡@Ä`HÄjb&wave__net/functional_1/conv1d_4/conv1dh
+Ä
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28Ä¿@Ä¿HÄ¿b'wave__net/functional_1/conv1d_18/conv1dh
+‹
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28üΩ@†›HˇﬂXbIgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropFilterh
+⁄
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ﬂº@‡›HˇﬁXbGgradient_tape/wave__net/functional_1/conv1d/conv1d/Conv2DBackpropFilterh
+
+=_Z13fft1d_r2c_256Iff6float2Lb1ELb0EEvPT1_PKT_4int3S6_4int2S7_*28ø≤@ø≤Hø≤b&wave__net/functional_1/conv1d_1/conv1dh
+¢
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28ˇØ@‡IH†]XbIgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropInputh
+
+=_Z13fft1d_r2c_256Iff6float2Lb1ELb0EEvPT1_PKT_4int3S6_4int2S7_*28ˇØ@ˇØHˇØb&wave__net/functional_1/conv1d_2/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28øÖ@ü∫H†ÀXbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+}
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28Ä·@‡SH¿[b&wave__net/functional_1/conv1d_4/conv1dh
+W
+volta_gcgemm_32x32_nt*28ˇ‡@¿ØHø±b&wave__net/functional_1/conv1d_3/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28‡ﬂ@‡ØHÄ∞XbJgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropFilterh
+X
+volta_gcgemm_32x32_nt*28¿”@¿”H¿”b'wave__net/functional_1/conv1d_14/conv1dh
+|
+volta_gcgemm_32x32_nt*28üœ@ü°HÄÆXbIgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28Ä¿@Ä†HÄ†XbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+|
+volta_gcgemm_32x32_nt*28ü∏@ü∏Hü∏XbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+|
+volta_gcgemm_32x32_nt*28æ¢@øÖHøåXbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+í
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28ˇ†@ˇ†Hˇ†b'wave__net/functional_1/conv1d_18/conv1dh
+£
+=_Z13fft1d_r2c_256Iff6float2Lb0ELb0EEvPT1_PKT_4int3S6_4int2S7_*28ˇû@ÄpHˇΩXbIgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropInputh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ﬂõ@üãH¿êXbJgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28‡ã@¿ÄH†ãXbJgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilterh
+k
+(volta_scudnn_128x128_relu_interior_nn_v1*28æÑ@ü˝Hüáb'wave__net/functional_1/conv1d_16/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28‡Ç@ÄÄH‡ÇXbJgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropFilterh
+°
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28Ä¸@Ä¸HÄ¸b&wave__net/functional_1/conv1d_1/conv1dh
+°
+9_Z15fft2d_c2r_16x16IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28‡Ô@‡ÔH‡ÔXbJgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilterh
+†
+9_Z15fft2d_c2r_16x16IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28‡Ó@‡ÓH‡ÓXbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+k
+(volta_scudnn_128x128_relu_interior_nn_v1*28¿Ì@‡ÙH‡¯b'wave__net/functional_1/conv1d_14/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28üÏ@üÏHüÏXbJgradient_tape/wave__net/functional_1/conv1d_28/conv1d/Conv2DBackpropFilterh
+°
+9_Z15fft2d_c2r_16x16IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28ﬂÎ@ﬂÎHﬂÎXbJgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilterh
+Œ
+ä_ZN5cudnn6detail23implicit_convolve_sgemmIffLi1024ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28øÈ@øÈHøÈb'wave__net/functional_1/conv1d_18/conv1dh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28†È@ÄÒH†¯XbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28‡Ë@‡ËH‡ËXbJgradient_tape/wave__net/functional_1/conv1d_10/conv1d/Conv2DBackpropFilterh
+°
+9_Z15fft2d_c2r_16x16IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28¿Ë@¿ËH¿ËXbJgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilterh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28¿Ê@ÄÚH¿ÙXbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+°
+9_Z15fft2d_c2r_16x16IfLb0EEvPT_P6float2iiiiiiiiiiffiS1_S1_*28‡‰@‡‰H‡‰XbJgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilterh
+£
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28ˇﬂ@ˇOHÄêXbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28ø‘@ÄÊHøÓXbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+à
+ _Z11flip_filterIffEvPT0_PKT_iiii*28Ä—@Ä—HÄ—XbJgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilterh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28ˇÃ@ˇÃHˇÃXbIgradient_tape/wave__net/functional_1/conv1d_36/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28øÀ@‡‡HﬂÍXbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28†À@†‚HÄÈXbIgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28ü»@ˇﬂH†ËXbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28ø∆@ø·HÄÂXbIgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28ü≈@ü≈Hü≈XbIgradient_tape/wave__net/functional_1/conv1d_18/conv1d/Conv2DBackpropInputh
+i
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡√@Ä‡H‡„b&wave__net/functional_1/conv1d_1/conv1dh
+¢
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28¿∑@ÄGHÄ`XbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+k
+(volta_scudnn_128x128_relu_interior_nn_v1*28ü∞@ü‘HÄ‹b'wave__net/functional_1/conv1d_12/conv1dh
+Œ
+ä_ZN5cudnn6detail23implicit_convolve_sgemmIffLi1024ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28ˇØ@ˇØHˇØb'wave__net/functional_1/conv1d_16/conv1dh
+U
+volta_gcgemm_32x32_nt*28ﬂõ@ﬂcHÄkb&wave__net/functional_1/conv1d_6/conv1dh
+i
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡ò@‡»HÄ–b&wave__net/functional_1/conv1d_2/conv1dh
+i
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡ñ@† H¿Ãb&wave__net/functional_1/conv1d_6/conv1dh
+i
+'volta_scudnn_128x64_relu_interior_nn_v1*28†ï@†…HÄÃb&wave__net/functional_1/conv1d_4/conv1dh
+è
+)volta_scudnn_128x128_stridedB_small_nn_v1*28üí@ü¬HÄ–XbHgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropInputh
+Ä
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28üë@üëHüëb'wave__net/functional_1/conv1d_16/conv1dh
+j
+'volta_scudnn_128x64_relu_interior_nn_v1*28¿ê@Ä«H¿…b'wave__net/functional_1/conv1d_10/conv1dh
+i
+'volta_scudnn_128x64_relu_interior_nn_v1*28ˇç@ﬂ¡H†Ãb&wave__net/functional_1/conv1d_8/conv1dh
+“
+k_ZN5cudnn6detail12dgrad_engineIfLi128ELi6ELi8ELi3ELi3ELi5ELb1EEEviiiPKT_iS4_iPS2_18kernel_grad_paramsiifiii*28ˇˇ@ˇˇHˇˇXbIgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropInputh
+“
+k_ZN5cudnn6detail12dgrad_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1EEEviiiPKT_iS4_iPS2_18kernel_grad_paramsiifiii*28ˇˇ@ˇˇHˇˇXbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ˇˇ@ˇˇHˇˇXbJgradient_tape/wave__net/functional_1/conv1d_37/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28¿˝@¿˝H¿˝XbJgradient_tape/wave__net/functional_1/conv1d_20/conv1d/Conv2DBackpropFilterh
+—
+k_ZN5cudnn6detail12dgrad_engineIfLi128ELi6ELi8ELi3ELi3ELi5ELb1EEEviiiPKT_iS4_iPS2_18kernel_grad_paramsiifiii*28ü˚@ü˚Hü˚XbHgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropInputh
+‹
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ÄÛ@ÄÛHÄÛXbIgradient_tape/wave__net/functional_1/conv1d_2/conv1d/Conv2DBackpropFilterh
+“
+k_ZN5cudnn6detail12dgrad_engineIfLi128ELi6ELi8ELi3ELi3ELi5ELb1EEEviiiPKT_iS4_iPS2_18kernel_grad_paramsiifiii*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropInputh
+}
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28ˇÊ@†QHˇ_b&wave__net/functional_1/conv1d_6/conv1dh
+k
+(volta_scudnn_128x128_relu_interior_nn_v1*28ˇÊ@ˇÊHˇÊb'wave__net/functional_1/conv1d_36/conv1dh
+
+=_Z13fft1d_r2c_256Iff6float2Lb1ELb0EEvPT1_PKT_4int3S6_4int2S7_*28Ä‰@Ä‰HÄ‰b&wave__net/functional_1/conv1d_3/conv1dh
+Œ
+ä_ZN5cudnn6detail23implicit_convolve_sgemmIffLi1024ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28¿·@¿·H¿·b'wave__net/functional_1/conv1d_14/conv1dh
+k
+(volta_scudnn_128x128_relu_interior_nn_v1*28Ä‡@Ä‡HÄ‡b'wave__net/functional_1/conv1d_54/conv1dh
+X
+volta_gcgemm_32x32_nt*28ˇﬂ@ˇØHÄ∞b'wave__net/functional_1/conv1d_57/conv1dh
+≈
+Å_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi1024ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28ˇ›@ˇ›Hˇ›b'wave__net/functional_1/conv1d_16/conv1dh
+U
+volta_gcgemm_32x32_nt*28¿œ@†°H†Æb$wave__net/functional_1/conv1d/conv1dh
+|
+volta_gcgemm_32x32_nt*28†Œ@†ŒH†ŒXbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+X
+volta_gcgemm_32x32_nt*28Ä¬@Ä¬HÄ¬b'wave__net/functional_1/conv1d_12/conv1dh
+í
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28†º@†ºH†ºb'wave__net/functional_1/conv1d_16/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ø∑@ø∑Hø∑XbJgradient_tape/wave__net/functional_1/conv1d_26/conv1d/Conv2DBackpropFilterh
+Œ
+ä_ZN5cudnn6detail23implicit_convolve_sgemmIffLi1024ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28†∑@†∑H†∑b'wave__net/functional_1/conv1d_12/conv1dh
+“
+k_ZN5cudnn6detail12dgrad_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1EEEviiiPKT_iS4_iPS2_18kernel_grad_paramsiifiii*28¿∂@¿∂H¿∂XbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+‹
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28¿¥@¿¥H¿¥XbIgradient_tape/wave__net/functional_1/conv1d_8/conv1d/Conv2DBackpropFilterh
+“
+k_ZN5cudnn6detail12dgrad_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1EEEviiiPKT_iS4_iPS2_18kernel_grad_paramsiifiii*28†±@†±H†±XbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28Ä±@Ä±HÄ±XbJgradient_tape/wave__net/functional_1/conv1d_27/conv1d/Conv2DBackpropFilterh
+‹
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ˇÆ@ˇÆHˇÆXbIgradient_tape/wave__net/functional_1/conv1d_9/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28†≠@†≠H†≠XbJgradient_tape/wave__net/functional_1/conv1d_39/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28Ä≠@Ä≠HÄ≠XbJgradient_tape/wave__net/functional_1/conv1d_35/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ø¨@ø¨Hø¨XbJgradient_tape/wave__net/functional_1/conv1d_11/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28†´@†´H†´XbJgradient_tape/wave__net/functional_1/conv1d_41/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ü´@ü´Hü´XbJgradient_tape/wave__net/functional_1/conv1d_51/conv1d/Conv2DBackpropFilterh
+£
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28Ä´@ÄPHÄ€XbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28Ä™@Ä™HÄ™XbJgradient_tape/wave__net/functional_1/conv1d_21/conv1d/Conv2DBackpropFilterh
+‹
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28†©@†©H†©XbIgradient_tape/wave__net/functional_1/conv1d_7/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ü©@ü©Hü©XbJgradient_tape/wave__net/functional_1/conv1d_55/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ˇß@ˇßHˇßXbJgradient_tape/wave__net/functional_1/conv1d_31/conv1d/Conv2DBackpropFilterh
+≈
+Å_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi1024ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28ˇß@ˇßHˇßb'wave__net/functional_1/conv1d_14/conv1dh
+∂
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28‡¶@‡¶H‡¶XbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+¢
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28ø¶@ø¶Hø¶b'wave__net/functional_1/conv1d_18/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ˇ•@ˇ•Hˇ•XbJgradient_tape/wave__net/functional_1/conv1d_45/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ø•@ø•Hø•XbJgradient_tape/wave__net/functional_1/conv1d_47/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28¿§@¿§H¿§XbJgradient_tape/wave__net/functional_1/conv1d_23/conv1d/Conv2DBackpropFilterh
+‹
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28Ä§@Ä§HÄ§XbIgradient_tape/wave__net/functional_1/conv1d_5/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28‡£@‡£H‡£XbJgradient_tape/wave__net/functional_1/conv1d_13/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28¿¢@¿¢H¿¢XbJgradient_tape/wave__net/functional_1/conv1d_15/conv1d/Conv2DBackpropFilterh
+“
+k_ZN5cudnn6detail12dgrad_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1EEEviiiPKT_iS4_iPS2_18kernel_grad_paramsiifiii*28ü†@ü†Hü†XbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+≈
+Å_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi1024ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28Ä†@Ä†HÄ†b'wave__net/functional_1/conv1d_18/conv1dh
+¢
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28ˇü@ˇüHˇüb'wave__net/functional_1/conv1d_10/conv1dh
+¢
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28ˇü@ˇüHˇüb'wave__net/functional_1/conv1d_12/conv1dh
+¢
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28¿ö@‡SH‡cXbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+|
+volta_gcgemm_32x32_nt*28üñ@†ÜHˇèXbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+Œ
+ä_ZN5cudnn6detail23implicit_convolve_sgemmIffLi1024ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28üï@üïHüïb'wave__net/functional_1/conv1d_10/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ﬂí@ﬂíHﬂíXbJgradient_tape/wave__net/functional_1/conv1d_19/conv1d/Conv2DBackpropFilterh
+°
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28Äê@ÄêHÄêb&wave__net/functional_1/conv1d_4/conv1dh
+≈
+Å_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi1024ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28Äê@ÄêHÄêb'wave__net/functional_1/conv1d_12/conv1dh
+‹
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28¿ç@¿çH¿çXbIgradient_tape/wave__net/functional_1/conv1d_4/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28üå@üåHüåXbJgradient_tape/wave__net/functional_1/conv1d_29/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ˇä@ˇäHˇäXbJgradient_tape/wave__net/functional_1/conv1d_22/conv1d/Conv2DBackpropFilterh
+°
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28Äâ@ÄâHÄâb&wave__net/functional_1/conv1d_2/conv1dh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28Äâ@ÄâHÄâXbIgradient_tape/wave__net/functional_1/conv1d_16/conv1d/Conv2DBackpropInputh
+¢
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28‡à@‡àH‡àb'wave__net/functional_1/conv1d_14/conv1dh
+°
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28‡á@‡áH‡áb&wave__net/functional_1/conv1d_6/conv1dh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28¿á@¿áH¿áXbIgradient_tape/wave__net/functional_1/conv1d_34/conv1d/Conv2DBackpropInputh
+Õ
+ä_ZN5cudnn6detail23implicit_convolve_sgemmIffLi1024ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28¿Ü@¿ÜH¿Üb&wave__net/functional_1/conv1d_8/conv1dh
+°
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28†Ö@†ÖH†Öb&wave__net/functional_1/conv1d_8/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ÄÖ@ÄÖHÄÖXbJgradient_tape/wave__net/functional_1/conv1d_43/conv1d/Conv2DBackpropFilterh
+Õ
+ä_ZN5cudnn6detail23implicit_convolve_sgemmIffLi1024ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28‡Ç@‡ÇH‡Çb&wave__net/functional_1/conv1d_2/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ÄÇ@ÄÇHÄÇXbJgradient_tape/wave__net/functional_1/conv1d_53/conv1d/Conv2DBackpropFilterh
+Õ
+ä_ZN5cudnn6detail23implicit_convolve_sgemmIffLi1024ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28ﬂÅ@ﬂÅHﬂÅb&wave__net/functional_1/conv1d_6/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28¿Å@¿ÅH¿ÅXbJgradient_tape/wave__net/functional_1/conv1d_49/conv1d/Conv2DBackpropFilterh
+
+=_Z13fft1d_r2c_256Iff6float2Lb0ELb0EEvPT1_PKT_4int3S6_4int2S7_*28†Å@†ÄHÄÅb&wave__net/functional_1/conv1d_1/conv1dh
+k
+(volta_scudnn_128x128_relu_interior_nn_v1*28†Å@†ÅH†Åb'wave__net/functional_1/conv1d_34/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28†Ä@†ÄH†ÄXbJgradient_tape/wave__net/functional_1/conv1d_24/conv1d/Conv2DBackpropFilterh
+k
+(volta_scudnn_128x128_relu_interior_nn_v1*28†Ä@†ÄH†Äb'wave__net/functional_1/conv1d_52/conv1dh
+à
+ _Z11flip_filterIffEvPT0_PKT_iiii*28ÄÄ@ÄÄHÄÄXbJgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilterh
+¢
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28ÄÄ@ÄÄHÄÄb'wave__net/functional_1/conv1d_16/conv1dh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ÄÄ@ÄÄHÄÄXbJgradient_tape/wave__net/functional_1/conv1d_17/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ÄÄ@ÄÄHÄÄXbJgradient_tape/wave__net/functional_1/conv1d_25/conv1d/Conv2DBackpropFilterh
+›
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ÄÄ@ÄÄHÄÄXbJgradient_tape/wave__net/functional_1/conv1d_33/conv1d/Conv2DBackpropFilterh
+≈
+Å_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi1024ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28ÄÄ@ÄÄHÄÄb'wave__net/functional_1/conv1d_10/conv1dh
+‹
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi512ELi6ELi5ELi3ELi3ELi3ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ˇˇ@ˇˇHˇˇXbIgradient_tape/wave__net/functional_1/conv1d_3/conv1d/Conv2DBackpropFilterh
+ƒ
+Å_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi1024ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28ˇˇ@ˇˇHˇˇb&wave__net/functional_1/conv1d_6/conv1dh
+Õ
+ä_ZN5cudnn6detail23implicit_convolve_sgemmIffLi1024ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28ˇˇ@ˇˇHˇˇb&wave__net/functional_1/conv1d_4/conv1dh
+ƒ
+Å_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi1024ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28ˇ¸@ˇ¸Hˇ¸b&wave__net/functional_1/conv1d_2/conv1dh
+‹
+u_ZN5cudnn6detail17wgrad_alg0_engineIfLi128ELi6ELi7ELi3ELi3ELi5ELb1ELi512EEEviiiPKT_iPS2_S4_18kernel_grad_paramsifiiii*28ø¸@ø¸Hø¸XbIgradient_tape/wave__net/functional_1/conv1d_6/conv1d/Conv2DBackpropFilterh
+ƒ
+Å_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi1024ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28ˇ˘@ˇ˘Hˇ˘b&wave__net/functional_1/conv1d_8/conv1dh
+Õ
+ä_ZN5cudnn6detail23implicit_convolve_sgemmIffLi1024ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28‡ı@‡ıH‡ıb&wave__net/functional_1/conv1d_1/conv1dh
+¢
+=_Z13fft1d_r2c_256Iff6float2Lb0ELb0EEvPT1_PKT_4int3S6_4int2S7_*28‡@‡<H†^XbIgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropInputh
+ƒ
+Å_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi1024ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28Ä@ÄHÄb&wave__net/functional_1/conv1d_4/conv1dh
+k
+(volta_scudnn_128x128_relu_interior_nn_v1*28Ä@ÄHÄb'wave__net/functional_1/conv1d_32/conv1dh
+k
+(volta_scudnn_128x128_relu_interior_nn_v1*28Ä@ÄHÄb'wave__net/functional_1/conv1d_50/conv1dh
+}
+=_Z13fft1d_r2c_256Iff6float2Lb0ELb0EEvPT1_PKT_4int3S6_4int2S7_*28ÄÏ@ÄsHÄyb&wave__net/functional_1/conv1d_2/conv1dh
+~
+=_Z13fft1d_r2c_256Iff6float2Lb0ELb0EEvPT1_PKT_4int3S6_4int2S7_*28¿Î@ÄpH¿{b'wave__net/functional_1/conv1d_57/conv1dh
+√
+Ä_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi128ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28ﬂÈ@ﬂÈHﬂÈb&wave__net/functional_1/conv1d_1/conv1dh
+}
+=_Z13fft1d_r2c_256Iff6float2Lb0ELb0EEvPT1_PKT_4int3S6_4int2S7_*28¿È@ÄpH¿yb&wave__net/functional_1/conv1d_3/conv1dh
+¢
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28‡Ë@‡ËH‡Ëb'wave__net/functional_1/conv1d_57/conv1dh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28ü‚@ü‚Hü‚XbIgradient_tape/wave__net/functional_1/conv1d_32/conv1d/Conv2DBackpropInputh
+°
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28ˇ·@ˇ·Hˇ·b&wave__net/functional_1/conv1d_3/conv1dh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28ü·@ü·Hü·XbIgradient_tape/wave__net/functional_1/conv1d_30/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28Ä‡@Ä‡HÄ‡XbIgradient_tape/wave__net/functional_1/conv1d_24/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28‡ﬂ@‡ﬂH‡ﬂXbIgradient_tape/wave__net/functional_1/conv1d_28/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28¿‹@¿‹H¿‹XbIgradient_tape/wave__net/functional_1/conv1d_14/conv1d/Conv2DBackpropInputh
+é
+(volta_scudnn_128x64_stridedB_small_nn_v1*28‡Ÿ@‡ŸH‡ŸXbHgradient_tape/wave__net/functional_1/conv1d_2/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28ﬂÿ@ﬂÿHﬂÿXbIgradient_tape/wave__net/functional_1/conv1d_20/conv1d/Conv2DBackpropInputh
+é
+(volta_scudnn_128x64_stridedB_small_nn_v1*28†÷@†÷H†÷XbHgradient_tape/wave__net/functional_1/conv1d_8/conv1d/Conv2DBackpropInputh
+Ä
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28ü÷@ü÷Hü÷b'wave__net/functional_1/conv1d_14/conv1dh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28¿’@¿’H¿’XbIgradient_tape/wave__net/functional_1/conv1d_22/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28ﬂ‘@ﬂ‘Hﬂ‘XbIgradient_tape/wave__net/functional_1/conv1d_12/conv1d/Conv2DBackpropInputh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28ﬂ”@ﬂ”Hﬂ”XbIgradient_tape/wave__net/functional_1/conv1d_10/conv1d/Conv2DBackpropInputh
+é
+(volta_scudnn_128x64_stridedB_small_nn_v1*28Ä”@Ä”HÄ”XbHgradient_tape/wave__net/functional_1/conv1d_6/conv1d/Conv2DBackpropInputh
+U
+volta_gcgemm_32x32_nt*28¿“@¿bHÄpb&wave__net/functional_1/conv1d_8/conv1dh
+k
+(volta_scudnn_128x128_relu_interior_nn_v1*28†“@†“H†“b'wave__net/functional_1/conv1d_48/conv1dh
+é
+(volta_scudnn_128x64_stridedB_small_nn_v1*28ü–@ü–Hü–XbHgradient_tape/wave__net/functional_1/conv1d_4/conv1d/Conv2DBackpropInputh
+k
+(volta_scudnn_128x128_relu_interior_nn_v1*28Ä–@Ä–HÄ–b'wave__net/functional_1/conv1d_30/conv1dh
+è
+(volta_scudnn_128x64_stridedB_small_nn_v1*28Ä–@Ä–HÄ–XbIgradient_tape/wave__net/functional_1/conv1d_26/conv1d/Conv2DBackpropInputh
+j
+'volta_scudnn_128x64_relu_interior_nn_v1*28¿Ã@¿ÃH¿Ãb'wave__net/functional_1/conv1d_42/conv1dh
+‡
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡ @‡ H‡ b$wave__net/functional_1/add_27/add_25h
+“
+k_ZN5cudnn6detail12dgrad_engineIfLi128ELi6ELi8ELi3ELi3ELi5ELb1EEEviiiPKT_iS4_iPS2_18kernel_grad_paramsiifiii*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropInputh
+j
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡…@‡…H‡…b'wave__net/functional_1/conv1d_22/conv1dh
+j
+'volta_scudnn_128x64_relu_interior_nn_v1*28¿∆@¿∆H¿∆b'wave__net/functional_1/conv1d_44/conv1dh
+j
+'volta_scudnn_128x64_relu_interior_nn_v1*28Ä∆@Ä∆HÄ∆b'wave__net/functional_1/conv1d_28/conv1dh
+j
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡¬@‡¬H‡¬b'wave__net/functional_1/conv1d_26/conv1dh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28¿¬@†`H†bb&wave__net/functional_1/conv1d_3/conv1dh
+j
+'volta_scudnn_128x64_relu_interior_nn_v1*28¿¬@¿¬H¿¬b'wave__net/functional_1/conv1d_38/conv1dh
+X
+volta_gcgemm_32x32_nt*28Ä¬@Ä¬HÄ¬b'wave__net/functional_1/conv1d_10/conv1dh
+j
+'volta_scudnn_128x64_relu_interior_nn_v1*28¿¡@¿¡H¿¡b'wave__net/functional_1/conv1d_20/conv1dh
+j
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡¿@‡¿H‡¿b'wave__net/functional_1/conv1d_46/conv1dh
+ê
++volta_scudnn_128x64_stridedB_interior_nn_v1*28ø¿@ˇ_H¿`XbIgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropInputh
+z
+volta_gcgemm_32x32_nt*28†¿@†_HÄaXbIgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropInputh
+j
+'volta_scudnn_128x64_relu_interior_nn_v1*28Ä¿@Ä¿HÄ¿b'wave__net/functional_1/conv1d_40/conv1dh
+j
+'volta_scudnn_128x64_relu_interior_nn_v1*28ˇø@ˇøHˇøb'wave__net/functional_1/conv1d_24/conv1dh
+}
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28Äæ@‡^H†_b&wave__net/functional_1/conv1d_8/conv1dh
+¢
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28‡Ω@‡BHÄ{XbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+|
+volta_gcgemm_32x32_nt*28ˇ∑@ˇ∑Hˇ∑XbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+è
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28†∂@¿H‡b&wave__net/functional_1/conv1d_4/conv1dh
+í
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28ˇØ@ˇØHˇØb'wave__net/functional_1/conv1d_14/conv1dh
+À
+â_ZN5cudnn6detail23implicit_convolve_sgemmIffLi128ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28Ä©@ÄPHÄYb'wave__net/functional_1/conv1d_57/conv1dh
+∂
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28Ä¶@Ä¶HÄ¶XbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+è
+O_Z13fft1d_c2r_256I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_4int3S6_4int2iT0_S8_S2_S2_*28Ä£@‡FH†\b&wave__net/functional_1/conv1d_2/conv1dh
+¥
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28ˇû@†H¿XbIgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropInputh
+ç
+O_Z13fft1d_c2r_256I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_4int3S6_4int2iT0_S8_S2_S2_*28Äù@ÄLHÄQb$wave__net/functional_1/conv1d/conv1dh
+≥
+O_Z13fft1d_c2r_256I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_4int3S6_4int2iT0_S8_S2_S2_*28ˇô@‡AHüXXbHgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropInputh
+{
+=_Z13fft1d_r2c_256Iff6float2Lb0ELb0EEvPT1_PKT_4int3S6_4int2S7_*28†ô@†IHÄPb$wave__net/functional_1/conv1d/conv1dh
+à
+ _Z11flip_filterIffEvPT0_PKT_iiii*28†ê@†êH†êXbJgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilterh
+e
+'volta_scudnn_128x64_relu_interior_nn_v1*28ÄÜ@‡@H†Eb$wave__net/functional_1/conv1d/conv1dh
+`
+ _Z11flip_filterIffEvPT0_PKT_iiii*28†~@†~H†~b'wave__net/functional_1/conv1d_16/conv1dh
+`
+ _Z11flip_filterIffEvPT0_PKT_iiii*28ø}@ø}Hø}b'wave__net/functional_1/conv1d_12/conv1dh
+_
+ _Z11flip_filterIffEvPT0_PKT_iiii*28ü|@ü|Hü|b&wave__net/functional_1/conv1d_8/conv1dh
+`
+ _Z11flip_filterIffEvPT0_PKT_iiii*28Ä|@Ä|HÄ|b'wave__net/functional_1/conv1d_14/conv1dh
+`
+ _Z11flip_filterIffEvPT0_PKT_iiii*28Äy@ÄyHÄyb'wave__net/functional_1/conv1d_18/conv1dh
+é
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28Äw@ÄH¿!b&wave__net/functional_1/conv1d_6/conv1dh
+g
+'volta_scudnn_128x32_relu_interior_nn_v1*28†t@†tH†tb'wave__net/functional_1/conv1d_57/conv1dh
+}
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28‡r@‡rH‡rb'wave__net/functional_1/conv1d_12/conv1dh
+`
+ _Z11flip_filterIffEvPT0_PKT_iiii*28†r@†rH†rb'wave__net/functional_1/conv1d_10/conv1dh
+≥
+O_Z13fft1d_c2r_256I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_4int3S6_4int2iT0_S8_S2_S2_*28†r@Ä2H†@XbIgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropInputh
+}
+=_Z12fft1d_r2c_32Iff6float2Lb1ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28¿q@¿qH¿qb'wave__net/functional_1/conv1d_12/conv1dh
+}
+=_Z12fft1d_r2c_32Iff6float2Lb1ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28ﬂp@ﬂpHﬂpb'wave__net/functional_1/conv1d_18/conv1dh
+|
+=_Z12fft1d_r2c_32Iff6float2Lb1ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28Äp@ÄpHÄpb&wave__net/functional_1/conv1d_4/conv1dh
+|
+=_Z12fft1d_r2c_32Iff6float2Lb1ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28Äp@ÄpHÄpb&wave__net/functional_1/conv1d_6/conv1dh
+é
+O_Z13fft1d_c2r_256I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_4int3S6_4int2iT0_S8_S2_S2_*28Äp@Ä0HÄ@b&wave__net/functional_1/conv1d_1/conv1dh
+|
+=_Z12fft1d_r2c_32Iff6float2Lb1ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28ˇo@ˇoHˇob&wave__net/functional_1/conv1d_8/conv1dh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28‡o@†4H¿;XbIgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropInputh
+≥
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28Äo@†HÄ XbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+}
+=_Z12fft1d_r2c_32Iff6float2Lb1ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28Än@ÄnHÄnb'wave__net/functional_1/conv1d_10/conv1dh
+}
+=_Z12fft1d_r2c_32Iff6float2Lb1ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28‡m@‡mH‡mb'wave__net/functional_1/conv1d_16/conv1dh
+}
+=_Z12fft1d_r2c_32Iff6float2Lb1ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28¿m@¿mH¿mb'wave__net/functional_1/conv1d_14/conv1dh
+ 
+ä_ZN5cudnn6detail23implicit_convolve_sgemmIffLi1024ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28Äm@ÄmHÄmb&wave__net/functional_1/conv1d_3/conv1dh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi2ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Äl@ÄlHÄlbzgradient_tape/wave__net/functional_1/conv1d_36/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+»
+ä_ZN5cudnn6detail23implicit_convolve_sgemmIffLi1024ELi5ELi5ELi3ELi3ELi3ELi1ELb1ELb0ELb1EEEviiiPKT_iPT0_PS2_18kernel_conv_paramsiffiS6_S6_ii*28†k@†kH†kb$wave__net/functional_1/conv1d/conv1dh
+Ö
+ _Z11flip_filterIffEvPT0_PKT_iiii*28ük@ükHükXbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿i@¿iH¿ib6wave__net/functional_1/conv1d_36/conv1d/BatchToSpaceNDh
+}
+=_Z12fft1d_r2c_32Iff6float2Lb0ELb0EEvPT1_PKT_i4int3S6_4int2S7_*28Äg@ÄgHÄgb'wave__net/functional_1/conv1d_10/conv1dh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28‡f@‡fH‡fXbIgradient_tape/wave__net/functional_1/conv1d_47/conv1d/Conv2DBackpropInputh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28øf@øfHøfb(wave__net/functional_1/conv1d_55/BiasAddh
+≥
+O_Z13fft1d_c2r_256I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_4int3S6_4int2iT0_S8_S2_S2_*28†f@Ä0H†6XbIgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropInputh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28üf@üfHüfXbIgradient_tape/wave__net/functional_1/conv1d_13/conv1d/Conv2DBackpropInputh
+≥
+O_Z13fft1d_c2r_256I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_4int3S6_4int2iT0_S8_S2_S2_*28†e@Ä0H†5XbIgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropInputh
+é
+O_Z13fft1d_c2r_256I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_4int3S6_4int2iT0_S8_S2_S2_*28Äd@Ä0HÄ4b&wave__net/functional_1/conv1d_3/conv1dh
+ø
+Å_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi1024ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28†b@†bH†bb$wave__net/functional_1/conv1d/conv1dh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡a@‡aH‡ab6wave__net/functional_1/conv1d_16/conv1d/BatchToSpaceNDh
+¿
+Ä_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi128ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28†a@†aH†ab&wave__net/functional_1/conv1d_3/conv1dh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ˇ`@ˇ`Hˇ`b6wave__net/functional_1/conv1d_34/conv1d/BatchToSpaceNDh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28‡`@‡`H‡`XbIgradient_tape/wave__net/functional_1/conv1d_19/conv1d/Conv2DBackpropInputh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28ø`@ø`Hø`b'wave__net/functional_1/conv1d_27/conv1dh
+≥
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28Ä`@Ä`HÄ`XbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä`@Ä`HÄ`bDgradient_tape/wave__net/functional_1/conv1d_52/conv1d/SpaceToBatchNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä`@Ä`HÄ`b6wave__net/functional_1/conv1d_18/conv1d/BatchToSpaceNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä`@Ä`HÄ`b6wave__net/functional_1/conv1d_52/conv1d/BatchToSpaceNDh
+œ
+k_ZN5cudnn6detail12dgrad_engineIfLi128ELi6ELi8ELi3ELi3ELi5ELb1EEEviiiPKT_iS4_iPS2_18kernel_grad_paramsiifiii*28Ä`@Ä`HÄ`XbIgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropInputh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28Ä`@Ä`HÄ`b'wave__net/functional_1/conv1d_25/conv1dh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28Ä`@Ä`HÄ`b'wave__net/functional_1/conv1d_29/conv1dh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28Ä`@Ä`HÄ`b'wave__net/functional_1/conv1d_49/conv1dh
+f
+'volta_scudnn_128x64_relu_interior_nn_v1*28Ä`@Ä`HÄ`b&wave__net/functional_1/conv1d_5/conv1dh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28Ä`@Ä`HÄ`XbIgradient_tape/wave__net/functional_1/conv1d_11/conv1d/Conv2DBackpropInputh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28Ä`@Ä`HÄ`XbIgradient_tape/wave__net/functional_1/conv1d_29/conv1d/Conv2DBackpropInputh
+é
++volta_scudnn_128x64_stridedB_interior_nn_v1*28Ä`@Ä`HÄ`XbHgradient_tape/wave__net/functional_1/conv1d_3/conv1d/Conv2DBackpropInputh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28Ä`@Ä`HÄ`XbIgradient_tape/wave__net/functional_1/conv1d_31/conv1d/Conv2DBackpropInputh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28Ä`@Ä`HÄ`XbIgradient_tape/wave__net/functional_1/conv1d_39/conv1d/Conv2DBackpropInputh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28Ä`@Ä`HÄ`XbIgradient_tape/wave__net/functional_1/conv1d_41/conv1d/Conv2DBackpropInputh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28Ä`@Ä`HÄ`XbIgradient_tape/wave__net/functional_1/conv1d_45/conv1d/Conv2DBackpropInputh
+é
++volta_scudnn_128x64_stridedB_interior_nn_v1*28Ä`@Ä`HÄ`XbHgradient_tape/wave__net/functional_1/conv1d_5/conv1d/Conv2DBackpropInputh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28Ä`@Ä`HÄ`XbIgradient_tape/wave__net/functional_1/conv1d_51/conv1d/Conv2DBackpropInputh
+é
++volta_scudnn_128x64_stridedB_interior_nn_v1*28Ä`@Ä`HÄ`XbHgradient_tape/wave__net/functional_1/conv1d_7/conv1d/Conv2DBackpropInputh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi2ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ˇ_@ˇ_Hˇ_bzgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡_@‡_H‡_b6wave__net/functional_1/conv1d_54/conv1d/BatchToSpaceNDh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡_@‡_H‡_b'wave__net/functional_1/conv1d_15/conv1dh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28‡_@‡_H‡_XbIgradient_tape/wave__net/functional_1/conv1d_27/conv1d/Conv2DBackpropInputh
+è
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28¿_@¿_H¿_b'wave__net/functional_1/conv1d_12/conv1dh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿_@¿_H¿_bBgradient_tape/wave__net/functional_1/conv1d_57/BiasAdd/BiasAddGradh
+é
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28†_@†/HÄ0b&wave__net/functional_1/conv1d_8/conv1dh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28Ä_@Ä_HÄ_XbIgradient_tape/wave__net/functional_1/conv1d_25/conv1d/Conv2DBackpropInputh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡^@‡^H‡^b'wave__net/functional_1/conv1d_35/conv1dh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28‡^@‡^H‡^XbIgradient_tape/wave__net/functional_1/conv1d_33/conv1d/Conv2DBackpropInputh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28¿^@¿^H¿^XbIgradient_tape/wave__net/functional_1/conv1d_23/conv1d/Conv2DBackpropInputh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28¿^@¿^H¿^XbIgradient_tape/wave__net/functional_1/conv1d_43/conv1d/Conv2DBackpropInputh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28Ä^@Ä^HÄ^b'wave__net/functional_1/conv1d_55/conv1dh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡]@‡]H‡]b'wave__net/functional_1/conv1d_21/conv1dh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28‡]@‡]H‡]XbIgradient_tape/wave__net/functional_1/conv1d_17/conv1d/Conv2DBackpropInputh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿]@¿]H¿]bDgradient_tape/wave__net/functional_1/conv1d_34/conv1d/SpaceToBatchNDh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28¿]@¿]H¿]XbIgradient_tape/wave__net/functional_1/conv1d_49/conv1d/Conv2DBackpropInputh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28†]@†]H†]b'wave__net/functional_1/conv1d_45/conv1dh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi2ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä]@Ä]HÄ]bzgradient_tape/wave__net/functional_1/conv1d_18/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28Ä]@Ä]HÄ]XbIgradient_tape/wave__net/functional_1/conv1d_37/conv1d/Conv2DBackpropInputh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡\@‡\H‡\bDgradient_tape/wave__net/functional_1/conv1d_46/conv1d/SpaceToBatchNDh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡\@‡\H‡\b'wave__net/functional_1/conv1d_13/conv1dh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡\@‡\H‡\b'wave__net/functional_1/conv1d_53/conv1dh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28‡\@‡\H‡\XbIgradient_tape/wave__net/functional_1/conv1d_15/conv1d/Conv2DBackpropInputh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28‡\@‡\H‡\XbIgradient_tape/wave__net/functional_1/conv1d_21/conv1d/Conv2DBackpropInputh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28‡\@‡\H‡\XbIgradient_tape/wave__net/functional_1/conv1d_55/conv1d/Conv2DBackpropInputh
+é
++volta_scudnn_128x64_stridedB_interior_nn_v1*28‡\@‡\H‡\XbHgradient_tape/wave__net/functional_1/conv1d_9/conv1d/Conv2DBackpropInputh
+f
+'volta_scudnn_128x64_relu_interior_nn_v1*28¿\@¿\H¿\b&wave__net/functional_1/conv1d_9/conv1dh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†\@†\H†\b6wave__net/functional_1/conv1d_46/conv1d/BatchToSpaceNDh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28Ä\@Ä\HÄ\b'wave__net/functional_1/conv1d_56/conv1dh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†[@†[H†[bDgradient_tape/wave__net/functional_1/conv1d_48/conv1d/SpaceToBatchNDh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28†[@†[H†[b'wave__net/functional_1/conv1d_37/conv1dh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28Ä[@Ä[HÄ[b'wave__net/functional_1/conv1d_33/conv1dh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28¿Z@¿ZH¿Zb'wave__net/functional_1/conv1d_17/conv1dh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28¿Z@¿ZH¿Zb'wave__net/functional_1/conv1d_19/conv1dh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28†Z@†ZH†Zb'wave__net/functional_1/conv1d_41/conv1dh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄZ@ÄZHÄZbDgradient_tape/wave__net/functional_1/conv1d_18/conv1d/SpaceToBatchNDh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28ÄZ@ÄZHÄZb'wave__net/functional_1/conv1d_11/conv1dh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡Y@‡YH‡Yb6wave__net/functional_1/conv1d_42/conv1d/BatchToSpaceNDh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28ˇW@ˇWHˇWXbIgradient_tape/wave__net/functional_1/conv1d_35/conv1d/Conv2DBackpropInputh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡W@‡WH‡Wb'wave__net/functional_1/conv1d_31/conv1dh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡W@‡WH‡Wb'wave__net/functional_1/conv1d_51/conv1dh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28øW@øWHøWb6wave__net/functional_1/conv1d_28/conv1d/BatchToSpaceNDh
+è
++volta_scudnn_128x64_stridedB_interior_nn_v1*28øW@øWHøWXbIgradient_tape/wave__net/functional_1/conv1d_53/conv1d/Conv2DBackpropInputh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†W@†WH†WbDgradient_tape/wave__net/functional_1/conv1d_54/conv1d/SpaceToBatchNDh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28†W@†WH†Wb'wave__net/functional_1/conv1d_47/conv1dh
+è
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡V@‡VH‡Vb5wave__net/functional_1/conv1d_6/conv1d/BatchToSpaceNDh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡U@‡UH‡Ub'wave__net/functional_1/conv1d_23/conv1dh
+f
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡U@‡UH‡Ub&wave__net/functional_1/conv1d_7/conv1dh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†U@†UH†UbDgradient_tape/wave__net/functional_1/conv1d_16/conv1d/SpaceToBatchNDh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi2ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†U@†UH†UbYwave__net/functional_1/conv1d_54/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄU@ÄUHÄUb6wave__net/functional_1/conv1d_32/conv1d/BatchToSpaceNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡T@‡TH‡TbDgradient_tape/wave__net/functional_1/conv1d_14/conv1d/SpaceToBatchNDh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi2ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿T@¿TH¿TbYwave__net/functional_1/conv1d_36/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄT@ÄTHÄTb6wave__net/functional_1/conv1d_30/conv1d/BatchToSpaceNDh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28‡S@‡SH‡Sb'wave__net/functional_1/conv1d_43/conv1dh
+è
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ﬂR@ﬂRHﬂRb5wave__net/functional_1/conv1d_8/conv1d/BatchToSpaceNDh
+g
+'volta_scudnn_128x64_relu_interior_nn_v1*28¿R@¿RH¿Rb'wave__net/functional_1/conv1d_39/conv1dh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi2ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†R@†RH†RbYwave__net/functional_1/conv1d_18/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄR@ÄRHÄRbDgradient_tape/wave__net/functional_1/conv1d_50/conv1d/SpaceToBatchNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄR@ÄRHÄRb6wave__net/functional_1/conv1d_50/conv1d/BatchToSpaceNDh
+è
+O_Z13fft1d_c2r_256I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_4int3S6_4int2iT0_S8_S2_S2_*28‡Q@‡"HÄ/b'wave__net/functional_1/conv1d_57/conv1dh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†Q@†QH†Qb6wave__net/functional_1/conv1d_24/conv1d/BatchToSpaceNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄQ@ÄQHÄQbDgradient_tape/wave__net/functional_1/conv1d_22/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄQ@ÄQHÄQbDgradient_tape/wave__net/functional_1/conv1d_36/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPbDgradient_tape/wave__net/functional_1/conv1d_10/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPbDgradient_tape/wave__net/functional_1/conv1d_30/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPbDgradient_tape/wave__net/functional_1/conv1d_32/conv1d/SpaceToBatchNDh
+ù
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPbCgradient_tape/wave__net/functional_1/conv1d_4/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPbDgradient_tape/wave__net/functional_1/conv1d_44/conv1d/SpaceToBatchNDh
+ù
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPbCgradient_tape/wave__net/functional_1/conv1d_6/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPbDgradient_tape/wave__net/functional_1/conv1d_18/conv1d/BatchToSpaceNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPb6wave__net/functional_1/conv1d_10/conv1d/BatchToSpaceNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPb6wave__net/functional_1/conv1d_14/conv1d/BatchToSpaceNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPb6wave__net/functional_1/conv1d_22/conv1d/BatchToSpaceNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPb6wave__net/functional_1/conv1d_26/conv1d/BatchToSpaceNDh
+è
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPb5wave__net/functional_1/conv1d_4/conv1d/BatchToSpaceNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPb6wave__net/functional_1/conv1d_40/conv1d/BatchToSpaceNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPb6wave__net/functional_1/conv1d_44/conv1d/BatchToSpaceNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄP@ÄPHÄPb6wave__net/functional_1/conv1d_48/conv1d/BatchToSpaceNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡N@‡NH‡NbDgradient_tape/wave__net/functional_1/conv1d_36/conv1d/BatchToSpaceNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄN@ÄNHÄNbDgradient_tape/wave__net/functional_1/conv1d_12/conv1d/SpaceToBatchNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡M@‡MH‡Mb6wave__net/functional_1/conv1d_12/conv1d/BatchToSpaceNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿M@¿MH¿MbDgradient_tape/wave__net/functional_1/conv1d_26/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†M@†MH†MbDgradient_tape/wave__net/functional_1/conv1d_42/conv1d/SpaceToBatchNDh
+ù
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28üM@üMHüMbCgradient_tape/wave__net/functional_1/conv1d_8/conv1d/SpaceToBatchNDh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi7ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿L@¿LH¿LbYwave__net/functional_1/conv1d_32/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ˇK@ˇKHˇKbDgradient_tape/wave__net/functional_1/conv1d_54/conv1d/BatchToSpaceNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†K@†KH†KbDgradient_tape/wave__net/functional_1/conv1d_24/conv1d/SpaceToBatchNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿J@¿JH¿Jb6wave__net/functional_1/conv1d_18/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿F@¿FH¿FbDgradient_tape/wave__net/functional_1/conv1d_40/conv1d/SpaceToBatchNDh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi7ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿F@¿FH¿FbYwave__net/functional_1/conv1d_14/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28†C@†CH†CbBgradient_tape/wave__net/functional_1/conv1d_50/BiasAdd/BiasAddGradh
+≈
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†C@†CH†Cb5gradient_tape/wave__net/functional_1/conv1d_1/Slice_1h
+û
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28üC@üCHüCbDgradient_tape/wave__net/functional_1/conv1d_28/conv1d/SpaceToBatchNDh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ÄB@ÄBHÄBbygradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInput-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡A@‡AH‡AbDgradient_tape/wave__net/functional_1/conv1d_52/conv1d/BatchToSpaceNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ÄA@ÄAHÄAb6wave__net/functional_1/conv1d_54/conv1d/SpaceToBatchNDh
+è
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28‡@@‡@H‡@b'wave__net/functional_1/conv1d_10/conv1dh
+ı
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@@‡@H‡@bzgradient_tape/wave__net/functional_1/conv1d_36/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+≥
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28Ä@@Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+z
+=_Z13fft1d_r2c_256Iff6float2Lb1ELb0EEvPT1_PKT_4int3S6_4int2S7_*28Ä@@Ä@HÄ@b$wave__net/functional_1/conv1d/conv1dh
+}
+=_Z13fft1d_r2c_256Iff6float2Lb1ELb0EEvPT1_PKT_4int3S6_4int2S7_*28Ä@@Ä@HÄ@b'wave__net/functional_1/conv1d_57/conv1dh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä@@Ä@HÄ@bBgradient_tape/wave__net/functional_1/conv1d_30/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä@@Ä@HÄ@bBgradient_tape/wave__net/functional_1/conv1d_32/BiasAdd/BiasAddGradh
+î
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä@@Ä@HÄ@bAgradient_tape/wave__net/functional_1/conv1d_4/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä@@Ä@HÄ@bBgradient_tape/wave__net/functional_1/conv1d_46/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä@@Ä@HÄ@bBgradient_tape/wave__net/functional_1/conv1d_52/BiasAdd/BiasAddGradh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä@@Ä@HÄ@b6wave__net/functional_1/conv1d_36/conv1d/SpaceToBatchNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä@@Ä@HÄ@b6wave__net/functional_1/conv1d_52/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä@@Ä@HÄ@bDgradient_tape/wave__net/functional_1/conv1d_34/conv1d/BatchToSpaceNDh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi4ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä@@Ä@HÄ@bzgradient_tape/wave__net/functional_1/conv1d_16/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä@@Ä@HÄ@bzgradient_tape/wave__net/functional_1/conv1d_26/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä@@Ä@HÄ@bzgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@@Ä@HÄ@bAddN_12h
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi7ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ˇ?@ˇ?Hˇ?bYwave__net/functional_1/conv1d_50/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28‡?@‡?H‡?bBgradient_tape/wave__net/functional_1/conv1d_12/BiasAdd/BiasAddGradh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi4ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿?@¿?H¿?bzgradient_tape/wave__net/functional_1/conv1d_34/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿?@¿?H¿?bAddN_15h
+¬
+Å_ZN5cudnn6detail23explicit_convolve_sgemmIfiLi1024ELi5ELi5ELi3ELi3ELi3ELi0ELb1EEEviiiPKT_iS4_iPS2_18kernel_conv_paramsiiffiS5_S5_*28¿?@¿?H¿?b'wave__net/functional_1/conv1d_57/conv1dh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28†?@†?H†?bBgradient_tape/wave__net/functional_1/conv1d_54/BiasAdd/BiasAddGradh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä?@Ä?HÄ?b6wave__net/functional_1/conv1d_16/conv1d/SpaceToBatchNDh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi7ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä?@Ä?HÄ?bzgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä?@Ä?HÄ?bYwave__net/functional_1/conv1d_10/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ˇ>@ˇ>Hˇ>bDgradient_tape/wave__net/functional_1/conv1d_16/conv1d/BatchToSpaceNDh
+í
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28‡>@‡>H‡>b?gradient_tape/wave__net/functional_1/conv1d/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿>@¿>H¿>bBgradient_tape/wave__net/functional_1/conv1d_18/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿>@¿>H¿>bBgradient_tape/wave__net/functional_1/conv1d_42/BiasAdd/BiasAddGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28ø>@ø>Hø>bAddN_24h
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi4ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†>@†>H†>bzgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ö
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†>@†>H†>bxgradient_tape/wave__net/functional_1/conv1d_4/conv1d/Conv2DBackpropInput-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ı
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28ü>@ü>Hü>bzgradient_tape/wave__net/functional_1/conv1d_30/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä>@Ä>HÄ>bBgradient_tape/wave__net/functional_1/conv1d_48/BiasAdd/BiasAddGradh
+î
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä>@Ä>HÄ>bAgradient_tape/wave__net/functional_1/conv1d_8/BiasAdd/BiasAddGradh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi7ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä>@Ä>HÄ>bzgradient_tape/wave__net/functional_1/conv1d_32/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Â
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡=@‡=H‡=bXwave__net/functional_1/conv1d_2/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿=@¿=H¿=b6wave__net/functional_1/conv1d_32/conv1d/SpaceToBatchNDh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi7ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿=@¿=H¿=bzgradient_tape/wave__net/functional_1/conv1d_14/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi4ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä=@Ä=HÄ=bYwave__net/functional_1/conv1d_16/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä=@Ä=HÄ=bAddN_36h
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28¿<@ÄH¿XbJgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilterh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi4ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿<@¿<H¿<bYwave__net/functional_1/conv1d_34/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿<@¿<H¿<bygradient_tape/wave__net/functional_1/conv1d_8/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Â
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿<@¿<H¿<bXwave__net/functional_1/conv1d_6/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿<@¿<H¿<bAddN_42h
+ı
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28ø<@ø<Hø<bzgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28†<@†<H†<bBgradient_tape/wave__net/functional_1/conv1d_22/BiasAdd/BiasAddGradh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†<@†<H†<bYwave__net/functional_1/conv1d_24/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+„
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡;@‡;H‡;bVwave__net/functional_1/conv1d/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ˆ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿;@¿;H¿;b{gradient_tape/wave__net/functional_1/conv1d_34/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿;@¿;H¿;bzgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28†;@†;H†;bBgradient_tape/wave__net/functional_1/conv1d_36/BiasAdd/BiasAddGradh
+ˆ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†;@†;H†;b{gradient_tape/wave__net/functional_1/conv1d_18/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28†;@†HÄXbJgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilterh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä;@Ä;HÄ;bBgradient_tape/wave__net/functional_1/conv1d_28/BiasAdd/BiasAddGradh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä;@Ä;HÄ;bzgradient_tape/wave__net/functional_1/conv1d_22/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä;@Ä;HÄ;bzgradient_tape/wave__net/functional_1/conv1d_28/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡:@‡:H‡:b6wave__net/functional_1/conv1d_34/conv1d/SpaceToBatchNDh
+Â
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿:@¿:H¿:bXwave__net/functional_1/conv1d_8/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28ü:@ü:Hü:bAddN_18h
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä:@Ä:HÄ:bBgradient_tape/wave__net/functional_1/conv1d_14/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä:@Ä:HÄ:bBgradient_tape/wave__net/functional_1/conv1d_26/BiasAdd/BiasAddGradh
+ˆ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä:@Ä:HÄ:b{gradient_tape/wave__net/functional_1/conv1d_36/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä:@Ä:HÄ:bzgradient_tape/wave__net/functional_1/conv1d_24/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä:@Ä:HÄ:bAddN_60h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡9@‡9H‡9bAddN_66h
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿9@¿9H¿9bBgradient_tape/wave__net/functional_1/conv1d_35/BiasAdd/BiasAddGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿9@¿9H¿9bAddN_39h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿9@¿9H¿9bAddN_48h
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿9@ÄH†XbJgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilterh
+≥
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28ø9@ø9Hø9XbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†9@†9H†9bygradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†9@†9H†9bYwave__net/functional_1/conv1d_26/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ˆ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28ü9@ü9Hü9b{gradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä9@Ä9HÄ9bBgradient_tape/wave__net/functional_1/conv1d_20/BiasAdd/BiasAddGradh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä9@Ä9HÄ9b6wave__net/functional_1/conv1d_14/conv1d/SpaceToBatchNDh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28‡8@‡8H‡8bBgradient_tape/wave__net/functional_1/conv1d_37/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28†8@†8H†8bBgradient_tape/wave__net/functional_1/conv1d_55/BiasAdd/BiasAddGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28†8@†8H†8bAddN_30h
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28ˇ7@ˇ7Hˇ7b(wave__net/functional_1/conv1d_26/BiasAddh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿7@¿7H¿7bBgradient_tape/wave__net/functional_1/conv1d_10/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28†7@†7H†7bBgradient_tape/wave__net/functional_1/conv1d_38/BiasAdd/BiasAddGradh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi4ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡6@‡6H‡6bYwave__net/functional_1/conv1d_52/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+u_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi14ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡6@‡6H‡6bygradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInput-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿6@¿6H¿6bBgradient_tape/wave__net/functional_1/conv1d_24/BiasAdd/BiasAddGradh
+ı
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†6@†6H†6bzgradient_tape/wave__net/functional_1/conv1d_34/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28Ä6@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilterh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä6@Ä6HÄ6bBgradient_tape/wave__net/functional_1/conv1d_16/BiasAdd/BiasAddGradh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä6@Ä6HÄ6bYwave__net/functional_1/conv1d_22/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+î
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28‡5@‡5H‡5bAgradient_tape/wave__net/functional_1/conv1d_2/BiasAdd/BiasAddGradh
+î
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28‡5@‡5H‡5bAgradient_tape/wave__net/functional_1/conv1d_6/BiasAdd/BiasAddGradh
+è
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡5@‡5H‡5b5wave__net/functional_1/conv1d_6/conv1d/SpaceToBatchNDh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿5@¿5H¿5bBgradient_tape/wave__net/functional_1/conv1d_44/BiasAdd/BiasAddGradh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿5@¿5H¿5bDgradient_tape/wave__net/functional_1/conv1d_48/conv1d/BatchToSpaceNDh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28ø5@ø5Hø5bAddN_63h
+£
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28†5@†5H†5bAddN_1h
+…
+n_ZN10tensorflow7functor18ColumnReduceKernelIPKfPfN3cub3SumEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE*28Ä5@Ä5HÄ5bBgradient_tape/wave__net/functional_1/conv1d_54/BiasAdd/BiasAddGradh
+ˆ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä5@Ä5HÄ5b{gradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä5@Ä5HÄ5bYwave__net/functional_1/conv1d_40/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä5@Ä5HÄ5bAddN_21h
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡4@‡4H‡4bzgradient_tape/wave__net/functional_1/conv1d_10/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿4@¿4H¿4bAddN_33h
+£
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿4@¿4H¿4bAddN_6h
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ø4@ø4Hø4bYwave__net/functional_1/conv1d_20/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28†4@†4H†4bBgradient_tape/wave__net/functional_1/conv1d_40/BiasAdd/BiasAddGradh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†4@†4H†4bzgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28†4@ÄH¿XbJgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilterh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28Ä4@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilterh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä4@Ä4HÄ4bAddN_69h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿3@¿3H¿3bAddN_51h
+Â
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†3@†3H†3bXwave__net/functional_1/conv1d_4/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä3@Ä3HÄ3bBgradient_tape/wave__net/functional_1/conv1d_34/BiasAdd/BiasAddGradh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿2@¿2H¿2bYwave__net/functional_1/conv1d_42/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†2@†2H†2bzgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä2@Ä2HÄ2bBgradient_tape/wave__net/functional_1/conv1d_17/BiasAdd/BiasAddGradh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä2@Ä2HÄ2bygradient_tape/wave__net/functional_1/conv1d_6/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡1@‡1H‡1bAddN_57h
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿1@¿1H¿1b6wave__net/functional_1/conv1d_12/conv1d/SpaceToBatchNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†1@†1H†1b6wave__net/functional_1/conv1d_46/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†1@†1H†1bDgradient_tape/wave__net/functional_1/conv1d_32/conv1d/BatchToSpaceNDh
+ı
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†1@†1H†1bzgradient_tape/wave__net/functional_1/conv1d_18/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ı
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†1@†1H†1bzgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ñ
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†1@†1H†1bwgradient_tape/wave__net/functional_1/conv1d/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28†1@†1H†1bAddN_27h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28†1@†1H†1bAddN_78h
+ˆ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä1@Ä1HÄ1b{gradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+q
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28‡0@‡0H‡0b'wave__net/functional_1/conv1d_4/BiasAddh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28‡0@‡0H‡0bBgradient_tape/wave__net/functional_1/conv1d_51/BiasAdd/BiasAddGradh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡0@‡0H‡0bYwave__net/functional_1/conv1d_44/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡0@†H¿XbJgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilterh
+q
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28¿0@¿0H¿0b'wave__net/functional_1/conv1d_6/BiasAddh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿0@¿0H¿0bBgradient_tape/wave__net/functional_1/conv1d_15/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿0@¿0H¿0bBgradient_tape/wave__net/functional_1/conv1d_33/BiasAdd/BiasAddGradh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿0@¿0H¿0b6wave__net/functional_1/conv1d_30/conv1d/SpaceToBatchNDh
+ı
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿0@¿0H¿0bzgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿0@¿0H¿0bAddN_72h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿0@¿0H¿0bAddN_75h
+
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿0@†H†b&wave__net/functional_1/conv1d_6/conv1dh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ø0@ø0Hø0bDgradient_tape/wave__net/functional_1/conv1d_28/conv1d/BatchToSpaceNDh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28†0@†0H†0b(wave__net/functional_1/conv1d_40/BiasAddh
+«
+l_ZN10tensorflow7functor15CleanupSegmentsIPfS2_N3cub3SumEEEvT_T0_iiiT1_NSt15iterator_traitsIS5_E10value_typeE*28†0@†0H†0bBgradient_tape/wave__net/functional_1/conv1d_54/BiasAdd/BiasAddGradh
+£
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28†0@†0H†0bAddN_3h
+ï
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28Ä0@Ä0HÄ0XbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä0@Ä0HÄ0b(wave__net/functional_1/conv1d_14/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä0@Ä0HÄ0b(wave__net/functional_1/conv1d_16/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä0@Ä0HÄ0b(wave__net/functional_1/conv1d_28/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä0@Ä0HÄ0b(wave__net/functional_1/conv1d_34/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä0@Ä0HÄ0b(wave__net/functional_1/conv1d_42/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä0@Ä0HÄ0b(wave__net/functional_1/conv1d_48/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä0@Ä0HÄ0b(wave__net/functional_1/conv1d_50/BiasAddh
+î
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä0@Ä0HÄ0bAgradient_tape/wave__net/functional_1/conv1d_1/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä0@Ä0HÄ0bBgradient_tape/wave__net/functional_1/conv1d_11/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä0@Ä0HÄ0bBgradient_tape/wave__net/functional_1/conv1d_21/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä0@Ä0HÄ0bBgradient_tape/wave__net/functional_1/conv1d_29/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä0@Ä0HÄ0bBgradient_tape/wave__net/functional_1/conv1d_31/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä0@Ä0HÄ0bBgradient_tape/wave__net/functional_1/conv1d_41/BiasAdd/BiasAddGradh
+î
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä0@Ä0HÄ0bAgradient_tape/wave__net/functional_1/conv1d_5/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä0@Ä0HÄ0bBgradient_tape/wave__net/functional_1/conv1d_53/BiasAdd/BiasAddGradh
+î
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä0@Ä0HÄ0bAgradient_tape/wave__net/functional_1/conv1d_9/BiasAdd/BiasAddGradh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä0@Ä0HÄ0b6wave__net/functional_1/conv1d_28/conv1d/SpaceToBatchNDh
+è
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä0@Ä0HÄ0b5wave__net/functional_1/conv1d_4/conv1d/SpaceToBatchNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä0@Ä0HÄ0b6wave__net/functional_1/conv1d_44/conv1d/SpaceToBatchNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä0@Ä0HÄ0b6wave__net/functional_1/conv1d_50/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä0@Ä0HÄ0bDgradient_tape/wave__net/functional_1/conv1d_14/conv1d/BatchToSpaceNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä0@Ä0HÄ0bDgradient_tape/wave__net/functional_1/conv1d_30/conv1d/BatchToSpaceNDh
+ù
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä0@Ä0HÄ0bCgradient_tape/wave__net/functional_1/conv1d_4/conv1d/BatchToSpaceNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä0@Ä0HÄ0bDgradient_tape/wave__net/functional_1/conv1d_50/conv1d/BatchToSpaceNDh
+ù
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä0@Ä0HÄ0bCgradient_tape/wave__net/functional_1/conv1d_8/conv1d/BatchToSpaceNDh
+ı
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä0@Ä0HÄ0bzgradient_tape/wave__net/functional_1/conv1d_12/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ˆ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä0@Ä0HÄ0b{gradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Á
+u_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi14ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä0@Ä0HÄ0bYwave__net/functional_1/conv1d_30/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Á
+u_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi14ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä0@Ä0HÄ0bYwave__net/functional_1/conv1d_48/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+à
+u_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi14ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä0@Ä0HÄ0bzgradient_tape/wave__net/functional_1/conv1d_12/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+u_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi14ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä0@Ä0HÄ0bzgradient_tape/wave__net/functional_1/conv1d_30/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä0@Ä0HÄ0bzgradient_tape/wave__net/functional_1/conv1d_15/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ö
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä0@Ä0HÄ0bxgradient_tape/wave__net/functional_1/conv1d_2/conv1d/Conv2DBackpropInput-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä0@Ä0HÄ0bzgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä0@Ä0HÄ0b{gradient_tape/wave__net/functional_1/conv1d_41/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä0@Ä0HÄ0bYwave__net/functional_1/conv1d_38/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä0@Ä0HÄ0bYwave__net/functional_1/conv1d_46/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ı
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0b[gradient_tape/wave__net/functional_1/gated_activation_unit_1/strided_slice/StridedSliceGradh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0b^gradient_tape/wave__net/functional_1/gated_activation_unit_16/strided_slice_1/StridedSliceGradh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0b\gradient_tape/wave__net/functional_1/gated_activation_unit_20/strided_slice/StridedSliceGradh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0b\gradient_tape/wave__net/functional_1/gated_activation_unit_25/strided_slice/StridedSliceGradh
+Ÿ
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0b wave__net/functional_1/add_8/addh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0bHgradient_tape/wave__net/functional_1/gated_activation_unit_21/TanhGrad_1h
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0bHgradient_tape/wave__net/functional_1/gated_activation_unit_25/TanhGrad_1h
+â
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0bGgradient_tape/wave__net/functional_1/gated_activation_unit_5/TanhGrad_1h
+â
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0bGgradient_tape/wave__net/functional_1/gated_activation_unit_9/TanhGrad_1h
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0bQgradient_tape/wave__net/functional_1/gated_activation_unit_13/Sigmoid/SigmoidGradh
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0bQgradient_tape/wave__net/functional_1/gated_activation_unit_26/Sigmoid/SigmoidGradh
+ï
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0bPgradient_tape/wave__net/functional_1/gated_activation_unit_4/Sigmoid/SigmoidGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0bAddN_45h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0bAddN_54h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0bAddN_58h
+£
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä0@Ä0HÄ0bAddN_9h
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä0@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilterh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28ˇ/@ˇ/Hˇ/b(wave__net/functional_1/conv1d_18/BiasAddh
+î
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28ˇ/@ˇ/Hˇ/bAgradient_tape/wave__net/functional_1/conv1d_3/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28ˇ/@ˇ/Hˇ/bBgradient_tape/wave__net/functional_1/conv1d_39/BiasAdd/BiasAddGradh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ˇ/@ˇ/Hˇ/bYwave__net/functional_1/conv1d_28/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Å
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28ˇ/@ˇ/Hˇ/bDgradient_tape/wave__net/functional_1/gated_activation_unit_7/mul/Mulh
+â
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28ˇ/@ˇ/Hˇ/bGgradient_tape/wave__net/functional_1/gated_activation_unit_1/TanhGrad_1h
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28‡/@‡/H‡/bBgradient_tape/wave__net/functional_1/conv1d_43/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28‡/@‡/H‡/bBgradient_tape/wave__net/functional_1/conv1d_56/BiasAdd/BiasAddGradh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡/@‡/H‡/b6wave__net/functional_1/conv1d_48/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡/@‡/H‡/bDgradient_tape/wave__net/functional_1/conv1d_12/conv1d/BatchToSpaceNDh
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡/@‡/H‡/bGgradient_tape/wave__net/functional_1/gated_activation_unit_25/mul/Mul_1h
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28¿/@¿/H¿/b(wave__net/functional_1/conv1d_24/BiasAddh
+î
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿/@¿/H¿/bAgradient_tape/wave__net/functional_1/conv1d_7/BiasAdd/BiasAddGradh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿/@¿/H¿/b6wave__net/functional_1/conv1d_10/conv1d/SpaceToBatchNDh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿/@¿/H¿/b6wave__net/functional_1/conv1d_42/conv1d/SpaceToBatchNDh
+è
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿/@¿/H¿/b5wave__net/functional_1/conv1d_8/conv1d/SpaceToBatchNDh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28†/@†/H†/b(wave__net/functional_1/conv1d_12/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28†/@†/H†/b(wave__net/functional_1/conv1d_38/BiasAddh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28†/@†/H†/bBgradient_tape/wave__net/functional_1/conv1d_23/BiasAdd/BiasAddGradh
+ı
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†/@†/H†/bzgradient_tape/wave__net/functional_1/conv1d_16/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†/@†/H†/b{gradient_tape/wave__net/functional_1/conv1d_20/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä/@Ä/HÄ/b(wave__net/functional_1/conv1d_30/BiasAddh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28Ä/@Ä/HÄ/bBgradient_tape/wave__net/functional_1/conv1d_49/BiasAdd/BiasAddGradh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä/@Ä/HÄ/b\gradient_tape/wave__net/functional_1/gated_activation_unit_21/strided_slice/StridedSliceGradh
+ï
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä/@Ä/HÄ/bPgradient_tape/wave__net/functional_1/gated_activation_unit_6/Sigmoid/SigmoidGradh
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä/@Ä/HÄ/b6gradient_tape/wave__net/functional_1/conv1d_14/Slice_1h
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡.@‡.H‡.bzgradient_tape/wave__net/functional_1/conv1d_35/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ï
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡.@‡.H‡.bPgradient_tape/wave__net/functional_1/gated_activation_unit_7/Sigmoid/SigmoidGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿.@¿.H¿.bBgradient_tape/wave__net/functional_1/conv1d_13/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿.@¿.H¿.bBgradient_tape/wave__net/functional_1/conv1d_27/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28¿.@¿.H¿.bBgradient_tape/wave__net/functional_1/conv1d_45/BiasAdd/BiasAddGradh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿.@¿.H¿.bDgradient_tape/wave__net/functional_1/conv1d_24/conv1d/BatchToSpaceNDh
+Á
+u_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi14ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿.@¿.H¿.bYwave__net/functional_1/conv1d_12/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿.@¿.H¿.bygradient_tape/wave__net/functional_1/conv1d_49/conv1d/Conv2DBackpropInput-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿.@¿.H¿.bEgradient_tape/wave__net/functional_1/gated_activation_unit_19/mul/Mulh
+Å
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿.@¿.H¿.bDgradient_tape/wave__net/functional_1/gated_activation_unit_3/mul/Mulh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿.@¿.H¿.bAddN_25h
+Ã
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿.@¿.H¿.b<wave__net/functional_1/gated_activation_unit_2/strided_sliceh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28†.@†.H†.bBgradient_tape/wave__net/functional_1/conv1d_25/BiasAdd/BiasAddGradh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28†.@†.H†.bBgradient_tape/wave__net/functional_1/conv1d_47/BiasAdd/BiasAddGradh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†.@†.H†.b6wave__net/functional_1/conv1d_26/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†.@†.H†.bDgradient_tape/wave__net/functional_1/conv1d_10/conv1d/BatchToSpaceNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†.@†.H†.bDgradient_tape/wave__net/functional_1/conv1d_46/conv1d/BatchToSpaceNDh
+ù
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†.@†.H†.bCgradient_tape/wave__net/functional_1/conv1d_6/conv1d/BatchToSpaceNDh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†.@†.H†.bzgradient_tape/wave__net/functional_1/conv1d_20/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†.@†.H†.bzgradient_tape/wave__net/functional_1/conv1d_28/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†.@†.H†.bzgradient_tape/wave__net/functional_1/conv1d_29/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28†.@†.H†.b\gradient_tape/wave__net/functional_1/gated_activation_unit_15/strided_slice/StridedSliceGradh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28†.@†.H†.b^gradient_tape/wave__net/functional_1/gated_activation_unit_18/strided_slice_1/StridedSliceGradh
+ı
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28†.@†.H†.b[gradient_tape/wave__net/functional_1/gated_activation_unit_8/strided_slice/StridedSliceGradh
+Ÿ
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†.@†.H†.b wave__net/functional_1/add_5/addh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28ü.@ü.Hü.b6wave__net/functional_1/conv1d_22/conv1d/SpaceToBatchNDh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ü.@ü.Hü.bYwave__net/functional_1/conv1d_39/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+q
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä.@Ä.HÄ.b'wave__net/functional_1/conv1d_8/BiasAddh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä.@Ä.HÄ.bDgradient_tape/wave__net/functional_1/conv1d_22/conv1d/BatchToSpaceNDh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä.@Ä.HÄ.b%Adam/Adam/update_86/ResourceApplyAdamh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä.@Ä.HÄ.b{gradient_tape/wave__net/functional_1/conv1d_13/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä.@Ä.HÄ.bQgradient_tape/wave__net/functional_1/gated_activation_unit_22/Sigmoid/SigmoidGradh
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28ˇ-@ˇ-Hˇ-bEgradient_tape/wave__net/functional_1/gated_activation_unit_15/mul/Mulh
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡-@‡-H‡-b6wave__net/functional_1/conv1d_24/conv1d/SpaceToBatchNDh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28‡-@‡-H‡-bDgradient_tape/wave__net/functional_1/conv1d_42/conv1d/BatchToSpaceNDh
+ı
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡-@‡-H‡-b[gradient_tape/wave__net/functional_1/gated_activation_unit_7/strided_slice/StridedSliceGradh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡-@‡-H‡-b!wave__net/functional_1/add_20/addh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡-@‡-H‡-bAddN_34h
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28ﬂ-@ˇH‡XbJgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilterh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28¿-@¿-H¿-b(wave__net/functional_1/conv1d_46/BiasAddh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿-@¿-H¿-bzgradient_tape/wave__net/functional_1/conv1d_15/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿-@¿-H¿-b!wave__net/functional_1/add_24/addh
+Ÿ
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿-@¿-H¿-b wave__net/functional_1/add_9/addh
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿-@¿-H¿-bQgradient_tape/wave__net/functional_1/gated_activation_unit_12/Sigmoid/SigmoidGradh
+£
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿-@¿-H¿-bAddN_4h
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28†-@†-H†-b(wave__net/functional_1/conv1d_32/BiasAddh
+ˆ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†-@†-H†-b{gradient_tape/wave__net/functional_1/conv1d_16/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†-@†-H†-bzgradient_tape/wave__net/functional_1/conv1d_20/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ı
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28†-@†-H†-b[gradient_tape/wave__net/functional_1/gated_activation_unit_5/strided_slice/StridedSliceGradh
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†-@†-H†-bQgradient_tape/wave__net/functional_1/gated_activation_unit_15/Sigmoid/SigmoidGradh
+ˆ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä-@Ä-HÄ-b{gradient_tape/wave__net/functional_1/conv1d_12/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä-@Ä-HÄ-bGgradient_tape/wave__net/functional_1/gated_activation_unit_17/mul/Mul_1h
+ı
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28ˇ,@ˇ,Hˇ,bzgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28‡,@‡,H‡,b(wave__net/functional_1/conv1d_54/BiasAddh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡,@‡,H‡,b%Adam/Adam/update_68/ResourceApplyAdamh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28¿,@ÄH¿XbJgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropFilterh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿,@¿,H¿,b{gradient_tape/wave__net/functional_1/conv1d_26/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿,@¿,H¿,b!wave__net/functional_1/add_10/addh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿,@¿,H¿,b!wave__net/functional_1/add_23/addh
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿,@¿,H¿,bQgradient_tape/wave__net/functional_1/gated_activation_unit_23/Sigmoid/SigmoidGradh
+ï
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿,@¿,H¿,bPgradient_tape/wave__net/functional_1/gated_activation_unit_8/Sigmoid/SigmoidGradh
+£
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿,@¿,H¿,bAddN_2h
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28ø,@ˇH¿XbJgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilterh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28†,@†,H†,b(wave__net/functional_1/conv1d_20/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28†,@†,H†,b(wave__net/functional_1/conv1d_52/BiasAddh
+˜
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28†,@†,H†,b]gradient_tape/wave__net/functional_1/gated_activation_unit_1/strided_slice_1/StridedSliceGradh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†,@†,H†,bHgradient_tape/wave__net/functional_1/gated_activation_unit_17/TanhGrad_1h
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†,@†,H†,b=wave__net/functional_1/gated_activation_unit_21/strided_sliceh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28†,@†,H†,b^gradient_tape/wave__net/functional_1/gated_activation_unit_22/strided_slice_1/StridedSliceGradh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†,@†HÄXbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä,@Ä,HÄ,b{gradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä,@Ä,HÄ,b^gradient_tape/wave__net/functional_1/gated_activation_unit_13/strided_slice_1/StridedSliceGradh
+Ÿ
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä,@Ä,HÄ,b wave__net/functional_1/add_2/addh
+É
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä,@Ä,HÄ,bFgradient_tape/wave__net/functional_1/gated_activation_unit_7/mul/Mul_1h
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ˇ+@ˇ+Hˇ+bYwave__net/functional_1/conv1d_53/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡+@‡+H‡+b\gradient_tape/wave__net/functional_1/gated_activation_unit_26/strided_slice/StridedSliceGradh
+ı
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡+@‡+H‡+b[gradient_tape/wave__net/functional_1/gated_activation_unit_3/strided_slice/StridedSliceGradh
+â
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡+@‡+H‡+bGgradient_tape/wave__net/functional_1/gated_activation_unit_3/TanhGrad_1h
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿+@¿+H¿+b^gradient_tape/wave__net/functional_1/gated_activation_unit_23/strided_slice_1/StridedSliceGradh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿+@¿HÄXbJgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropFilterh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†+@†+H†+b%Adam/Adam/update_88/ResourceApplyAdamh
+ı
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28†+@†+H†+b[gradient_tape/wave__net/functional_1/gated_activation_unit_9/strided_slice/StridedSliceGradh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†+@†+H†+b!wave__net/functional_1/add_21/addh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†+@†+H†+bHgradient_tape/wave__net/functional_1/gated_activation_unit_11/TanhGrad_1h
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†+@†+H†+bQgradient_tape/wave__net/functional_1/gated_activation_unit_18/Sigmoid/SigmoidGradh
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†+@†+H†+bQgradient_tape/wave__net/functional_1/gated_activation_unit_24/Sigmoid/SigmoidGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28†+@†+H†+bAddN_79h
+ê
+A_ZN10tensorflow3S2BIfLi1ELb0EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä+@Ä+HÄ+b6wave__net/functional_1/conv1d_40/conv1d/SpaceToBatchNDh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä+@Ä+HÄ+b%Adam/Adam/update_64/ResourceApplyAdamh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä+@Ä+HÄ+bzgradient_tape/wave__net/functional_1/conv1d_11/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä+@Ä+HÄ+b\gradient_tape/wave__net/functional_1/gated_activation_unit_19/strided_slice/StridedSliceGradh
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä+@Ä+HÄ+b$wave__net/functional_1/add_27/add_10h
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä+@Ä+HÄ+bGgradient_tape/wave__net/functional_1/gated_activation_unit_21/mul/Mul_1h
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä+@Ä+HÄ+b3wave__net/functional_1/gated_activation_unit_24/mulh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28‡*@ÄH‡XbJgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilterh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡*@‡*H‡*bYwave__net/functional_1/conv1d_49/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡*@‡*H‡*b$wave__net/functional_1/add_27/add_13h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡*@‡*H‡*bAddN_19h
+Ã
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡*@‡*H‡*b<wave__net/functional_1/gated_activation_unit_7/strided_sliceh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿*@¿*H¿*b{gradient_tape/wave__net/functional_1/conv1d_11/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿*@¿*H¿*b\gradient_tape/wave__net/functional_1/gated_activation_unit_10/strided_slice/StridedSliceGradh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿*@¿*H¿*b6wave__net/functional_1/gated_activation_unit_16/Tanh_1h
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿*@¿*H¿*bQgradient_tape/wave__net/functional_1/gated_activation_unit_19/Sigmoid/SigmoidGradh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿*@¿*H¿*b\gradient_tape/wave__net/functional_1/gated_activation_unit_17/strided_slice/StridedSliceGradh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†*@†*H†*b%Adam/Adam/update_80/ResourceApplyAdamh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†*@†*H†*b{gradient_tape/wave__net/functional_1/conv1d_33/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†*@†*H†*bYwave__net/functional_1/conv1d_43/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†*@†*H†*bEgradient_tape/wave__net/functional_1/gated_activation_unit_14/mul/Mulh
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†*@†*H†*b3wave__net/functional_1/gated_activation_unit_11/mulh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†*@†*H†*bHgradient_tape/wave__net/functional_1/gated_activation_unit_26/TanhGrad_1h
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä*@Ä*HÄ*bzgradient_tape/wave__net/functional_1/conv1d_19/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä*@Ä*HÄ*bzgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä*@Ä*HÄ*bYwave__net/functional_1/conv1d_15/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä*@Ä*HÄ*b^gradient_tape/wave__net/functional_1/gated_activation_unit_15/strided_slice_1/StridedSliceGradh
+˜
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä*@Ä*HÄ*b]gradient_tape/wave__net/functional_1/gated_activation_unit_4/strided_slice_1/StridedSliceGradh
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä*@Ä*HÄ*bEgradient_tape/wave__net/functional_1/gated_activation_unit_13/mul/Mulh
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä*@Ä*HÄ*bEgradient_tape/wave__net/functional_1/gated_activation_unit_22/mul/Mulh
+Ã
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä*@Ä*HÄ*b<wave__net/functional_1/gated_activation_unit_5/strided_sliceh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28ˇ)@ˇ)Hˇ)b\gradient_tape/wave__net/functional_1/gated_activation_unit_14/strided_slice/StridedSliceGradh
+⁄
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28ˇ)@ˇ)Hˇ)b]gradient_tape/wave__net/functional_1/gated_activation_unit_2/strided_slice_1/StridedSliceGradh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡)@‡)H‡)bzgradient_tape/wave__net/functional_1/conv1d_51/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡)@‡)H‡)b{gradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+◊
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡)@‡)H‡)bwave__net/functional_1/add/addh
+ï
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡)@‡)H‡)bPgradient_tape/wave__net/functional_1/gated_activation_unit_5/Sigmoid/SigmoidGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡)@‡)H‡)bAddN_22h
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28ﬂ)@ﬂ)Hﬂ)b3wave__net/functional_1/gated_activation_unit_15/mulh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿)@¿)H¿)b%Adam/Adam/update_56/ResourceApplyAdamh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿)@¿)H¿)bzgradient_tape/wave__net/functional_1/conv1d_17/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿)@¿)H¿)bzgradient_tape/wave__net/functional_1/conv1d_39/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+˜
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿)@¿)H¿)b]gradient_tape/wave__net/functional_1/gated_activation_unit_7/strided_slice_1/StridedSliceGradh
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿)@¿)H¿)b$wave__net/functional_1/add_27/add_19h
+Ÿ
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿)@¿)H¿)b wave__net/functional_1/add_3/addh
+Ÿ
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿)@¿)H¿)b wave__net/functional_1/add_6/addh
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿)@¿)H¿)bEgradient_tape/wave__net/functional_1/gated_activation_unit_24/mul/Mulh
+É
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿)@¿)H¿)bFgradient_tape/wave__net/functional_1/gated_activation_unit_8/mul/Mul_1h
+ï
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿)@¿)H¿)bPgradient_tape/wave__net/functional_1/gated_activation_unit_3/Sigmoid/SigmoidGradh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿)@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilterh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ø)@ø)Hø)bygradient_tape/wave__net/functional_1/conv1d_5/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†)@†)H†)b%Adam/Adam/update_36/ResourceApplyAdamh
+≈
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†)@†)H†)XbHgradient_tape/wave__net/functional_1/conv1d_8/conv1d/Conv2DBackpropInputh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†)@†)H†)bzgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28†)@†)H†)b^gradient_tape/wave__net/functional_1/gated_activation_unit_20/strided_slice_1/StridedSliceGradh
+‹
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†)@†)H†)b#wave__net/functional_1/add_27/add_6h
+Ÿ
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†)@†)H†)b wave__net/functional_1/add_4/addh
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†)@†)H†)bEgradient_tape/wave__net/functional_1/gated_activation_unit_16/mul/Mulh
+Å
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†)@†)H†)bDgradient_tape/wave__net/functional_1/gated_activation_unit_9/mul/Mulh
+Ì
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†)@†)H†)b0wave__net/functional_1/gated_activation_unit/mulh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†)@ÄH†b'wave__net/functional_1/conv1d_14/conv1dh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä)@Ä)HÄ)bygradient_tape/wave__net/functional_1/conv1d_5/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä)@Ä)HÄ)bYwave__net/functional_1/conv1d_31/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä)@Ä)HÄ)bGgradient_tape/wave__net/functional_1/gated_activation_unit_20/mul/Mul_1h
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä)@Ä)HÄ)b3wave__net/functional_1/gated_activation_unit_14/mulh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡(@‡(H‡(b'wave__net/functional_1/conv1d_26/conv1dh
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡(@‡(H‡(b$wave__net/functional_1/add_27/add_15h
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡(@‡(H‡(b$wave__net/functional_1/add_27/add_21h
+‹
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡(@‡(H‡(b#wave__net/functional_1/add_27/add_4h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28ﬂ(@ﬂ(Hﬂ(bAddN_10h
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿(@¿(H¿(XbJgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilterh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿(@¿(H¿(bygradient_tape/wave__net/functional_1/conv1d_2/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿(@¿(H¿(bzgradient_tape/wave__net/functional_1/conv1d_9/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿(@¿(H¿(bGgradient_tape/wave__net/functional_1/gated_activation_unit_12/mul/Mul_1h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿(@¿(H¿(bAddN_65h
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿(@ÄH¿XbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28ø(@ø(Hø(bAddN_44h
+á
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†(@†(H†(bEgradient_tape/wave__net/functional_1/gated_activation_unit_6/TanhGradh
+ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28†(@†(H†(b[gradient_tape/wave__net/functional_1/gated_activation_unit_7/strided_slice/StridedSliceGradh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28ü(@ü(Hü(b%Adam/Adam/update_16/ResourceApplyAdamh
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28ü(@ü(Hü(b$wave__net/functional_1/add_27/add_14h
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä(@Ä(HÄ(bzgradient_tape/wave__net/functional_1/conv1d_33/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä(@Ä(HÄ(b^gradient_tape/wave__net/functional_1/gated_activation_unit_22/strided_slice_1/StridedSliceGradh
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä(@Ä(HÄ(bEgradient_tape/wave__net/functional_1/gated_activation_unit_17/mul/Mulh
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä(@Ä(HÄ(bGgradient_tape/wave__net/functional_1/gated_activation_unit_26/mul/Mul_1h
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä(@Ä(HÄ(b3wave__net/functional_1/gated_activation_unit_10/mulh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä(@Ä(HÄ(bAddN_37h
+Ó
+ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEKNS_18TensorConversionOpIfKNS9_INS0_13scalar_cmp_opISB_SB_LNS0_14ComparisonNameE5EEESF_KNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opISB_EESF_EEEEEEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä(@Ä(HÄ(b7gradient_tape/wave__net/functional_1/conv1d_56/ReluGradh
+ø
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä(@Ä(HÄ(b#wave__net/functional_1/conv1d_1/Padh
+°
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28ˇ'@ˇ'Hˇ'b&wave__net/functional_1/conv1d_2/conv1dh
+ı
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28ˇ'@ˇ'Hˇ'b[gradient_tape/wave__net/functional_1/gated_activation_unit_6/strided_slice/StridedSliceGradh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28‡'@‡'H‡'b(wave__net/functional_1/conv1d_44/BiasAddh
+ï
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i*28‡'@‡'H‡'bBgradient_tape/wave__net/functional_1/conv1d_19/BiasAdd/BiasAddGradh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡'@‡'H‡'bzgradient_tape/wave__net/functional_1/conv1d_21/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡'@‡'H‡'bQgradient_tape/wave__net/functional_1/gated_activation_unit_20/Sigmoid/SigmoidGradh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28¿'@¿'H¿'bDgradient_tape/wave__net/functional_1/conv1d_44/conv1d/BatchToSpaceNDh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿'@¿'H¿'b&Adam/Adam/update_108/ResourceApplyAdamh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿'@¿'H¿'b{gradient_tape/wave__net/functional_1/conv1d_49/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Û
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿'@¿'H¿'bYgradient_tape/wave__net/functional_1/gated_activation_unit/strided_slice/StridedSliceGradh
+Ÿ
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿'@¿'H¿'b wave__net/functional_1/add_1/addh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿'@¿'H¿'bHgradient_tape/wave__net/functional_1/gated_activation_unit_19/TanhGrad_1h
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28ø'@ø'Hø'bQgradient_tape/wave__net/functional_1/gated_activation_unit_11/Sigmoid/SigmoidGradh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28†'@†'H†'bDgradient_tape/wave__net/functional_1/conv1d_26/conv1d/BatchToSpaceNDh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†'@†'H†'bzgradient_tape/wave__net/functional_1/conv1d_23/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†'@†'H†'b{gradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28†'@†'H†'b\gradient_tape/wave__net/functional_1/gated_activation_unit_17/strided_slice/StridedSliceGradh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ü'@ü'Hü'bygradient_tape/wave__net/functional_1/conv1d_3/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+û
+A_ZN10tensorflow3S2BIfLi1ELb1EEEviPT_NS_13S2BParametersIXT0_EEES2_*28Ä'@Ä'HÄ'bDgradient_tape/wave__net/functional_1/conv1d_40/conv1d/BatchToSpaceNDh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä'@Ä'HÄ'b\gradient_tape/wave__net/functional_1/gated_activation_unit_11/strided_slice/StridedSliceGradh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä'@Ä'HÄ'bHgradient_tape/wave__net/functional_1/gated_activation_unit_16/TanhGrad_1h
+â
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä'@Ä'HÄ'bGgradient_tape/wave__net/functional_1/gated_activation_unit_8/TanhGrad_1h
+ˆ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡&@‡&H‡&b{gradient_tape/wave__net/functional_1/conv1d_14/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡&@‡&H‡&b!wave__net/functional_1/add_11/addh
+Ô
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡&@‡&H‡&b2wave__net/functional_1/gated_activation_unit_3/mulh
+ì
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡&@‡&H‡&bNgradient_tape/wave__net/functional_1/gated_activation_unit/Sigmoid/SigmoidGradh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28ﬂ&@ﬂ&Hﬂ&b!wave__net/functional_1/add_17/addh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿&@¿&H¿&bzgradient_tape/wave__net/functional_1/conv1d_4/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿&@¿&H¿&bzgradient_tape/wave__net/functional_1/conv1d_51/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿&@¿&H¿&b\gradient_tape/wave__net/functional_1/gated_activation_unit_16/strided_slice/StridedSliceGradh
+˜
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿&@¿&H¿&b]gradient_tape/wave__net/functional_1/gated_activation_unit_3/strided_slice_1/StridedSliceGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿&@¿&H¿&bAddN_62h
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28†&@¿H‡XbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+ˆ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†&@†&H†&b{gradient_tape/wave__net/functional_1/conv1d_30/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†&@†&H†&bYwave__net/functional_1/conv1d_21/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28ü&@ü&Hü&b\gradient_tape/wave__net/functional_1/gated_activation_unit_22/strided_slice/StridedSliceGradh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä&@Ä&HÄ&b(wave__net/functional_1/conv1d_22/BiasAddh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä&@Ä&HÄ&b&Adam/Adam/update_100/ResourceApplyAdamh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä&@Ä&HÄ&bzgradient_tape/wave__net/functional_1/conv1d_31/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä&@Ä&HÄ&bzgradient_tape/wave__net/functional_1/conv1d_53/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä&@Ä&HÄ&b\gradient_tape/wave__net/functional_1/gated_activation_unit_23/strided_slice/StridedSliceGradh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä&@Ä&HÄ&bHgradient_tape/wave__net/functional_1/gated_activation_unit_18/TanhGrad_1h
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä&@Ä&HÄ&bQgradient_tape/wave__net/functional_1/gated_activation_unit_17/Sigmoid/SigmoidGradh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä&@Ä&HÄ&b$wave__net/functional_1/conv1d_46/Padh
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä&@Ä&HÄ&b=wave__net/functional_1/gated_activation_unit_12/strided_sliceh
+É
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡%@‡%H‡%bFgradient_tape/wave__net/functional_1/gated_activation_unit_3/mul/Mul_1h
+Ã
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡%@‡%H‡%b<wave__net/functional_1/gated_activation_unit_4/strided_sliceh
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28ﬂ%@ﬂ%Hﬂ%bQgradient_tape/wave__net/functional_1/gated_activation_unit_14/Sigmoid/SigmoidGradh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28¿%@¿%H¿%b(wave__net/functional_1/conv1d_10/BiasAddh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿%@¿%H¿%b^gradient_tape/wave__net/functional_1/gated_activation_unit_12/strided_slice_1/StridedSliceGradh
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿%@¿%H¿%bEgradient_tape/wave__net/functional_1/gated_activation_unit_21/mul/Mulh
+É
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿%@¿%H¿%bFgradient_tape/wave__net/functional_1/gated_activation_unit_5/mul/Mul_1h
+Ã
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿%@¿%H¿%b<wave__net/functional_1/gated_activation_unit_1/strided_sliceh
+Ã
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28ø%@ø%Hø%b<wave__net/functional_1/gated_activation_unit_6/strided_sliceh
+≥
+O_Z12fft1d_c2r_32I6float2ffLb0ELb1ELb0ELb0EEvPT1_PKT_i4int3S6_4int2iT0_S8_S2_S2_*28†%@†%H†%XbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†%@†%H†%b&Adam/Adam/update_104/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†%@†%H†%b%Adam/Adam/update_44/ResourceApplyAdamh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†%@†%H†%bzgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†%@†%H†%bzgradient_tape/wave__net/functional_1/conv1d_41/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28†%@†%H†%b\gradient_tape/wave__net/functional_1/gated_activation_unit_24/strided_slice/StridedSliceGradh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28†%@†%H†%b^gradient_tape/wave__net/functional_1/gated_activation_unit_26/strided_slice_1/StridedSliceGradh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†%@†%H†%bHgradient_tape/wave__net/functional_1/gated_activation_unit_23/TanhGrad_1h
+ï
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†%@†%H†%bPgradient_tape/wave__net/functional_1/gated_activation_unit_2/Sigmoid/SigmoidGradh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä%@Ä%HÄ%b(wave__net/functional_1/conv1d_36/BiasAddh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä%@Ä%HÄ%b\gradient_tape/wave__net/functional_1/gated_activation_unit_13/strided_slice/StridedSliceGradh
+˜
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä%@Ä%HÄ%b]gradient_tape/wave__net/functional_1/gated_activation_unit_9/strided_slice_1/StridedSliceGradh
+‹
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä%@Ä%HÄ%b#wave__net/functional_1/add_27/add_2h
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä%@Ä%HÄ%b^gradient_tape/wave__net/functional_1/gated_activation_unit_14/strided_slice_1/StridedSliceGradh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä%@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropInputh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡$@‡$H‡$b'wave__net/functional_1/conv1d_36/conv1dh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡$@‡$H‡$bzgradient_tape/wave__net/functional_1/conv1d_2/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡$@‡$H‡$b^gradient_tape/wave__net/functional_1/gated_activation_unit_11/strided_slice_1/StridedSliceGradh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡$@‡$H‡$b^gradient_tape/wave__net/functional_1/gated_activation_unit_17/strided_slice_1/StridedSliceGradh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡$@‡$H‡$b\gradient_tape/wave__net/functional_1/gated_activation_unit_18/strided_slice/StridedSliceGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡$@‡$H‡$bAddN_31h
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿$@¿$H¿$bygradient_tape/wave__net/functional_1/conv1d_47/conv1d/Conv2DBackpropInput-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿$@¿$H¿$b^gradient_tape/wave__net/functional_1/gated_activation_unit_24/strided_slice_1/StridedSliceGradh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿$@¿$H¿$b!wave__net/functional_1/add_15/addh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿$@¿$H¿$b!wave__net/functional_1/add_16/addh
+‹
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿$@¿$H¿$b#wave__net/functional_1/add_27/add_5h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿$@¿$H¿$bAddN_29h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿$@¿$H¿$bAddN_64h
+ı
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†$@†$H†$bzgradient_tape/wave__net/functional_1/conv1d_32/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†$@†$H†$b{gradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+‹
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†$@†$H†$b#wave__net/functional_1/add_27/add_9h
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†$@†$H†$bEgradient_tape/wave__net/functional_1/gated_activation_unit_11/mul/Mulh
+Å
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†$@†$H†$bDgradient_tape/wave__net/functional_1/gated_activation_unit_6/mul/Mulh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†$@†$H†$bHgradient_tape/wave__net/functional_1/gated_activation_unit_24/TanhGrad_1h
+≠
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28†$@‡H¿XbGgradient_tape/wave__net/functional_1/conv1d/conv1d/Conv2DBackpropFilterh
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28ü$@ü$Hü$bGgradient_tape/wave__net/functional_1/gated_activation_unit_16/mul/Mul_1h
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28Ä$@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilterh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä$@Ä$HÄ$b%Adam/Adam/update_72/ResourceApplyAdamh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä$@Ä$HÄ$bzgradient_tape/wave__net/functional_1/conv1d_47/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä$@Ä$HÄ$b^gradient_tape/wave__net/functional_1/gated_activation_unit_14/strided_slice_1/StridedSliceGradh
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä$@Ä$HÄ$bEgradient_tape/wave__net/functional_1/gated_activation_unit_26/mul/Mulh
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä$@Ä$HÄ$bQgradient_tape/wave__net/functional_1/gated_activation_unit_10/Sigmoid/SigmoidGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä$@Ä$HÄ$bAddN_32h
+£
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä$@Ä$HÄ$bAddN_5h
+£
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä$@Ä$HÄ$bAddN_7h
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä$@Ä$HÄ$b$wave__net/functional_1/conv1d_50/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä$@Ä$HÄ$b$wave__net/functional_1/conv1d_54/Padh
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä$@Ä$HÄ$b=wave__net/functional_1/gated_activation_unit_10/strided_sliceh
+Ã
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä$@Ä$HÄ$b<wave__net/functional_1/gated_activation_unit_8/strided_sliceh
+˜
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28ˇ#@ˇ#Hˇ#b]gradient_tape/wave__net/functional_1/gated_activation_unit_8/strided_slice_1/StridedSliceGradh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡#@‡#H‡#b&Adam/Adam/update_112/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡#@‡#H‡#b%Adam/Adam/update_22/ResourceApplyAdamh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡#@‡#H‡#bzgradient_tape/wave__net/functional_1/conv1d_7/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡#@‡#H‡#bEgradient_tape/wave__net/functional_1/gated_activation_unit_20/mul/Mulh
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡#@‡#H‡#bGgradient_tape/wave__net/functional_1/gated_activation_unit_23/mul/Mul_1h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡#@‡#H‡#bAddN_20h
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿#@¿#H¿#b%Adam/Adam/update_26/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿#@¿#H¿#b%Adam/Adam/update_76/ResourceApplyAdamh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿#@¿#H¿#b{gradient_tape/wave__net/functional_1/conv1d_22/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿#@¿#H¿#bzgradient_tape/wave__net/functional_1/conv1d_25/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿#@¿#H¿#bzgradient_tape/wave__net/functional_1/conv1d_29/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+˜
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿#@¿#H¿#b]gradient_tape/wave__net/functional_1/gated_activation_unit_2/strided_slice_1/StridedSliceGradh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿#@¿#H¿#b7wave__net/functional_1/gated_activation_unit_17/Sigmoidh
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿#@¿#H¿#bEgradient_tape/wave__net/functional_1/gated_activation_unit_12/mul/Mulh
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿#@¿#H¿#bGgradient_tape/wave__net/functional_1/gated_activation_unit_14/mul/Mul_1h
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿#@¿#H¿#bEgradient_tape/wave__net/functional_1/gated_activation_unit_18/mul/Mulh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿#@¿#H¿#bFgradient_tape/wave__net/functional_1/gated_activation_unit_22/TanhGradh
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿#@¿#H¿#bQgradient_tape/wave__net/functional_1/gated_activation_unit_21/Sigmoid/SigmoidGradh
+ï
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿#@¿#H¿#bPgradient_tape/wave__net/functional_1/gated_activation_unit_9/Sigmoid/SigmoidGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿#@¿#H¿#bAddN_16h
+ø
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿#@¿#H¿#b#wave__net/functional_1/conv1d_8/Padh
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿#@¿#H¿#b6gradient_tape/wave__net/functional_1/conv1d_24/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28ø#@ø#Hø#b6gradient_tape/wave__net/functional_1/conv1d_36/Slice_1h
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†#@†#H†#b%Adam/Adam/update_28/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†#@†#H†#b%Adam/Adam/update_60/ResourceApplyAdamh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†#@†#H†#bzgradient_tape/wave__net/functional_1/conv1d_55/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†#@†#H†#bygradient_tape/wave__net/functional_1/conv1d_6/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Â
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†#@†#H†#bXwave__net/functional_1/conv1d_5/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28†#@†#H†#b^gradient_tape/wave__net/functional_1/gated_activation_unit_21/strided_slice_1/StridedSliceGradh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†#@†#H†#b6wave__net/functional_1/gated_activation_unit_18/Tanh_1h
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†#@†#H†#b!wave__net/functional_1/add_19/addh
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†#@†#H†#b$wave__net/functional_1/add_27/add_11h
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†#@†#H†#b$wave__net/functional_1/add_27/add_24h
+Ô
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†#@†#H†#b2wave__net/functional_1/gated_activation_unit_1/mulh
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†#@†#H†#bQgradient_tape/wave__net/functional_1/gated_activation_unit_16/Sigmoid/SigmoidGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28†#@†#H†#bAddN_68h
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ü#@ü#Hü#b{gradient_tape/wave__net/functional_1/conv1d_23/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä#@Ä#HÄ#bzgradient_tape/wave__net/functional_1/conv1d_10/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä#@Ä#HÄ#bzgradient_tape/wave__net/functional_1/conv1d_19/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä#@Ä#HÄ#bzgradient_tape/wave__net/functional_1/conv1d_27/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä#@Ä#HÄ#bYwave__net/functional_1/conv1d_11/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+œ
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä#@Ä#HÄ#b6wave__net/functional_1/gated_activation_unit_5/Sigmoidh
+‹
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä#@Ä#HÄ#b#wave__net/functional_1/add_27/add_1h
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä#@Ä#HÄ#b$wave__net/functional_1/add_27/add_12h
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä#@Ä#HÄ#bEgradient_tape/wave__net/functional_1/gated_activation_unit_10/mul/Mulh
+Å
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä#@Ä#HÄ#bDgradient_tape/wave__net/functional_1/gated_activation_unit_2/mul/Mulh
+Ô
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä#@Ä#HÄ#b2wave__net/functional_1/gated_activation_unit_5/mulh
+Ô
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä#@Ä#HÄ#b2wave__net/functional_1/gated_activation_unit_7/mulh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä#@Ä#HÄ#bFgradient_tape/wave__net/functional_1/gated_activation_unit_11/TanhGradh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä#@Ä#HÄ#bHgradient_tape/wave__net/functional_1/gated_activation_unit_22/TanhGrad_1h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä#@Ä#HÄ#bAddN_23h
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä#@Ä#HÄ#b=wave__net/functional_1/gated_activation_unit_11/strided_sliceh
+ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä#@Ä#HÄ#b[gradient_tape/wave__net/functional_1/gated_activation_unit_2/strided_slice/StridedSliceGradh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä#@‡H†b'wave__net/functional_1/conv1d_12/conv1dh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä#@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilterh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä#@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropFilterh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡"@‡"H‡"bzgradient_tape/wave__net/functional_1/conv1d_17/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡"@‡"H‡"bzgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡"@‡"H‡"bzgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡"@‡"H‡"bzgradient_tape/wave__net/functional_1/conv1d_53/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡"@‡"H‡"bygradient_tape/wave__net/functional_1/conv1d_9/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡"@‡"H‡"bygradient_tape/wave__net/functional_1/conv1d_9/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡"@‡"H‡"bYwave__net/functional_1/conv1d_13/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡"@‡"H‡"bYwave__net/functional_1/conv1d_33/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡"@‡"H‡"b!wave__net/functional_1/add_14/addh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡"@‡"H‡"b!wave__net/functional_1/add_25/addh
+Ÿ
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡"@‡"H‡"b wave__net/functional_1/add_7/addh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡"@‡"H‡"bAddN_13h
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿"@¿"H¿"b%Adam/Adam/update_40/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿"@¿"H¿"b%Adam/Adam/update_78/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿"@¿"H¿"b%Adam/Adam/update_84/ResourceApplyAdamh
+ˆ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿"@¿"H¿"b{gradient_tape/wave__net/functional_1/conv1d_32/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿"@¿"H¿"bygradient_tape/wave__net/functional_1/conv1d_45/conv1d/Conv2DBackpropInput-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿"@¿"H¿"b7wave__net/functional_1/gated_activation_unit_22/Sigmoidh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿"@¿"H¿"b!wave__net/functional_1/add_12/addh
+Ô
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿"@¿"H¿"b2wave__net/functional_1/gated_activation_unit_8/mulh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿"@¿"H¿"bAddN_47h
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿"@¿"H¿"b=wave__net/functional_1/gated_activation_unit_17/strided_sliceh
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿"@¿"H¿"b=wave__net/functional_1/gated_activation_unit_23/strided_sliceh
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿"@¿"H¿"b=wave__net/functional_1/gated_activation_unit_26/strided_sliceh
+Œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿"@¿"H¿"b>wave__net/functional_1/gated_activation_unit_9/strided_slice_1h
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿"@ÄH¿XbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†"@†"H†"b%Adam/Adam/update_24/ResourceApplyAdamh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†"@†"H†"bzgradient_tape/wave__net/functional_1/conv1d_13/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†"@†"H†"bzgradient_tape/wave__net/functional_1/conv1d_22/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†"@†"H†"bygradient_tape/wave__net/functional_1/conv1d_7/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†"@†"H†"b$wave__net/functional_1/add_27/add_18h
+Å
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†"@†"H†"bDgradient_tape/wave__net/functional_1/gated_activation_unit_4/mul/Mulh
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†"@†"H†"b3wave__net/functional_1/gated_activation_unit_16/mulh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†"@†"H†"bHgradient_tape/wave__net/functional_1/gated_activation_unit_20/TanhGrad_1h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28†"@†"H†"bAddN_26h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28†"@†"H†"bAddN_73h
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†"@†"H†"b=wave__net/functional_1/gated_activation_unit_13/strided_sliceh
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†"@†"H†"b=wave__net/functional_1/gated_activation_unit_22/strided_sliceh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28†"@†"H†"b\gradient_tape/wave__net/functional_1/gated_activation_unit_14/strided_slice/StridedSliceGradh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†"@ÄH†XbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28†"@ÄH†XbJgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilterh
+á
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28ü"@ü"Hü"bEgradient_tape/wave__net/functional_1/gated_activation_unit_9/TanhGradh
+q
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä"@Ä"HÄ"b'wave__net/functional_1/conv1d_2/BiasAddh
+…
+n_ZN10tensorflow7functor18ColumnReduceKernelIPKfPfN3cub3SumEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE*28Ä"@Ä"HÄ"bBgradient_tape/wave__net/functional_1/conv1d_56/BiasAdd/BiasAddGradh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä"@Ä"HÄ"bzgradient_tape/wave__net/functional_1/conv1d_26/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä"@Ä"HÄ"bYwave__net/functional_1/conv1d_35/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ı
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä"@Ä"HÄ"b[gradient_tape/wave__net/functional_1/gated_activation_unit_4/strided_slice/StridedSliceGradh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä"@Ä"HÄ"b7wave__net/functional_1/gated_activation_unit_19/Sigmoidh
+É
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä"@Ä"HÄ"bFgradient_tape/wave__net/functional_1/gated_activation_unit_1/mul/Mul_1h
+Ô
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä"@Ä"HÄ"b2wave__net/functional_1/gated_activation_unit_4/mulh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä"@Ä"HÄ"bAddN_50h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä"@Ä"HÄ"bAddN_61h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä"@Ä"HÄ"bAddN_67h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä"@Ä"HÄ"b6gradient_tape/wave__net/functional_1/conv1d_54/Slice_1h
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä"@Ä"HÄ"b?wave__net/functional_1/gated_activation_unit_15/strided_slice_1h
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä"@Ä"HÄ"b=wave__net/functional_1/gated_activation_unit_19/strided_sliceh
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä"@Ä"HÄ"b=wave__net/functional_1/gated_activation_unit_25/strided_sliceh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä"@Ä"HÄ"b\gradient_tape/wave__net/functional_1/gated_activation_unit_15/strided_slice/StridedSliceGradh
+Ì
+§_ZN10tensorflow67_GLOBAL__N__43_dynamic_stitch_op_gpu_cu_compute_70_cpp1_ii_92c4f23619DynamicStitchKernelIiEEviiNS_20GpuDeviceArrayStructIiLi8EEENS2_IPKT_Li8EEEPS4_*28‡!@‡!H‡!b/gradient_tape/binary_crossentropy/DynamicStitchh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡!@‡!H‡!b{gradient_tape/wave__net/functional_1/conv1d_19/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ˆ
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡!@‡!H‡!b\gradient_tape/wave__net/functional_1/gated_activation_unit_12/strided_slice/StridedSliceGradh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡!@‡!H‡!b4wave__net/functional_1/gated_activation_unit_24/Tanhh
+œ
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡!@‡!H‡!b6wave__net/functional_1/gated_activation_unit_2/Sigmoidh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡!@‡!H‡!b!wave__net/functional_1/add_18/addh
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡!@‡!H‡!b$wave__net/functional_1/add_27/add_16h
+‹
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡!@‡!H‡!b#wave__net/functional_1/add_27/add_3h
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡!@‡!H‡!b3wave__net/functional_1/gated_activation_unit_12/mulh
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡!@‡!H‡!b3wave__net/functional_1/gated_activation_unit_26/mulh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡!@‡!H‡!bHgradient_tape/wave__net/functional_1/gated_activation_unit_12/TanhGrad_1h
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡!@‡!H‡!bFgradient_tape/wave__net/functional_1/gated_activation_unit_21/TanhGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡!@‡!H‡!bAddN_11h
+£
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡!@‡!H‡!bAddN_8h
+ı
+ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEKNS_18TensorConversionOpIfKNS9_INS0_13scalar_cmp_opISB_SB_LNS0_14ComparisonNameE5EEESF_KNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opISB_EESF_EEEEEEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡!@‡!H‡!b>gradient_tape/wave__net/functional_1/tf_op_layer_Relu/ReluGradh
+£
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡!@ÄH‡XbHgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropInputh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28ﬂ!@ﬂ!Hﬂ!b$wave__net/functional_1/conv1d_36/Padh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿!@¿!H¿!b'wave__net/functional_1/conv1d_16/conv1dh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿!@¿!H¿!bYwave__net/functional_1/conv1d_19/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿!@¿!H¿!bYwave__net/functional_1/conv1d_56/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+œ
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿!@¿!H¿!b6wave__net/functional_1/gated_activation_unit_7/Sigmoidh
+‹
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿!@¿!H¿!b#wave__net/functional_1/add_27/add_8h
+Å
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿!@¿!H¿!bDgradient_tape/wave__net/functional_1/gated_activation_unit/mul/Mul_1h
+Å
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿!@¿!H¿!bDgradient_tape/wave__net/functional_1/gated_activation_unit_1/mul/Mulh
+Å
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿!@¿!H¿!bDgradient_tape/wave__net/functional_1/gated_activation_unit_8/mul/Mulh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿!@¿!H¿!bAddN_76h
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿!@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropFilterh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿!@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†!@†!H†!b{gradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†!@†!H†!b7wave__net/functional_1/gated_activation_unit_14/Sigmoidh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†!@†!H†!b!wave__net/functional_1/add_13/addh
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†!@†!H†!bGgradient_tape/wave__net/functional_1/gated_activation_unit_13/mul/Mul_1h
+É
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†!@†!H†!bFgradient_tape/wave__net/functional_1/gated_activation_unit_2/mul/Mul_1h
+É
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†!@†!H†!bFgradient_tape/wave__net/functional_1/gated_activation_unit_9/mul/Mul_1h
+Ô
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†!@†!H†!b2wave__net/functional_1/gated_activation_unit_9/mulh
+â
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†!@†!H†!bGgradient_tape/wave__net/functional_1/gated_activation_unit_2/TanhGrad_1h
+
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†!@¿H‡b&wave__net/functional_1/conv1d_2/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä!@Ä!HÄ!b'wave__net/functional_1/conv1d_30/conv1dh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä!@Ä!HÄ!XbIgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropFilterh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä!@Ä!HÄ!b{gradient_tape/wave__net/functional_1/conv1d_28/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä!@Ä!HÄ!b{gradient_tape/wave__net/functional_1/conv1d_55/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Â
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä!@Ä!HÄ!bXwave__net/functional_1/conv1d_1/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä!@Ä!HÄ!bYwave__net/functional_1/conv1d_17/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+ı
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä!@Ä!HÄ!b[gradient_tape/wave__net/functional_1/gated_activation_unit/strided_slice_1/StridedSliceGradh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä!@Ä!HÄ!b7wave__net/functional_1/gated_activation_unit_21/Sigmoidh
+ˇ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä!@Ä!HÄ!bBgradient_tape/wave__net/functional_1/gated_activation_unit/mul/Mulh
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä!@Ä!HÄ!b3wave__net/functional_1/gated_activation_unit_25/mulh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä!@Ä!HÄ!bHgradient_tape/wave__net/functional_1/gated_activation_unit_15/TanhGrad_1h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä!@Ä!HÄ!bAddN_46h
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä!@Ä!HÄ!b$wave__net/functional_1/conv1d_14/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä!@Ä!HÄ!b$wave__net/functional_1/conv1d_26/Padh
+ 
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä!@Ä!HÄ!b:wave__net/functional_1/gated_activation_unit/strided_sliceh
+Œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä!@Ä!HÄ!b>wave__net/functional_1/gated_activation_unit_3/strided_slice_1h
+Ã
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä!@Ä!HÄ!b<wave__net/functional_1/gated_activation_unit_9/strided_sliceh
+}
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä!@ÄHÄb$wave__net/functional_1/conv1d/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä!@†H‡b'wave__net/functional_1/conv1d_16/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä!@ÄHÄb'wave__net/functional_1/conv1d_18/conv1dh
+
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä!@ÄHÄb&wave__net/functional_1/conv1d_8/conv1dh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä!@†H‡XbIgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä!@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ˇ @ˇ Hˇ bzgradient_tape/wave__net/functional_1/conv1d_41/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+o
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28‡ @‡ H‡ b%wave__net/functional_1/conv1d/BiasAddh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡ @‡ H‡ b'wave__net/functional_1/conv1d_14/conv1dh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡ @‡ H‡ bzgradient_tape/wave__net/functional_1/conv1d_33/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡ @‡ H‡ b{gradient_tape/wave__net/functional_1/conv1d_45/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡ @‡ H‡ bYwave__net/functional_1/conv1d_41/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Â
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡ @‡ H‡ bXwave__net/functional_1/conv1d_7/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡ @‡ H‡ b$wave__net/functional_1/add_27/add_17h
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡ @‡ H‡ bGgradient_tape/wave__net/functional_1/gated_activation_unit_19/mul/Mul_1h
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡ @‡ H‡ b3wave__net/functional_1/gated_activation_unit_17/mulh
+â
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡ @‡ H‡ bGgradient_tape/wave__net/functional_1/gated_activation_unit_4/TanhGrad_1h
+ñ
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡ @‡ H‡ bQgradient_tape/wave__net/functional_1/gated_activation_unit_25/Sigmoid/SigmoidGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡ @‡ H‡ bAddN_43h
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡ @‡ H‡ b$wave__net/functional_1/conv1d_12/Padh
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡ @‡ H‡ b6gradient_tape/wave__net/functional_1/conv1d_28/Slice_1h
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡ @‡ H‡ b=wave__net/functional_1/gated_activation_unit_16/strided_sliceh
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡ @‡ H‡ b?wave__net/functional_1/gated_activation_unit_22/strided_slice_1h
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡ @ÄH‡XbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+Ø
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡ @ÄH‡XbIgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropFilterh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡ @†H¿XbJgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropFilterh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿ @¿ H¿ b%Adam/Adam/update_46/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿ @¿ H¿ b%Adam/Adam/update_92/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿ @¿ H¿ b%Adam/Adam/update_94/ResourceApplyAdamh
+°
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿ @¿ H¿ b&wave__net/functional_1/conv1d_1/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿ @¿ H¿ b'wave__net/functional_1/conv1d_18/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿ @¿ H¿ b'wave__net/functional_1/conv1d_38/conv1dh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿ @¿ H¿ XbJgradient_tape/wave__net/functional_1/conv1d_24/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿ @¿ H¿ XbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿ @¿ H¿ bzgradient_tape/wave__net/functional_1/conv1d_25/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿ @¿ H¿ b{gradient_tape/wave__net/functional_1/conv1d_27/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿ @¿ H¿ b{gradient_tape/wave__net/functional_1/conv1d_29/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿ @¿ H¿ b{gradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿ @¿ H¿ b{gradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Â
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿ @¿ H¿ bXwave__net/functional_1/conv1d_9/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿ @¿ H¿ b^gradient_tape/wave__net/functional_1/gated_activation_unit_19/strided_slice_1/StridedSliceGradh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿ @¿ H¿ b4wave__net/functional_1/gated_activation_unit_10/Tanhh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿ @¿ H¿ b6wave__net/functional_1/gated_activation_unit_24/Tanh_1h
+É
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿ @¿ H¿ bFgradient_tape/wave__net/functional_1/gated_activation_unit_4/mul/Mul_1h
+á
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿ @¿ H¿ bEgradient_tape/wave__net/functional_1/gated_activation_unit/TanhGrad_1h
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿ @¿ H¿ b$wave__net/functional_1/conv1d_16/Padh
+ø
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿ @¿ H¿ b#wave__net/functional_1/conv1d_2/Padh
+≈
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿ @¿ H¿ b5gradient_tape/wave__net/functional_1/conv1d_4/Slice_1h
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿ @¿ H¿ b=wave__net/functional_1/gated_activation_unit_15/strided_sliceh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿ @¿ H¿ b\gradient_tape/wave__net/functional_1/gated_activation_unit_22/strided_slice/StridedSliceGradh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿ @ÄH¿XbIgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropInputh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28ø @ø Hø b4wave__net/functional_1/gated_activation_unit_22/Tanhh
+
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28ø @ÄHøb&wave__net/functional_1/conv1d_4/conv1dh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28† @† H† b%Adam/Adam/update_90/ResourceApplyAdamh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28† @† H† XbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28† @† H† b{gradient_tape/wave__net/functional_1/conv1d_21/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28† @† H† b{gradient_tape/wave__net/functional_1/conv1d_37/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28† @† H† bzgradient_tape/wave__net/functional_1/conv1d_39/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+«
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIbLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_21scalar_boolean_and_opEKNS4_INS5_IKbLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28† @ÄH†b
+LogicalAndh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28† @† H† b6wave__net/functional_1/gated_activation_unit_26/Tanh_1h
+œ
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28† @† H† b6wave__net/functional_1/gated_activation_unit_1/Sigmoidh
+œ
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28† @† H† b6wave__net/functional_1/gated_activation_unit_8/Sigmoidh
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28† @† H† bGgradient_tape/wave__net/functional_1/gated_activation_unit_24/mul/Mul_1h
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28† @† H† bEgradient_tape/wave__net/functional_1/gated_activation_unit_25/mul/Mulh
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28† @† H† b3wave__net/functional_1/gated_activation_unit_18/mulh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28† @† H† bFgradient_tape/wave__net/functional_1/gated_activation_unit_26/TanhGradh
+â
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28† @† H† bGgradient_tape/wave__net/functional_1/gated_activation_unit_6/TanhGrad_1h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28† @† H† bAddN_17h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28† @† H† bAddN_59h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28† @† H† bAddN_77h
+ø
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28† @† H† b#wave__net/functional_1/conv1d_4/Padh
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28† @† H† b6gradient_tape/wave__net/functional_1/conv1d_46/Slice_1h
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28† @† H† b?wave__net/functional_1/gated_activation_unit_14/strided_slice_1h
+Ã
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28† @† H† b<wave__net/functional_1/gated_activation_unit_3/strided_sliceh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28† @† H† b^gradient_tape/wave__net/functional_1/gated_activation_unit_18/strided_slice_1/StridedSliceGradh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28† @ÄH†XbJgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilterh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28ü @ü Hü b6wave__net/functional_1/gated_activation_unit_17/Tanh_1h
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28ü @ÄHüXbIgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropInputh
+ü
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28Ä @Ä HÄ XbHgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropInputh
+†
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28Ä @ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropFilterh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä @Ä HÄ b(wave__net/functional_1/conv1d_17/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä @Ä HÄ b(wave__net/functional_1/conv1d_19/BiasAddh
+q
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_3/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä @Ä HÄ b(wave__net/functional_1/conv1d_35/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä @Ä HÄ b(wave__net/functional_1/conv1d_49/BiasAddh
+q
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_5/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä @Ä HÄ b(wave__net/functional_1/conv1d_51/BiasAddh
+q
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_9/BiasAddh
+å
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b$Adam/Adam/update_1/ResourceApplyAdamh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b&Adam/Adam/update_102/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_12/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_17/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_18/ResourceApplyAdamh
+å
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b$Adam/Adam/update_2/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_20/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_32/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_37/ResourceApplyAdamh
+å
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b$Adam/Adam/update_4/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_41/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_42/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_52/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_57/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_58/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_61/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_62/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_63/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_66/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_70/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_73/ResourceApplyAdamh
+å
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b$Adam/Adam/update_8/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_81/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_89/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä @Ä HÄ b%Adam/Adam/update_96/ResourceApplyAdamh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_10/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_12/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_13/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_22/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_25/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_32/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_35/conv1dh
+°
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b&wave__net/functional_1/conv1d_4/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_42/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_44/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_46/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b'wave__net/functional_1/conv1d_49/conv1dh
+°
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b&wave__net/functional_1/conv1d_6/conv1dh
+°
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b&wave__net/functional_1/conv1d_9/conv1dh
+≈
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbHgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_10/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbJgradient_tape/wave__net/functional_1/conv1d_12/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_12/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_14/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbJgradient_tape/wave__net/functional_1/conv1d_18/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_18/conv1d/Conv2DBackpropInputh
+≈
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbHgradient_tape/wave__net/functional_1/conv1d_2/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbJgradient_tape/wave__net/functional_1/conv1d_20/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_20/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_22/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_23/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbJgradient_tape/wave__net/functional_1/conv1d_32/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_34/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbJgradient_tape/wave__net/functional_1/conv1d_36/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_36/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbJgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbJgradient_tape/wave__net/functional_1/conv1d_47/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbJgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbJgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbIgradient_tape/wave__net/functional_1/conv1d_53/conv1d/Conv2DBackpropInputh
+≈
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ XbHgradient_tape/wave__net/functional_1/conv1d_6/conv1d/Conv2DBackpropInputh
+ı
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIjLi0ELi2ELi1ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_14/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b{gradient_tape/wave__net/functional_1/conv1d_10/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_11/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_13/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_21/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_23/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_24/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b{gradient_tape/wave__net/functional_1/conv1d_24/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b{gradient_tape/wave__net/functional_1/conv1d_25/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_27/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_3/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ö
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bxgradient_tape/wave__net/functional_1/conv1d_3/conv1d/Conv2DBackpropInput-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_31/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b{gradient_tape/wave__net/functional_1/conv1d_31/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_35/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b{gradient_tape/wave__net/functional_1/conv1d_35/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_37/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_37/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bygradient_tape/wave__net/functional_1/conv1d_4/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_43/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_43/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b{gradient_tape/wave__net/functional_1/conv1d_43/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_45/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b{gradient_tape/wave__net/functional_1/conv1d_47/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_49/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_5/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b{gradient_tape/wave__net/functional_1/conv1d_51/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ b{gradient_tape/wave__net/functional_1/conv1d_53/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_55/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_6/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bygradient_tape/wave__net/functional_1/conv1d_8/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bzgradient_tape/wave__net/functional_1/conv1d_8/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bYwave__net/functional_1/conv1d_23/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bYwave__net/functional_1/conv1d_25/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bYwave__net/functional_1/conv1d_27/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bYwave__net/functional_1/conv1d_29/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bYwave__net/functional_1/conv1d_37/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bYwave__net/functional_1/conv1d_45/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä @Ä HÄ bYwave__net/functional_1/conv1d_55/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b^gradient_tape/wave__net/functional_1/gated_activation_unit_10/strided_slice_1/StridedSliceGradh
+ı
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b[gradient_tape/wave__net/functional_1/gated_activation_unit_2/strided_slice/StridedSliceGradh
+¯
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b^gradient_tape/wave__net/functional_1/gated_activation_unit_25/strided_slice_1/StridedSliceGradh
+˜
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b]gradient_tape/wave__net/functional_1/gated_activation_unit_5/strided_slice_1/StridedSliceGradh
+˜
+Ä_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_23TensorStridingSlicingOpIKNS_6DSizesIiLi3EEES7_S7_NS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEEEKNS8_INS9_IKfLi3ELi1ExEELi16ESB_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b]gradient_tape/wave__net/functional_1/gated_activation_unit_6/strided_slice_1/StridedSliceGradh
+»
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b3wave__net/functional_1/gated_activation_unit/Tanh_1h
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6wave__net/functional_1/gated_activation_unit_10/Tanh_1h
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b4wave__net/functional_1/gated_activation_unit_11/Tanhh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6wave__net/functional_1/gated_activation_unit_11/Tanh_1h
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b4wave__net/functional_1/gated_activation_unit_13/Tanhh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6wave__net/functional_1/gated_activation_unit_14/Tanh_1h
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b4wave__net/functional_1/gated_activation_unit_15/Tanhh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6wave__net/functional_1/gated_activation_unit_15/Tanh_1h
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6wave__net/functional_1/gated_activation_unit_21/Tanh_1h
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6wave__net/functional_1/gated_activation_unit_23/Tanh_1h
+»
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b3wave__net/functional_1/gated_activation_unit_3/Tanhh
+ 
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b5wave__net/functional_1/gated_activation_unit_3/Tanh_1h
+»
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b3wave__net/functional_1/gated_activation_unit_4/Tanhh
+»
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b3wave__net/functional_1/gated_activation_unit_6/Tanhh
+ 
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b5wave__net/functional_1/gated_activation_unit_6/Tanh_1h
+ 
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b5wave__net/functional_1/gated_activation_unit_9/Tanh_1h
+Õ
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b4wave__net/functional_1/gated_activation_unit/Sigmoidh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b7wave__net/functional_1/gated_activation_unit_10/Sigmoidh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b7wave__net/functional_1/gated_activation_unit_11/Sigmoidh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b7wave__net/functional_1/gated_activation_unit_12/Sigmoidh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b7wave__net/functional_1/gated_activation_unit_13/Sigmoidh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b7wave__net/functional_1/gated_activation_unit_15/Sigmoidh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b7wave__net/functional_1/gated_activation_unit_16/Sigmoidh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b7wave__net/functional_1/gated_activation_unit_18/Sigmoidh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b7wave__net/functional_1/gated_activation_unit_20/Sigmoidh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b7wave__net/functional_1/gated_activation_unit_23/Sigmoidh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b7wave__net/functional_1/gated_activation_unit_26/Sigmoidh
+œ
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6wave__net/functional_1/gated_activation_unit_3/Sigmoidh
+œ
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6wave__net/functional_1/gated_activation_unit_4/Sigmoidh
+œ
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6wave__net/functional_1/gated_activation_unit_6/Sigmoidh
+œ
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6wave__net/functional_1/gated_activation_unit_9/Sigmoidh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b!wave__net/functional_1/add_22/addh
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b!wave__net/functional_1/add_27/addh
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/add_27/add_20h
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/add_27/add_22h
+›
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/add_27/add_23h
+‹
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b#wave__net/functional_1/add_27/add_7h
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bGgradient_tape/wave__net/functional_1/gated_activation_unit_10/mul/Mul_1h
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bGgradient_tape/wave__net/functional_1/gated_activation_unit_11/mul/Mul_1h
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bGgradient_tape/wave__net/functional_1/gated_activation_unit_15/mul/Mul_1h
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bGgradient_tape/wave__net/functional_1/gated_activation_unit_18/mul/Mul_1h
+Ñ
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bGgradient_tape/wave__net/functional_1/gated_activation_unit_22/mul/Mul_1h
+Ç
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bEgradient_tape/wave__net/functional_1/gated_activation_unit_23/mul/Mulh
+Å
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bDgradient_tape/wave__net/functional_1/gated_activation_unit_5/mul/Mulh
+É
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bFgradient_tape/wave__net/functional_1/gated_activation_unit_6/mul/Mul_1h
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b3wave__net/functional_1/gated_activation_unit_13/mulh
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b3wave__net/functional_1/gated_activation_unit_20/mulh
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b3wave__net/functional_1/gated_activation_unit_21/mulh
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b3wave__net/functional_1/gated_activation_unit_23/mulh
+Ô
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b2wave__net/functional_1/gated_activation_unit_6/mulh
+á
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bEgradient_tape/wave__net/functional_1/gated_activation_unit_1/TanhGradh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bHgradient_tape/wave__net/functional_1/gated_activation_unit_10/TanhGrad_1h
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bFgradient_tape/wave__net/functional_1/gated_activation_unit_12/TanhGradh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bFgradient_tape/wave__net/functional_1/gated_activation_unit_13/TanhGradh
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bHgradient_tape/wave__net/functional_1/gated_activation_unit_13/TanhGrad_1h
+ä
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bHgradient_tape/wave__net/functional_1/gated_activation_unit_14/TanhGrad_1h
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bFgradient_tape/wave__net/functional_1/gated_activation_unit_23/TanhGradh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bFgradient_tape/wave__net/functional_1/gated_activation_unit_24/TanhGradh
+á
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bEgradient_tape/wave__net/functional_1/gated_activation_unit_5/TanhGradh
+â
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bGgradient_tape/wave__net/functional_1/gated_activation_unit_7/TanhGrad_1h
+á
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bEgradient_tape/wave__net/functional_1/gated_activation_unit_8/TanhGradh
+ï
+´_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_26scalar_sigmoid_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bPgradient_tape/wave__net/functional_1/gated_activation_unit_1/Sigmoid/SigmoidGradh
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_14h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_28h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_35h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_38h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_40h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_41h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_49h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_52h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_53h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_55h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_56h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_70h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_71h
+§
+É_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EESF_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bAddN_74h
+ï
+˜_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi2ELi1EiEELi16ENS_11MakePointerEEEKNS_20TensorBroadcastingOpIKNS_5arrayIiLy2EEEKNS4_INS5_IKfLi2ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ bTileh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/conv1d_18/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/conv1d_20/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/conv1d_24/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/conv1d_28/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/conv1d_32/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/conv1d_34/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/conv1d_38/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/conv1d_40/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/conv1d_48/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b$wave__net/functional_1/conv1d_52/Padh
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6gradient_tape/wave__net/functional_1/conv1d_12/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6gradient_tape/wave__net/functional_1/conv1d_18/Slice_1h
+≈
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b5gradient_tape/wave__net/functional_1/conv1d_2/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6gradient_tape/wave__net/functional_1/conv1d_20/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6gradient_tape/wave__net/functional_1/conv1d_22/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6gradient_tape/wave__net/functional_1/conv1d_26/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6gradient_tape/wave__net/functional_1/conv1d_30/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6gradient_tape/wave__net/functional_1/conv1d_32/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6gradient_tape/wave__net/functional_1/conv1d_34/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6gradient_tape/wave__net/functional_1/conv1d_38/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6gradient_tape/wave__net/functional_1/conv1d_40/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6gradient_tape/wave__net/functional_1/conv1d_44/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b6gradient_tape/wave__net/functional_1/conv1d_52/Slice_1h
+≈
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b5gradient_tape/wave__net/functional_1/conv1d_6/Slice_1h
+≈
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b5gradient_tape/wave__net/functional_1/conv1d_8/Slice_1h
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b?wave__net/functional_1/gated_activation_unit_13/strided_slice_1h
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b=wave__net/functional_1/gated_activation_unit_14/strided_sliceh
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b?wave__net/functional_1/gated_activation_unit_16/strided_slice_1h
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b?wave__net/functional_1/gated_activation_unit_17/strided_slice_1h
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b=wave__net/functional_1/gated_activation_unit_18/strided_sliceh
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b?wave__net/functional_1/gated_activation_unit_18/strided_slice_1h
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b?wave__net/functional_1/gated_activation_unit_19/strided_slice_1h
+Œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b>wave__net/functional_1/gated_activation_unit_2/strided_slice_1h
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b=wave__net/functional_1/gated_activation_unit_20/strided_sliceh
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b?wave__net/functional_1/gated_activation_unit_20/strided_slice_1h
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b?wave__net/functional_1/gated_activation_unit_21/strided_slice_1h
+Õ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b=wave__net/functional_1/gated_activation_unit_24/strided_sliceh
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b?wave__net/functional_1/gated_activation_unit_24/strided_slice_1h
+Œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b>wave__net/functional_1/gated_activation_unit_4/strided_slice_1h
+Œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b>wave__net/functional_1/gated_activation_unit_5/strided_slice_1h
+Œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b>wave__net/functional_1/gated_activation_unit_6/strided_slice_1h
+Œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b>wave__net/functional_1/gated_activation_unit_7/strided_slice_1h
+Œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä @Ä HÄ b>wave__net/functional_1/gated_activation_unit_8/strided_slice_1h
+÷
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ bYgradient_tape/wave__net/functional_1/gated_activation_unit/strided_slice/StridedSliceGradh
+ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b[gradient_tape/wave__net/functional_1/gated_activation_unit/strided_slice_1/StridedSliceGradh
+⁄
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b]gradient_tape/wave__net/functional_1/gated_activation_unit_1/strided_slice_1/StridedSliceGradh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b^gradient_tape/wave__net/functional_1/gated_activation_unit_10/strided_slice_1/StridedSliceGradh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b^gradient_tape/wave__net/functional_1/gated_activation_unit_13/strided_slice_1/StridedSliceGradh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b^gradient_tape/wave__net/functional_1/gated_activation_unit_15/strided_slice_1/StridedSliceGradh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b\gradient_tape/wave__net/functional_1/gated_activation_unit_16/strided_slice/StridedSliceGradh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b^gradient_tape/wave__net/functional_1/gated_activation_unit_16/strided_slice_1/StridedSliceGradh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b\gradient_tape/wave__net/functional_1/gated_activation_unit_19/strided_slice/StridedSliceGradh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b\gradient_tape/wave__net/functional_1/gated_activation_unit_20/strided_slice/StridedSliceGradh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b\gradient_tape/wave__net/functional_1/gated_activation_unit_21/strided_slice/StridedSliceGradh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b^gradient_tape/wave__net/functional_1/gated_activation_unit_23/strided_slice_1/StridedSliceGradh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b^gradient_tape/wave__net/functional_1/gated_activation_unit_24/strided_slice_1/StridedSliceGradh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b^gradient_tape/wave__net/functional_1/gated_activation_unit_25/strided_slice_1/StridedSliceGradh
+ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b[gradient_tape/wave__net/functional_1/gated_activation_unit_4/strided_slice/StridedSliceGradh
+ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b[gradient_tape/wave__net/functional_1/gated_activation_unit_5/strided_slice/StridedSliceGradh
+⁄
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä @Ä HÄ b]gradient_tape/wave__net/functional_1/gated_activation_unit_7/strided_slice_1/StridedSliceGradh
+
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä @ÄHÄb&wave__net/functional_1/conv1d_1/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä @ÄHÄb'wave__net/functional_1/conv1d_10/conv1dh
+
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä @ÄHÄb&wave__net/functional_1/conv1d_3/conv1dh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä @ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä @ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+´
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä @ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropFilterh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä @ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilterh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä @†H‡XbJgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropFilterh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28ˇ@ˇHˇb%Adam/Adam/update_48/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28ˇ@ˇHˇb%Adam/Adam/update_65/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28ˇ@ˇHˇb%Adam/Adam/update_82/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28ˇ@ˇHˇb%Adam/Adam/update_98/ResourceApplyAdamh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ˇ@ˇHˇb{gradient_tape/wave__net/functional_1/conv1d_39/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Â
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ˇ@ˇHˇbXwave__net/functional_1/conv1d_3/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ˇ@ˇHˇbYwave__net/functional_1/conv1d_51/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28ˇ@ˇHˇb4wave__net/functional_1/gated_activation_unit_25/Tanhh
+ø
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28ˇ@ˇHˇb#wave__net/functional_1/conv1d_6/Padh
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28ˇ@ˇHˇb6gradient_tape/wave__net/functional_1/conv1d_42/Slice_1h
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28ˇ@ˇHˇb6gradient_tape/wave__net/functional_1/conv1d_50/Slice_1h
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b&Adam/Adam/update_106/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_38/ResourceApplyAdamh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡b'wave__net/functional_1/conv1d_24/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡b'wave__net/functional_1/conv1d_52/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡b'wave__net/functional_1/conv1d_56/conv1dh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_10/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_23/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_27/conv1d/Conv2DBackpropFilterh
+Ü
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡bygradient_tape/wave__net/functional_1/conv1d_7/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b4wave__net/functional_1/gated_activation_unit_12/Tanhh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡bFgradient_tape/wave__net/functional_1/gated_activation_unit_19/TanhGradh
+á
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡bEgradient_tape/wave__net/functional_1/gated_activation_unit_3/TanhGradh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b$wave__net/functional_1/conv1d_10/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b$wave__net/functional_1/conv1d_22/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b$wave__net/functional_1/conv1d_42/Padh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b\gradient_tape/wave__net/functional_1/gated_activation_unit_11/strided_slice/StridedSliceGradh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b\gradient_tape/wave__net/functional_1/gated_activation_unit_26/strided_slice/StridedSliceGradh
+ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b[gradient_tape/wave__net/functional_1/gated_activation_unit_3/strided_slice/StridedSliceGradh
+ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b[gradient_tape/wave__net/functional_1/gated_activation_unit_6/strided_slice/StridedSliceGradh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡HÄXbIgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropInputh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡HÄXbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28¿@¿H¿b(wave__net/functional_1/conv1d_11/BiasAddh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿@¿H¿b&Adam/Adam/update_111/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿@¿H¿b%Adam/Adam/update_91/ResourceApplyAdamh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbJgradient_tape/wave__net/functional_1/conv1d_28/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_32/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_4/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbJgradient_tape/wave__net/functional_1/conv1d_45/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbJgradient_tape/wave__net/functional_1/conv1d_55/conv1d/Conv2DBackpropFilterh
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿bYwave__net/functional_1/conv1d_47/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b4wave__net/functional_1/gated_activation_unit_17/Tanhh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b4wave__net/functional_1/gated_activation_unit_18/Tanhh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b4wave__net/functional_1/gated_activation_unit_26/Tanhh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿@¿H¿bFgradient_tape/wave__net/functional_1/gated_activation_unit_15/TanhGradh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿@¿H¿bFgradient_tape/wave__net/functional_1/gated_activation_unit_25/TanhGradh
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b6gradient_tape/wave__net/functional_1/conv1d_48/Slice_1h
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿@¿H¿b^gradient_tape/wave__net/functional_1/gated_activation_unit_20/strided_slice_1/StridedSliceGradh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†@†H†b%Adam/Adam/update_14/ResourceApplyAdamh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†b'wave__net/functional_1/conv1d_34/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†b'wave__net/functional_1/conv1d_48/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†b'wave__net/functional_1/conv1d_54/conv1dh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbJgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbJgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilterh
+Ö
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†bxgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropInput-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†b{gradient_tape/wave__net/functional_1/conv1d_15/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+à
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi256ELi32ELi32ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†b{gradient_tape/wave__net/functional_1/conv1d_17/conv1d/Conv2DBackpropInput-0-0-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+»
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b3wave__net/functional_1/gated_activation_unit_1/Tanhh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b6wave__net/functional_1/gated_activation_unit_13/Tanh_1h
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b4wave__net/functional_1/gated_activation_unit_19/Tanhh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b4wave__net/functional_1/gated_activation_unit_20/Tanhh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†bFgradient_tape/wave__net/functional_1/gated_activation_unit_17/TanhGradh
+Ω
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b!wave__net/functional_1/conv1d/Padh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b$wave__net/functional_1/conv1d_30/Padh
+⁄
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†b]gradient_tape/wave__net/functional_1/gated_activation_unit_5/strided_slice_1/StridedSliceGradh
+û
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28Ä@‡H†XbGgradient_tape/wave__net/functional_1/conv1d/conv1d/Conv2DBackpropFilterh
+†
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropFilterh
+†
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä@ÄHÄb(wave__net/functional_1/conv1d_37/BiasAddh
+å
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb$Adam/Adam/update_6/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb%Adam/Adam/update_79/ResourceApplyAdamh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄb'wave__net/functional_1/conv1d_28/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄb'wave__net/functional_1/conv1d_50/conv1dh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_7/conv1d/Conv2DBackpropFilterh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb6wave__net/functional_1/gated_activation_unit_20/Tanh_1h
+»
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb3wave__net/functional_1/gated_activation_unit_7/Tanhh
+»
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb3wave__net/functional_1/gated_activation_unit_8/Tanhh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbFgradient_tape/wave__net/functional_1/gated_activation_unit_10/TanhGradh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbFgradient_tape/wave__net/functional_1/gated_activation_unit_14/TanhGradh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbFgradient_tape/wave__net/functional_1/gated_activation_unit_20/TanhGradh
+á
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbEgradient_tape/wave__net/functional_1/gated_activation_unit_7/TanhGradh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄb^gradient_tape/wave__net/functional_1/gated_activation_unit_12/strided_slice_1/StridedSliceGradh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄb^gradient_tape/wave__net/functional_1/gated_activation_unit_19/strided_slice_1/StridedSliceGradh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropInputh
+©
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@¿H¿XbGgradient_tape/wave__net/functional_1/conv1d/conv1d/Conv2DBackpropFilterh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropFilterh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28ˇ@ˇHÄXbJgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropFilterh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28‡@†H¿XbJgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropFilterh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28‡@†H¿XbJgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropFilterh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_10/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_15/ResourceApplyAdamh
+«
+l_ZN10tensorflow7functor15CleanupSegmentsIPfS2_N3cub3SumEEEvT_T0_iiiT1_NSt15iterator_traitsIS5_E10value_typeE*28‡@‡H‡bBgradient_tape/wave__net/functional_1/conv1d_56/BiasAdd/BiasAddGradh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_14/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_26/conv1d/Conv2DBackpropFilterh
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b3wave__net/functional_1/gated_activation_unit_19/mulh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡bFgradient_tape/wave__net/functional_1/gated_activation_unit_16/TanhGradh
+Œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b>wave__net/functional_1/gated_activation_unit_1/strided_slice_1h
+⁄
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b]gradient_tape/wave__net/functional_1/gated_activation_unit_6/strided_slice_1/StridedSliceGradh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡HÄXbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡HÄXbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡HÄXbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿@¿H¿b%Adam/Adam/update_77/ResourceApplyAdamh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿b'wave__net/functional_1/conv1d_53/conv1dh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_13/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_28/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_43/conv1d/Conv2DBackpropInputh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b4wave__net/functional_1/gated_activation_unit_16/Tanhh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b6wave__net/functional_1/gated_activation_unit_25/Tanh_1h
+»
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b3wave__net/functional_1/gated_activation_unit_5/Tanhh
+Ô
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿@¿H¿b2wave__net/functional_1/gated_activation_unit_2/mulh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿@¿H¿b\gradient_tape/wave__net/functional_1/gated_activation_unit_12/strided_slice/StridedSliceGradh
+ú
+__Z15im2col4d_kernelIfiEv15im2col4d_params22cudnnConvolutionStruct19cudnnTensor4dStructPKT_PS3_i*28†@†H†b$wave__net/functional_1/conv1d/conv1dh
+†
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropInputh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28†@†H†b(wave__net/functional_1/conv1d_23/BiasAddh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†b'wave__net/functional_1/conv1d_17/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†b'wave__net/functional_1/conv1d_33/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†b'wave__net/functional_1/conv1d_43/conv1dh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b6wave__net/functional_1/gated_activation_unit_22/Tanh_1h
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b7wave__net/functional_1/gated_activation_unit_25/Sigmoidh
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†b3wave__net/functional_1/gated_activation_unit_22/mulh
+á
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†bEgradient_tape/wave__net/functional_1/gated_activation_unit_2/TanhGradh
+¿
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorPaddingOpIKNS_5arrayINS_9IndexPairIiEELy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b$wave__net/functional_1/conv1d_44/Padh
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b?wave__net/functional_1/gated_activation_unit_25/strided_slice_1h
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b?wave__net/functional_1/gated_activation_unit_26/strided_slice_1h
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†b\gradient_tape/wave__net/functional_1/gated_activation_unit_23/strided_slice/StridedSliceGradh
+⁄
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†b]gradient_tape/wave__net/functional_1/gated_activation_unit_4/strided_slice_1/StridedSliceGradh
+≈
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28ü@üHüXbHgradient_tape/wave__net/functional_1/conv1d_5/conv1d/Conv2DBackpropInputh
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28ü@üHüb?wave__net/functional_1/gated_activation_unit_10/strided_slice_1h
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄb'wave__net/functional_1/conv1d_31/conv1dh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_11/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_30/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_30/conv1d/Conv2DBackpropInputh
+Ö
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbCgradient_tape/wave__net/functional_1/gated_activation_unit/TanhGradh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄb\gradient_tape/wave__net/functional_1/gated_activation_unit_10/strided_slice/StridedSliceGradh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄb^gradient_tape/wave__net/functional_1/gated_activation_unit_21/strided_slice_1/StridedSliceGradh
+•
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbHgradient_tape/wave__net/functional_1/conv1d_1/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@‡H†XbIgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropInputh
+å
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28ˇ@ˇHˇb$Adam/Adam/update_5/ResourceApplyAdamh
+†
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropInputh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28‡@‡H‡b(wave__net/functional_1/conv1d_13/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28‡@‡H‡b(wave__net/functional_1/conv1d_21/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28‡@‡H‡b(wave__net/functional_1/conv1d_39/BiasAddh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b&Adam/Adam/update_109/ResourceApplyAdamh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b&Adam/Adam/update_114/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_21/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_29/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_30/ResourceApplyAdamh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡b'wave__net/functional_1/conv1d_20/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡b'wave__net/functional_1/conv1d_40/conv1dh
+°
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡b&wave__net/functional_1/conv1d_8/conv1dh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_17/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_19/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_26/conv1d/Conv2DBackpropInputh
+≈
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbHgradient_tape/wave__net/functional_1/conv1d_4/conv1d/Conv2DBackpropInputh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b6wave__net/functional_1/gated_activation_unit_12/Tanh_1h
+»
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b3wave__net/functional_1/gated_activation_unit_9/Tanhh
+á
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡bEgradient_tape/wave__net/functional_1/gated_activation_unit_4/TanhGradh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b\gradient_tape/wave__net/functional_1/gated_activation_unit_13/strided_slice/StridedSliceGradh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡HÄXbIgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡HÄXbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿@¿H¿b%Adam/Adam/update_13/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿@¿H¿b%Adam/Adam/update_67/ResourceApplyAdamh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_47/conv1d/Conv2DBackpropInputh
+»
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b3wave__net/functional_1/gated_activation_unit_2/Tanhh
+ 
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b5wave__net/functional_1/gated_activation_unit_7/Tanh_1h
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b?wave__net/functional_1/gated_activation_unit_23/strided_slice_1h
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28ø@øHøb%Adam/Adam/update_35/ResourceApplyAdamh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_24/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+À
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b6wave__net/functional_1/gated_activation_unit_19/Tanh_1h
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†b^gradient_tape/wave__net/functional_1/gated_activation_unit_11/strided_slice_1/StridedSliceGradh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†b\gradient_tape/wave__net/functional_1/gated_activation_unit_18/strided_slice/StridedSliceGradh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä@ÄHÄb(wave__net/functional_1/conv1d_29/BiasAddh
+q
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä@ÄHÄb'wave__net/functional_1/conv1d_7/BiasAddh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb%Adam/Adam/update_19/ResourceApplyAdamh
+≈
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbHgradient_tape/wave__net/functional_1/conv1d_3/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_33/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_34/conv1d/Conv2DBackpropFilterh
+ 
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb5wave__net/functional_1/gated_activation_unit_4/Tanh_1h
+ 
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb5wave__net/functional_1/gated_activation_unit_5/Tanh_1h
+√
+•_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS9_ISB_KNS9_INSA_IKfSC_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EESG_EESG_EESG_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbAddNh
+⁄
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄb]gradient_tape/wave__net/functional_1/gated_activation_unit_9/strided_slice_1/StridedSliceGradh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28ˇ@ˇHˇb(wave__net/functional_1/conv1d_15/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28‡@‡H‡b(wave__net/functional_1/conv1d_41/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28‡@‡H‡b(wave__net/functional_1/conv1d_53/BiasAddh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_23/ResourceApplyAdamh
+å
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b$Adam/Adam/update_3/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_39/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_54/ResourceApplyAdamh
+—
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*28‡@‡H‡bbinary_crossentropy/Meanh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡b'wave__net/functional_1/conv1d_45/conv1dh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_22/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_44/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilterh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b4wave__net/functional_1/gated_activation_unit_23/Tanhh
+⁄
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b]gradient_tape/wave__net/functional_1/gated_activation_unit_3/strided_slice_1/StridedSliceGradh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28ﬂ@ﬂHﬂb&Adam/Adam/update_110/ResourceApplyAdamh
+†
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_42/conv1d/Conv2DBackpropInputh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28¿@¿H¿b(wave__net/functional_1/conv1d_25/BiasAddh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿@¿H¿b%Adam/Adam/update_33/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿@¿H¿b%Adam/Adam/update_59/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿@¿H¿b%Adam/Adam/update_99/ResourceApplyAdamh
+≈
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbHgradient_tape/wave__net/functional_1/conv1d_9/conv1d/Conv2DBackpropInputh
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b?wave__net/functional_1/gated_activation_unit_11/strided_slice_1h
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿@¿H¿b^gradient_tape/wave__net/functional_1/gated_activation_unit_17/strided_slice_1/StridedSliceGradh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28ø@øHøXbIgradient_tape/wave__net/functional_1/conv1d_2/conv1d/Conv2DBackpropFilterh
+†
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_38/conv1d/Conv2DBackpropInputh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†@†H†b%Adam/Adam/update_95/ResourceApplyAdamh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropInputh
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b6gradient_tape/wave__net/functional_1/conv1d_10/Slice_1h
+q
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä@ÄHÄb'wave__net/functional_1/conv1d_1/BiasAddh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä@ÄHÄb(wave__net/functional_1/conv1d_57/BiasAddh
+ä
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb"Adam/Adam/update/ResourceApplyAdamh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb&Adam/Adam/update_105/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb%Adam/Adam/update_83/ResourceApplyAdamh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄb'wave__net/functional_1/conv1d_23/conv1dh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_27/conv1d/Conv2DBackpropInputh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b&Adam/Adam/update_107/ResourceApplyAdamh
+ 
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b5wave__net/functional_1/gated_activation_unit_1/Tanh_1h
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b\gradient_tape/wave__net/functional_1/gated_activation_unit_24/strided_slice/StridedSliceGradh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28¿@¿H¿b(wave__net/functional_1/conv1d_47/BiasAddh
+°
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿b&wave__net/functional_1/conv1d_7/conv1dh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbJgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropFilterh
+ 
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b5wave__net/functional_1/gated_activation_unit_8/Tanh_1h
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28†@†H†b(wave__net/functional_1/conv1d_33/BiasAddh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†@†H†b%Adam/Adam/update_85/ResourceApplyAdamh
+ü
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†b$wave__net/functional_1/conv1d/conv1dh
+˝
+æ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_max_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opISB_EESF_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†b%wave__net/functional_1/conv1d_56/Reluh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb&Adam/Adam/update_101/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb%Adam/Adam/update_51/ResourceApplyAdamh
+π
+˙_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_13scalar_exp_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb%binary_crossentropy/logistic_loss/Exph
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_69/ResourceApplyAdamh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡b'wave__net/functional_1/conv1d_27/conv1dh
+æ
+˜_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi2ELi1EiEELi16ENS_11MakePointerEEEKNS_20TensorBroadcastingOpIKNS_5arrayIiLy2EEEKNS4_INS5_IKfLi2ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b-gradient_tape/binary_crossentropy/BroadcastToh
+⁄
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b]gradient_tape/wave__net/functional_1/gated_activation_unit_8/strided_slice_1/StridedSliceGradh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿@¿H¿b%Adam/Adam/update_93/ResourceApplyAdamh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_8/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_39/conv1d/Conv2DBackpropInputh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†XbJgradient_tape/wave__net/functional_1/conv1d_14/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_41/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_49/conv1d/Conv2DBackpropFilterh
+†
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_15/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_29/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_55/conv1d/Conv2DBackpropInputh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿@¿H¿b%Adam/Adam/update_43/ResourceApplyAdamh
+°
+q_ZN10tensorflow7functor17BlockReduceKernelIPbS2_Li256ENS0_3AndEEEvT_T0_iT2_NSt15iterator_traitsIS4_E10value_typeE*28¿@¿H¿bassert_less_equal_1/Allh
+°
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿b&wave__net/functional_1/conv1d_3/conv1dh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_35/conv1d/Conv2DBackpropInputh
+’
+z_ZN10tensorflow7functor30ColumnReduceMax16ColumnsKernelIPKfPfN3cub3SumEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE*28¿@¿H¿bBgradient_tape/wave__net/functional_1/conv1d_57/BiasAdd/BiasAddGradh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_3/conv1d/Conv2DBackpropFilterh
+
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†b3gradient_tape/binary_crossentropy/logistic_loss/mulh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_25/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_33/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_45/conv1d/Conv2DBackpropInputh
+í
+t_ZN10tensorflow7functor17BlockReduceKernelIPfS2_Li256ENS0_3SumIfEEEEvT_T0_iT2_NSt15iterator_traitsIS5_E10value_typeE*28‡@‡H‡bSum_6h
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡b'wave__net/functional_1/conv1d_51/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿b'wave__net/functional_1/conv1d_47/conv1dh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbJgradient_tape/wave__net/functional_1/conv1d_43/conv1d/Conv2DBackpropFilterh
+¡
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b(wave__net/functional_1/conv1d_57/Sigmoidh
+Ñ
+‰_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_18TensorConversionOpIfKNS4_INS5_IKbLi1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†bCast_2h
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb%Adam/Adam/update_45/ResourceApplyAdamh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_13/conv1d/Conv2DBackpropFilterh
+»
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_14TensorSelectOpIKNS4_INS5_IKbLi1ELi1EiEELi16ES7_EEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EESH_EEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb*binary_crossentropy/logistic_loss/Select_1h
+¬
+û_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13div_no_nan_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄb
+div_no_nanh
+à
+®_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_23scalar_tanh_gradient_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbFgradient_tape/wave__net/functional_1/gated_activation_unit_18/TanhGradh
+ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄb[gradient_tape/wave__net/functional_1/gated_activation_unit_9/strided_slice/StridedSliceGradh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_45/conv1d/Conv2DBackpropInputh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@‡H†XbJgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropFilterh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilterh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28‡@‡H‡b(wave__net/functional_1/conv1d_27/BiasAddh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡b'wave__net/functional_1/conv1d_19/conv1dh
+∆
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b1wave__net/functional_1/gated_activation_unit/Tanhh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b4wave__net/functional_1/gated_activation_unit_14/Tanhh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿@¿H¿b%Adam/Adam/update_71/ResourceApplyAdamh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿b'wave__net/functional_1/conv1d_21/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿b'wave__net/functional_1/conv1d_37/conv1dh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_logistic_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b7wave__net/functional_1/gated_activation_unit_24/Sigmoidh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†@†H†b%Adam/Adam/update_34/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†@†H†b%Adam/Adam/update_50/ResourceApplyAdamh
+∆
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b6gradient_tape/wave__net/functional_1/conv1d_16/Slice_1h
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄb'wave__net/functional_1/conv1d_11/conv1dh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄb'wave__net/functional_1/conv1d_39/conv1dh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28ˇ@ˇHˇXbIgradient_tape/wave__net/functional_1/conv1d_15/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_16/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_51/conv1d/Conv2DBackpropInputh
+…
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b4wave__net/functional_1/gated_activation_unit_21/Tanhh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@¿H†XbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28¿@¿H¿b(wave__net/functional_1/conv1d_56/BiasAddh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28¿@¿H¿b%Adam/Adam/update_75/ResourceApplyAdamh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+Ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28¿@¿H¿b\gradient_tape/wave__net/functional_1/gated_activation_unit_25/strided_slice/StridedSliceGradh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28†@†H†b(wave__net/functional_1/conv1d_45/BiasAddh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†@†H†b%Adam/Adam/update_53/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†@†H†b%Adam/Adam/update_87/ResourceApplyAdamh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†b'wave__net/functional_1/conv1d_41/conv1dh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbJgradient_tape/wave__net/functional_1/conv1d_16/conv1d/Conv2DBackpropFilterh
+≈
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbHgradient_tape/wave__net/functional_1/conv1d_7/conv1d/Conv2DBackpropInputh
+œ
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b?wave__net/functional_1/gated_activation_unit_12/strided_slice_1h
+Ê
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi3ELi128ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28ü@üHübYwave__net/functional_1/conv1d_57/conv1d-0-1-TransposeNCHWToNHWC-LayoutOptimizer:Transposeh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_19/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_21/conv1d/Conv2DBackpropFilterh
+á
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi3ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄbzgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropFilter-2-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+Ã
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb<wave__net/functional_1/gated_activation_unit/strided_slice_1h
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_31/ResourceApplyAdamh
+€
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b^gradient_tape/wave__net/functional_1/gated_activation_unit_26/strided_slice_1/StridedSliceGradh
+†
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_11/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbJgradient_tape/wave__net/functional_1/conv1d_29/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbJgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropFilterh
+Ñ
+æ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_max_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opISB_EESF_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿@¿H¿b,wave__net/functional_1/tf_op_layer_Relu/Reluh
+ﬁ
+õ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_12scalar_rightIffNS0_18scalar_quotient_opIffEELb0EEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b)gradient_tape/binary_crossentropy/truedivh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28Ä@ÄHÄb(wave__net/functional_1/conv1d_31/BiasAddh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb%Adam/Adam/update_11/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb%Adam/Adam/update_25/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb%Adam/Adam/update_49/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb%Adam/Adam/update_97/ResourceApplyAdamh
+≤
+t_ZN10tensorflow7functor17BlockReduceKernelIPfS2_Li256ENS0_3SumIfEEEEvT_T0_iT2_NSt15iterator_traitsIS5_E10value_typeE*28Ä@ÄHÄb%binary_crossentropy/weighted_loss/Sumh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_6/conv1d/Conv2DBackpropFilterh
+«
+˜_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi2ELi1EiEELi16ENS_11MakePointerEEEKNS_20TensorBroadcastingOpIKNS_5arrayIiLy2EEEKNS4_INS5_IKfLi2ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb6gradient_tape/binary_crossentropy/weighted_loss/Tile_1h
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_17/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_31/conv1d/Conv2DBackpropInputh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_35/conv1d/Conv2DBackpropFilterh
+Ñ
+t_ZN10tensorflow7functor37SwapDimension1And2InTensor3UsingTilesIjLi128ELi128ELi2ELb0EEEvPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡bwgradient_tape/wave__net/functional_1/conv1d/conv1d/Conv2DBackpropFilter-0-TransposeNHWCToNCHW-LayoutOptimizer:Transposeh
+ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b[gradient_tape/wave__net/functional_1/gated_activation_unit_8/strided_slice/StridedSliceGradh
+å
+n_ZN10tensorflow7functor15CleanupSegmentsIPfS2_NS0_3SumIfEEEEvT_T0_iiiT1_NSt15iterator_traitsIS5_E10value_typeE*28¿@¿H¿bSum_6h
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbJgradient_tape/wave__net/functional_1/conv1d_31/conv1d/Conv2DBackpropFilterh
+Â
+¶_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_20scalar_difference_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿@¿H¿b%binary_crossentropy/logistic_loss/subh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28†@†H†b&Adam/Adam/update_103/ResourceApplyAdamh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†b'wave__net/functional_1/conv1d_15/conv1dh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbJgradient_tape/wave__net/functional_1/conv1d_39/conv1d/Conv2DBackpropFilterh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbJgradient_tape/wave__net/functional_1/conv1d_41/conv1d/Conv2DBackpropFilterh
+ 
+˚_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_14scalar_tanh_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28†@†H†b5wave__net/functional_1/gated_activation_unit_2/Tanh_1h
+ÿ
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†b[gradient_tape/wave__net/functional_1/gated_activation_unit_1/strided_slice/StridedSliceGradh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb&Adam/Adam/update_115/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb%Adam/Adam/update_55/ResourceApplyAdamh
+r
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*28ˇ@ˇHˇb(wave__net/functional_1/conv1d_43/BiasAddh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_37/conv1d/Conv2DBackpropInputh
+‚
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b%binary_crossentropy/logistic_loss/mulh
+Ù
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b7gradient_tape/binary_crossentropy/logistic_loss/mul/Mulh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿b'wave__net/functional_1/conv1d_29/conv1dh
+ƒ
+û_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13div_no_nan_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿@¿H¿bdiv_no_nan_2h
+¯
+û_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13div_no_nan_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿@¿H¿b@gradient_tape/binary_crossentropy/weighted_loss/value/div_no_nanh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbJgradient_tape/wave__net/functional_1/conv1d_56/conv1d/Conv2DBackpropFilterh
+é
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb&Adam/Adam/update_113/ResourceApplyAdamh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb%Adam/Adam/update_74/ResourceApplyAdamh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_49/conv1d/Conv2DBackpropInputh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_27/ResourceApplyAdamh
+å
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b$Adam/Adam/update_9/ResourceApplyAdamh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_9/conv1d/Conv2DBackpropFilterh
+ƒ
+û_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13div_no_nan_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡bdiv_no_nan_1h
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbJgradient_tape/wave__net/functional_1/conv1d_53/conv1d/Conv2DBackpropFilterh
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropInputh
+æ
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_opposite_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b%binary_crossentropy/logistic_loss/Negh
+å
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28Ä@ÄHÄb$Adam/Adam/update_7/ResourceApplyAdamh
+π
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb<gradient_tape/binary_crossentropy/logistic_loss/zeros_like_1h
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_33/conv1dh
+†
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28ˇ@ˇHˇXbIgradient_tape/wave__net/functional_1/conv1d_40/conv1d/Conv2DBackpropInputh
+p
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28‡@‡H‡b'wave__net/functional_1/conv1d_10/conv1dh
+ç
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b*28‡@‡H‡b%Adam/Adam/update_47/ResourceApplyAdamh
+°
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡b&wave__net/functional_1/conv1d_5/conv1dh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_25/conv1d/Conv2DBackpropFilterh
+î
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropInputh
+ƒ
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbGgradient_tape/wave__net/functional_1/conv1d/conv1d/Conv2DBackpropFilterh
+–
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_opposite_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b7gradient_tape/binary_crossentropy/logistic_loss/sub/Negh
+î
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+†
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropInputh
+å
+n_ZN10tensorflow7functor15CleanupSegmentsIPfS2_NS0_3SumIfEEEEvT_T0_iiiT1_NSt15iterator_traitsIS5_E10value_typeE*28†@†H†bSum_3h
+…
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIbLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_21scalar_boolean_and_opEKNS4_INS5_IKbLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†bLogicalAnd_3h
+⁄
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†b!binary_crossentropy/logistic_lossh
+
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†b&wave__net/functional_1/conv1d_7/conv1dh
+£
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†XbHgradient_tape/wave__net/functional_1/conv1d_5/conv1d/Conv2DBackpropInputh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†XbJgradient_tape/wave__net/functional_1/conv1d_16/conv1d/Conv2DBackpropFilterh
+î
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropInputh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄb'wave__net/functional_1/conv1d_55/conv1dh
+±
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbAssignAddVariableOph
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_47/conv1dh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_29/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_33/conv1d/Conv2DBackpropInputh
+p
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28‡@‡H‡b'wave__net/functional_1/conv1d_18/conv1dh
+§
+q_ZN10tensorflow7functor17BlockReduceKernelIPbS2_Li256ENS0_3AndEEEvT_T0_iT2_NSt15iterator_traitsIS4_E10value_typeE*28‡@‡H‡bassert_greater_equal_1/Allh
+í
+t_ZN10tensorflow7functor17BlockReduceKernelIPfS2_Li256ENS0_3SumIfEEEEvT_T0_iT2_NSt15iterator_traitsIS5_E10value_typeE*28‡@‡H‡bSum_3h
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_37/conv1d/Conv2DBackpropFilterh
+Ê
+û_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIbLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13greater_equalIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡b.binary_crossentropy/logistic_loss/GreaterEqualh
+∑
+„_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opIfEEKS8_EEEENS_9GpuDeviceEEEiEEvT_T0_*28‡@‡H‡b:gradient_tape/binary_crossentropy/logistic_loss/zeros_likeh
+ñ
+‰_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_18TensorConversionOpIfKNS4_INS5_IKbLi1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡bbinary_crossentropy/Casth
+â
+‰_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_18TensorConversionOpIfKNS4_INS5_IKxLi1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡bAdam/Cast_1h
+≥
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡bAssignAddVariableOp_1h
+≥
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡bAssignAddVariableOp_2h
+≥
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡bAssignAddVariableOp_3h
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡b'wave__net/functional_1/conv1d_23/conv1dh
+p
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28¿@¿H¿b'wave__net/functional_1/conv1d_12/conv1dh
+p
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28¿@¿H¿b'wave__net/functional_1/conv1d_14/conv1dh
+p
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28¿@¿H¿b'wave__net/functional_1/conv1d_16/conv1dh
+ï
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28¿@¿H¿XbJgradient_tape/wave__net/functional_1/conv1d_48/conv1d/Conv2DBackpropFilterh
+å
+n_ZN10tensorflow7functor15CleanupSegmentsIPfS2_NS0_3SumIfEEEEvT_T0_iiiT1_NSt15iterator_traitsIS5_E10value_typeE*28¿@¿H¿bSum_2h
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_21/conv1d/Conv2DBackpropInputh
+∆
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_14TensorSelectOpIKNS4_INS5_IKbLi1ELi1EiEELi16ES7_EEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EESH_EEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b(binary_crossentropy/logistic_loss/Selecth
+Ω
+¸_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_15scalar_log1p_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28¿@¿H¿b'binary_crossentropy/logistic_loss/Log1ph
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿@¿H¿b'wave__net/functional_1/conv1d_46/conv1dh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_16/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_30/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_41/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_14/conv1d/Conv2DBackpropInputh
+í
+t_ZN10tensorflow7functor17BlockReduceKernelIPfS2_Li256ENS0_3SumIfEEEEvT_T0_iT2_NSt15iterator_traitsIS5_E10value_typeE*28†@†H†bSum_4h
+∆
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_5/conv1d/Conv2DBackpropFilterh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†b'wave__net/functional_1/conv1d_17/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†b'wave__net/functional_1/conv1d_21/conv1dh
+£
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†XbHgradient_tape/wave__net/functional_1/conv1d_9/conv1d/Conv2DBackpropInputh
+ï
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_46/conv1d/Conv2DBackpropFilterh
+ï
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_50/conv1d/Conv2DBackpropFilterh
+ï
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropFilterh
+î
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_52/conv1d/Conv2DBackpropInputh
+ï
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropFilterh
+î
+0_Z21compute_gemm_pointersPP6float2PKS_iS3_iS3_ii*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_54/conv1d/Conv2DBackpropInputh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_18/conv1d/Conv2DBackpropFilterh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_32/conv1d/Conv2DBackpropFilterh
+†
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_57/conv1d/Conv2DBackpropInputh
+û
+k_ZN10tensorflow7functor15CleanupSegmentsIPbS2_NS0_3AndEEEvT_T0_iiiT1_NSt15iterator_traitsIS4_E10value_typeE*28Ä@ÄHÄbassert_greater_equal_1/Allh
+õ
+k_ZN10tensorflow7functor15CleanupSegmentsIPbS2_NS0_3AndEEEvT_T0_iiiT1_NSt15iterator_traitsIS4_E10value_typeE*28Ä@ÄHÄbassert_less_equal_1/Allh
+«
+l_ZN10tensorflow7functor15CleanupSegmentsIPfS2_N3cub3SumEEEvT_T0_iiiT1_NSt15iterator_traitsIS5_E10value_typeE*28Ä@ÄHÄbBgradient_tape/wave__net/functional_1/conv1d_57/BiasAdd/BiasAddGradh
+å
+n_ZN10tensorflow7functor15CleanupSegmentsIPfS2_NS0_3SumIfEEEEvT_T0_iiiT1_NSt15iterator_traitsIS5_E10value_typeE*28Ä@ÄHÄbSum_4h
+í
+t_ZN10tensorflow7functor17BlockReduceKernelIPfS2_Li256ENS0_3SumIfEEEEvT_T0_iT2_NSt15iterator_traitsIS5_E10value_typeE*28Ä@ÄHÄbSum_2h
+í
+u_ZN10tensorflow7functor17BlockReduceKernelIPiS2_Li256ENS0_4ProdIiEEEEvT_T0_iT2_NSt15iterator_traitsIS5_E10value_typeE*28Ä@ÄHÄbProdh
+¢
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄb'wave__net/functional_1/conv1d_57/conv1dh
+«
+b_ZN10tensorflow7functor22ShuffleInTensor3SimpleIfLi2ELi1ELi0ELb0EEEviPKT_NS0_9DimensionILi3EEEPS2_*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_51/conv1d/Conv2DBackpropFilterh
+…
+í_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIbLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_12scalar_rightIbfNS0_10less_equalIfEELb0EEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄbassert_less_equal_1/LessEqualh
+“
+ï_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIbLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_12scalar_rightIbfNS0_13greater_equalIfEELb0EEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb#assert_greater_equal_1/GreaterEqualh
+¶
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIbLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_21scalar_boolean_not_opIbEEKNS4_INS5_IKbLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb
+LogicalNoth
+®
+Ç_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIbLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_21scalar_boolean_not_opIbEEKNS4_INS5_IKbLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄbLogicalNot_1h
+∏
+ó_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIbLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_7greaterIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbGreaterh
+∑
+ò_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIbLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_8equal_toIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbEqualh
+Ñ
+‰_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIbLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_18TensorConversionOpIbKNS4_INS5_IKfLi1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbCast_8h
+‘
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_14TensorSelectOpIKNS4_INS5_IKbLi1ELi1EiEELi16ES7_EEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EESH_EEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb6gradient_tape/binary_crossentropy/logistic_loss/Selecth
+÷
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_14TensorSelectOpIKNS4_INS5_IKbLi1ELi1EiEELi16ES7_EEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EESH_EEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb8gradient_tape/binary_crossentropy/logistic_loss/Select_2h
+÷
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_14TensorSelectOpIKNS4_INS5_IKbLi1ELi1EiEELi16ES7_EEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EESH_EEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb8gradient_tape/binary_crossentropy/logistic_loss/Select_3h
+„
+ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_12scalar_rightIffNS0_13scalar_sum_opIffEELb0EEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb3gradient_tape/binary_crossentropy/logistic_loss/addh
+“
+˛_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_17scalar_inverse_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb:gradient_tape/binary_crossentropy/logistic_loss/Reciprocalh
+Ã
+ˇ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_18TensorCwiseUnaryOpINS0_18scalar_opposite_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*28Ä@ÄHÄb3gradient_tape/binary_crossentropy/logistic_loss/Negh
+ﬂ
+û_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13div_no_nan_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄb'binary_crossentropy/weighted_loss/valueh
+ƒ
+û_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13div_no_nan_opIfEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbdiv_no_nan_3h
+¡
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_pow_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbAdam/Powh
+√
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_pow_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄb
+Adam/Pow_1h
+º
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbaddh
+¿
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbMulh
+Ú
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄb5gradient_tape/binary_crossentropy/logistic_loss/mul_1h
+Ñ
+‰_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_18TensorConversionOpIfKNS4_INS5_IKbLi1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbCast_9h
+±
+‰_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_18TensorConversionOpIfKNS4_INS5_IKiLi1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄb3binary_crossentropy/weighted_loss/num_elements/Casth
+§
+‰_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_18TensorConversionOpIfKNS4_INS5_IKiLi1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄb&gradient_tape/binary_crossentropy/Casth
+≥
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbAssignAddVariableOp_4h
+≥
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbAssignAddVariableOp_5h
+≥
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbAssignAddVariableOp_6h
+≥
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbAssignAddVariableOp_7h
+¡
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIxLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIxxEEKNS4_INS5_IKxLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbAdam/addh
+ª
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIxLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKxSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbAdam/Adam/AssignAddVariableOph
+≥
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIxLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKxSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28Ä@ÄHÄbAssignAddVariableOp_8h
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_11/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_13/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_15/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_19/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_24/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_25/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_29/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_30/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_32/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_35/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_37/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_41/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_42/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_49/conv1dh
+
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb&wave__net/functional_1/conv1d_5/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_55/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_56/conv1dh
+
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb&wave__net/functional_1/conv1d_9/conv1dh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_10/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_11/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_13/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_15/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_18/conv1d/Conv2DBackpropInputh
+£
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbHgradient_tape/wave__net/functional_1/conv1d_2/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_21/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_22/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_23/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_25/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_26/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_27/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_28/conv1d/Conv2DBackpropInputh
+£
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbHgradient_tape/wave__net/functional_1/conv1d_3/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_31/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_34/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_35/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_37/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_39/conv1d/Conv2DBackpropInputh
+£
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbHgradient_tape/wave__net/functional_1/conv1d_4/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_47/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_49/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_51/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_53/conv1d/Conv2DBackpropInputh
+£
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbHgradient_tape/wave__net/functional_1/conv1d_6/conv1d/Conv2DBackpropInputh
+£
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbHgradient_tape/wave__net/functional_1/conv1d_7/conv1d/Conv2DBackpropInputh
+£
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbHgradient_tape/wave__net/functional_1/conv1d_8/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_11/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_13/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_17/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_18/conv1d/Conv2DBackpropInputh
+•
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbHgradient_tape/wave__net/functional_1/conv1d_2/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_21/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_23/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_25/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_26/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_28/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_31/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_39/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_41/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_45/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_47/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_49/conv1d/Conv2DBackpropInputh
+•
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbHgradient_tape/wave__net/functional_1/conv1d_5/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_51/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_53/conv1d/Conv2DBackpropInputh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_14/conv1d/Conv2DBackpropFilterh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_18/conv1d/Conv2DBackpropFilterh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_32/conv1d/Conv2DBackpropFilterh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_34/conv1d/Conv2DBackpropFilterh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_36/conv1d/Conv2DBackpropFilterh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_18/conv1d/Conv2DBackpropFilterh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_32/conv1d/Conv2DBackpropFilterh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_34/conv1d/Conv2DBackpropFilterh
+∞
+K_ZN5cudnn4gemm31computeWgradSplitKOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbJgradient_tape/wave__net/functional_1/conv1d_36/conv1d/Conv2DBackpropFilterh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28ˇ@ˇHˇXbJgradient_tape/wave__net/functional_1/conv1d_36/conv1d/Conv2DBackpropFilterh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28ˇ@ˇHˇXbIgradient_tape/wave__net/functional_1/conv1d_43/conv1d/Conv2DBackpropInputh
+…
+£_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIbLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_21scalar_boolean_and_opEKNS4_INS5_IKbLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡bLogicalAnd_1h
+æ
+ü_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡badd_1h
+Ç
+‰_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_18TensorConversionOpIfKNS4_INS5_IKiLi1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28‡@‡H‡bCasth
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡b'wave__net/functional_1/conv1d_20/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡b'wave__net/functional_1/conv1d_26/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡b'wave__net/functional_1/conv1d_27/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡b'wave__net/functional_1/conv1d_28/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡b'wave__net/functional_1/conv1d_39/conv1dh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_32/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_33/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_36/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_55/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_10/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_16/conv1d/Conv2DBackpropInputh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28¿@¿H¿XbJgradient_tape/wave__net/functional_1/conv1d_34/conv1d/Conv2DBackpropFilterh
+Ö
+‰_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_18TensorConversionOpIfKNS4_INS5_IKbLi1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28¿@¿H¿bCast_17h
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿@¿H¿b'wave__net/functional_1/conv1d_34/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿@¿H¿b'wave__net/functional_1/conv1d_36/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿@¿H¿b'wave__net/functional_1/conv1d_57/conv1dh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_17/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28¿@¿H¿XbIgradient_tape/wave__net/functional_1/conv1d_55/conv1d/Conv2DBackpropInputh
+Ö
+‰_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_18TensorConversionOpIfKNS4_INS5_IKbLi1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†bCast_10h
+Ñ
+‰_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_18TensorConversionOpIfKNS4_INS5_IKiLi1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*28†@†H†bCast_3h
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†b'wave__net/functional_1/conv1d_22/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†b'wave__net/functional_1/conv1d_38/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†b'wave__net/functional_1/conv1d_40/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†b'wave__net/functional_1/conv1d_48/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†b'wave__net/functional_1/conv1d_51/conv1dh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_12/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_14/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_15/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_20/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_29/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_34/conv1d/Conv2DBackpropInputh
+•
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28†@†H†XbHgradient_tape/wave__net/functional_1/conv1d_6/conv1d/Conv2DBackpropInputh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_43/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_50/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄb'wave__net/functional_1/conv1d_53/conv1dh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_19/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_20/conv1d/Conv2DBackpropInputh
+§
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_24/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_35/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_37/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_43/conv1d/Conv2DBackpropInputh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_16/conv1d/Conv2DBackpropFilterh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡b'wave__net/functional_1/conv1d_45/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡b'wave__net/functional_1/conv1d_54/conv1dh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_27/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_30/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_32/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_36/conv1d/Conv2DBackpropInputh
+¨
+G_ZN5cudnn4gemm26computeWgradBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28¿@¿H¿XbJgradient_tape/wave__net/functional_1/conv1d_16/conv1d/Conv2DBackpropFilterh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28†@†H†XbIgradient_tape/wave__net/functional_1/conv1d_24/conv1d/Conv2DBackpropInputh
+•
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28†@†H†XbHgradient_tape/wave__net/functional_1/conv1d_8/conv1d/Conv2DBackpropInputh
+•
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28†@†H†XbHgradient_tape/wave__net/functional_1/conv1d_9/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_12/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbIgradient_tape/wave__net/functional_1/conv1d_22/conv1d/Conv2DBackpropInputh
+•
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbHgradient_tape/wave__net/functional_1/conv1d_3/conv1d/Conv2DBackpropInputh
+•
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28Ä@ÄHÄXbHgradient_tape/wave__net/functional_1/conv1d_4/conv1d/Conv2DBackpropInputh
+¶
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡H‡XbIgradient_tape/wave__net/functional_1/conv1d_19/conv1d/Conv2DBackpropInputh
+°
+<_Z24scalePackedTensor_kernelIffEv19cudnnTensor4dStructPT_T0_*28‡@‡H‡XbJgradient_tape/wave__net/functional_1/conv1d_14/conv1d/Conv2DBackpropFilterh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28‡@‡H‡b'wave__net/functional_1/conv1d_31/conv1dh
+•
+B_ZN5cudnn4gemm21computeBOffsetsKernelENS0_21ComputeBOffsetsParamsE*28‡@‡H‡XbHgradient_tape/wave__net/functional_1/conv1d_7/conv1d/Conv2DBackpropInputh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28¿@¿H¿b'wave__net/functional_1/conv1d_44/conv1dh
+Ä
+@_ZN5cudnn4gemm20computeOffsetsKernelENS0_20ComputeOffsetsParamsE*28†@†H†b'wave__net/functional_1/conv1d_52/conv1dh

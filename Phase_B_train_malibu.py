@@ -21,7 +21,7 @@ from tensorflow.keras.optimizers import Adam, Adadelta, RMSprop
 from tensorflow.keras.models import load_model
 from tensorflow.keras.callbacks import ModelCheckpoint, TensorBoard, EarlyStopping
 
-import Phase_B_model_wave_malibu as wave
+import Phase_B_model_wave_malibu as wave_net
 
 
 
@@ -36,13 +36,27 @@ if __name__ == "__main__":
     # print(data_label.shape)
     # print(data_label[0][:50])
 
-    X = data_sec_data[:, :420, :]
-    y = data_label
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1)
+    tf.random.set_seed(42)
+    data_volume_profile = tf.random.shuffle(data_volume_profile)
+    tf.random.set_seed(42)
+    data_sec_data = data_sec_data[:, :420, :]
+    data_sec_data = tf.random.shuffle(data_sec_data)
+    tf.random.set_seed(42)
+    data_label = data_label[:, :, :2]
+    data_label = tf.random.shuffle(data_label)
 
-    load = False
-    model_path = "./model_B"
-    summary_path = "./summary_B"
+    sample_num = len(data_label)
+    test_size = 0.1
+    train_num = int((1 - test_size) * sample_num)
+
+    X_train_vol, X_train_sec, y_train = data_volume_profile[:train_num], data_sec_data[:train_num], data_label[:train_num]
+    X_test_vol, X_test_sec, y_test = data_volume_profile[train_num:], data_sec_data[train_num:], data_label[train_num:]
+
+    # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1)
+
+    load = True
+    model_path = "./model_B_malibu"
+    summary_path = "./summary_B_malibu"
 
     if not os.path.exists(model_path):
         os.makedirs(model_path)
@@ -54,9 +68,10 @@ if __name__ == "__main__":
     lr = 0.001
 
     if load:
-        model = load_model(model_path + "/model.h5")
+        model = wave_net.model
+        model.load_weights(model_path + "/model.ckpt")
     else:
-        model = wave.WAVE_Net()
+        model = wave_net.model
 
     if optimizer_name == "Adam":
         optimizer = Adam(lr=lr)
@@ -65,21 +80,25 @@ if __name__ == "__main__":
     else:
         optimizer = RMSprop(lr=lr)
 
-    model.compile(loss=tf.keras.losses.BinaryCrossentropy(), optimizer=optimizer, metrics=[tf.keras.metrics.Accuracy(), tf.keras.metrics.Precision(), tf.keras.metrics.Recall()])
+    model.compile(loss=tf.keras.losses.BinaryCrossentropy(),
+                  optimizer=optimizer,
+                  metrics=[tf.keras.metrics.Accuracy(), tf.keras.metrics.Precision(), tf.keras.metrics.Recall()])
 
 
-    checkpoint_cb = ModelCheckpoint(model_path + "/model.h5", save_best_only=True)
+    checkpoint_cb = ModelCheckpoint(model_path + "/model.ckpt", save_weights_only=True, save_best_only=True)
     tensorboard_cb = TensorBoard(summary_path)
+    early_stopping_cb = EarlyStopping(patience=2, restore_best_weights=True)
 
-    history = model.fit(X_train, y_train, validation_split=0.1, epochs=100000,
-                        callbacks=[checkpoint_cb, tensorboard_cb])
+    history = model.fit((X_train_vol, X_train_sec), y_train, validation_split=0.15, epochs=10,
+                        callbacks=[checkpoint_cb, tensorboard_cb, early_stopping_cb])
 
-    cross_entropy = model.evaluate(X_test, y_test)
+    loss, accuracy, precision, recall = model.evaluate((X_test_vol, X_test_sec), y_test)
 
-    model_path_tf = os.path.join(os.getcwd(), 'model_B', 'model')
-    model.save_weights(model_path_tf, save_format="tf")
+    # model_path_tf = os.path.join(os.getcwd(), 'model_B', 'model')
+    # model.save_weights(model_path_tf, save_format="tf")
 
-    print(X_test.shape)
-    print(model.predict(X_test).shape)
-    print(cross_entropy)
+    print(X_test_vol.shape)
+    print(X_test_sec.shape)
+    print(model.predict((X_test_vol, X_test_sec)).shape)
+    print(loss, accuracy, precision, recall)
     model.summary()

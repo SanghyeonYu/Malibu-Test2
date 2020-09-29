@@ -15,13 +15,13 @@ except:
     pass
 
 from tensorflow import keras
-from Phase_B_Data_Loader import *
+from Phase_B_Data_Loader_malibu import *
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.optimizers import Adam, Adadelta, RMSprop
 from tensorflow.keras.models import load_model
 from tensorflow.keras.callbacks import ModelCheckpoint, TensorBoard, EarlyStopping
 
-import Phase_B_model_wave as wave_net
+import Phase_B_bale_model_wave as wave_net
 
 
 

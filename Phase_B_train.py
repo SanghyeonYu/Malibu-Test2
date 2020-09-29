@@ -21,7 +21,7 @@ from tensorflow.keras.optimizers import Adam, Adadelta, RMSprop
 from tensorflow.keras.models import load_model
 from tensorflow.keras.callbacks import ModelCheckpoint, TensorBoard, EarlyStopping
 
-import Phase_B_model_wave as wave
+import Phase_B_model_wave as wave_net
 
 
 
@@ -56,7 +56,7 @@ if __name__ == "__main__":
     if load:
         model = load_model(model_path + "/model.h5")
     else:
-        model = wave.WAVE_Net()
+        model = wave_net.model
 
     if optimizer_name == "Adam":
         optimizer = Adam(lr=lr)

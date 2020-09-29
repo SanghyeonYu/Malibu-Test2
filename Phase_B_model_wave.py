@@ -29,11 +29,30 @@ n_blocks = 3 # 3 in the paper
 n_filters = 64 # 128 in the paper
 n_outputs = 3 # 256 in the paper
 
+n_dense_layers = 3
+
+
+
+
+input_vol = keras.layers.Input(shape=(40, 2))
+print(input_vol)
+vol = keras.layers.Flatten()(input_vol)
+print(vol)
+for i in range(n_dense_layers):
+    vol = keras.layers.Dense(80, activation="relu")(vol)
+vol = keras.layers.Dense(10)(vol)
+print(vol)
+vol_stacked = tf.repeat(tf.expand_dims(vol, axis=1), repeats=420, axis=1)
+print(vol_stacked)
 
 input_sec = keras.layers.Input(shape=(420, 2))
-# print(inputs)
-z = keras.layers.Conv1D(n_filters * 2, kernel_size=2, padding="causal")(input_sec)
-# print(z)
+print(input_sec)
+
+input_concat = tf.concat([input_sec, vol_stacked], axis=-1)
+print(input_concat)
+
+z = keras.layers.Conv1D(n_filters * 2, kernel_size=2, padding="causal")(input_concat)
+print(z)
 z = keras.layers.Conv1D(n_filters, kernel_size=2, padding="causal")(z)
 skip_to_last = []
 for dilation_rate in [2**i for i in range(n_layers_per_block)] * n_blocks:
@@ -42,14 +61,13 @@ for dilation_rate in [2**i for i in range(n_layers_per_block)] * n_blocks:
 z = keras.activations.relu(keras.layers.Add()(skip_to_last))
 z = keras.layers.Conv1D(n_filters, kernel_size=1, activation="relu")(z)
 print(z)
-input_vol = keras.layers.Input(shape=(40, 2))
 
 
-# print(z)
+
 Y_proba = keras.layers.Conv1D(n_outputs, kernel_size=1, activation="sigmoid")(z)
-# print(Y)
+print(Y_proba)
 
-model = keras.models.Model(inputs=[input_sec], outputs=[Y_proba])
+model = keras.models.Model(inputs=[input_vol, input_sec], outputs=[Y_proba])
 
 
 class WAVE_Net(keras.Model):

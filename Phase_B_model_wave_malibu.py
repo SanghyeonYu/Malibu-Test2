@@ -31,10 +31,10 @@ keras.backend.clear_session()
 np.random.seed(42)
 tf.random.set_seed(42)
 
-n_dense_layers = 3
-n_layers_per_block = 9 # 10 in the paper
-n_blocks = 3 # 3 in the paper
-n_filters = 128 # 128 in the paper
+n_dense_layers = 1
+n_layers_per_block = 8 # 10 in the paper
+n_blocks = 1 # 3 in the paper
+n_filters = 8 # 128 in the paper
 n_mc_outputs = 32
 n_outputs = 2 # 256 in the paper
 
@@ -49,7 +49,7 @@ vol = keras.layers.Flatten()(input_vol)
 for i in range(n_dense_layers):
     vol = keras.layers.Dense(80, activation="relu")(vol)
 vol = keras.layers.Dropout(rate=0.3)(vol)
-vol = keras.layers.Dense(10)(vol)
+vol = keras.layers.Dense(2)(vol)
 # print(vol)
 vol_stacked = tf.repeat(tf.expand_dims(vol, axis=1), repeats=420, axis=1)
 # print(vol_stacked)

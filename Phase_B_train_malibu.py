@@ -54,7 +54,7 @@ if __name__ == "__main__":
 
     # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1)
 
-    load = True
+    load = False
     model_path = "./model_B_malibu"
     summary_path = "./summary_B_malibu"
 
@@ -65,7 +65,7 @@ if __name__ == "__main__":
         os.makedirs(summary_path)
 
     optimizer_name = "Adam"
-    lr = 0.001
+    lr = 0.0005
 
     if load:
         model = wave_net.model
@@ -82,14 +82,14 @@ if __name__ == "__main__":
 
     model.compile(loss=tf.keras.losses.BinaryCrossentropy(),
                   optimizer=optimizer,
-                  metrics=[tf.keras.metrics.Accuracy(), tf.keras.metrics.Precision(), tf.keras.metrics.Recall()])
+                  metrics=[tf.keras.metrics.Precision(), tf.keras.metrics.Recall(), tf.keras.metrics.Accuracy()])
 
 
     checkpoint_cb = ModelCheckpoint(model_path + "/model.ckpt", save_weights_only=True, save_best_only=True)
     tensorboard_cb = TensorBoard(summary_path)
-    early_stopping_cb = EarlyStopping(patience=2, restore_best_weights=True)
+    early_stopping_cb = EarlyStopping(patience=900000, restore_best_weights=True)
 
-    history = model.fit((X_train_vol, X_train_sec), y_train, validation_split=0.15, epochs=10,
+    history = model.fit((X_train_vol, X_train_sec), y_train, validation_split=0.15, epochs=1000000,
                         callbacks=[checkpoint_cb, tensorboard_cb, early_stopping_cb])
 
     loss, accuracy, precision, recall = model.evaluate((X_test_vol, X_test_sec), y_test)
@@ -101,4 +101,4 @@ if __name__ == "__main__":
     print(X_test_sec.shape)
     print(model.predict((X_test_vol, X_test_sec)).shape)
     print(loss, accuracy, precision, recall)
-    model.summary()
+    # model.summary()
